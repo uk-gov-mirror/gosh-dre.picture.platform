@@ -1,0 +1,17 @@
+---
+title: "{{title}}"
+output: html_fragment
+---
+
+## Overview
+This analytics module does [COMPLETE HERE]
+
+## Method
+[COMPLETE HERE]
+
+## Considerations and Limitations
+* [COMPLETE HERE]
+* [COMPLETE HERE]
+
+## Example
+[COMPLETE HERE]

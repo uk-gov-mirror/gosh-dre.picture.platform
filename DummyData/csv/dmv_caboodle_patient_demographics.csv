@@ -1,0 +1,201 @@
+project_id,hospital_no,surname,forename,birth_date,death_date,deceased_flag,sex_nat_code,sex_name,ethnicity_nat_code,ethnicity_local_code,ethnicity_name
+DM-000001,50000001,Chuzzlewit,Kate,2013-12-09,2022-07-27,Y,2,Female,A,A,White British
+DM-000002,50000002,Peggotty,Lucy,2006-06-16,,N,2,Female,P,P,Other Black Background
+DM-000003,50000003,Simpson,Bill,2018-03-30,,N,1,Male,K,K,Asian Bangladeshi
+DM-000004,50000004,Skimpole,Barney,2011-04-22,2022-11-21,Y,1,Male,S,S,Other Ethnic Group
+DM-000005,50000005,Chuzzlewit,Linus,2019-05-11,,N,1,Male,A,A,White British
+DM-000006,50000006,Rubble,Brian,2017-02-17,,N,1,Male,C,C,Other White Background
+DM-000007,50000007,Cratchit,Bam bam,2021-07-29,,N,2,Female,A,A,White British
+DM-000008,50000008,Rubble,Oliver,2009-02-19,,N,1,Male,C,C,Other White Background
+DM-000009,50000009,Dedlock,Isabella,2006-02-06,,N,2,Female,Z,Z,Prefer Not To Say
+DM-000010,50000010,Griffin,Lil,2010-08-09,,N,2,Female,S,S,Other Ethnic Group
+DM-000011,50000011,Dodger,Estella,2021-02-12,,N,2,Female,A,A,White British
+DM-000012,50000012,Duck,Marge,2009-03-06,,N,2,Female,A,A,White British
+DM-000013,50000013,Jeddler,Phil,2020-10-24,,N,1,Male,S,S,Other Ethnic Group
+DM-000014,50000014,Daffy,Micky,2015-02-22,,N,1,Male,A,A,White British
+DM-000015,50000015,Flintstone,Harold,2018-04-11,,N,1,Male,S,S,Other Ethnic Group
+DM-000016,50000016,Scrooge,Bugs,2009-03-15,,N,1,Male,Z,Z,Prefer Not To Say
+DM-000017,50000017,Jeddler,Minnie,2012-02-27,,N,2,Female,D,D,Mixed White and Black Caribbean
+DM-000018,50000018,Griffin,Lil,2012-06-19,,N,2,Female,P,P,Other Black Background
+DM-000019,50000019,Reichardt,Bill,2014-04-04,,N,1,Male,A,A,White British
+DM-000020,50000020,Quilp,Estella,2007-06-29,,N,2,Female,J,J,Asian Pakistani
+DM-000021,50000021,Wardle,Micky,2007-11-13,,N,1,Male,N,N,Black African
+DM-000022,50000022,Brown,Lil,2005-05-26,,N,2,Female,S,S,Other Ethnic Group
+DM-000023,50000023,Rubble,Daisy,2016-07-22,,N,2,Female,A,A,White British
+DM-000024,50000024,Nickleby,Emily,2009-06-22,,N,2,Female,J,J,Asian Pakistani
+DM-000025,50000025,Stoppable,Minnie,2020-09-24,,N,2,Female,E,E,Mixed White and Black African
+DM-000026,50000026,Swidger,Grace,2020-10-06,,N,2,Female,A,A,White British
+DM-000027,50000027,Nickleby,Bugs,2014-04-10,,N,1,Male,A,A,White British
+DM-000028,50000028,Havisham,Bart,2019-09-20,,N,1,Male,H,H,Asian Indian
+DM-000029,50000029,Rugrat,Milly,2010-11-22,,N,2,Female,S,S,Other Ethnic Group
+DM-000030,50000030,Quilp,Isabella,2002-04-03,,N,2,Female,C,C,Other White Background
+DM-000031,50000031,Flintstone,Daisy,2005-09-18,,N,2,Female,A,A,White British
+DM-000032,50000032,Copperfield,Minnie,2010-11-17,,N,2,Female,A,A,White British
+DM-000033,50000033,Peggotty,Betty,2005-07-21,,N,2,Female,S,S,Other Ethnic Group
+DM-000034,50000034,Duck,Tiny Tim,2020-04-26,,N,1,Male,K,K,Asian Bangladeshi
+DM-000035,50000035,Skimpole,Wilma,2011-09-07,,N,2,Female,A,A,White British
+DM-000036,50000036,Dorrit,Jeremiah,2018-06-25,,N,1,Male,N,N,Black African
+DM-000037,50000037,Chuzzlewit,Anthony,2015-10-04,,N,1,Male,Z,Z,Prefer Not To Say
+DM-000038,50000038,Sikes,Kim,2020-08-31,,N,2,Female,L,L,Other Asian Background
+DM-000039,50000039,Chuzzlewit,Ron,2010-02-13,,N,1,Male,J,J,Asian Pakistani
+DM-000040,50000040,Van Pelt,Hommer,2021-06-20,,N,1,Male,P,P,Other Black Background
+DM-000041,50000041,Dedlock,Tip,2006-02-22,,N,1,Male,A,A,White British
+DM-000042,50000042,Griffin,Lil,2011-06-04,,N,2,Female,N,N,Black African
+DM-000043,50000043,Peggotty,Brian,2006-11-23,,N,1,Male,H,H,Asian Indian
+DM-000044,50000044,Chuzzlewit,Bob,2008-08-23,,N,1,Male,J,J,Asian Pakistani
+DM-000045,50000045,Sikes,Amy,2005-08-26,,N,2,Female,D,D,Mixed White and Black Caribbean
+DM-000046,50000046,Stoppable,Tip,2012-09-19,,N,1,Male,G,G,Other Mixed Background
+DM-000047,50000047,Daffy,Harold,2004-04-11,,N,1,Male,A,A,White British
+DM-000048,50000048,Nickleby,Lois,2004-11-10,,N,2,Female,H,H,Asian Indian
+DM-000049,50000049,Havisham,Frederick,2007-04-28,,N,1,Male,L,L,Other Asian Background
+DM-000050,50000050,Sikes,Lucy,2009-08-30,,N,2,Female,A,A,White British
+DM-000051,50000051,Dodger,Peter,2009-02-16,,N,1,Male,A,A,White British
+DM-000052,50000052,Bunny,Donald,2020-09-24,,N,1,Male,A,A,White British
+DM-000053,50000053,Stoppable,Arthur,2012-05-07,,N,1,Male,N,N,Black African
+DM-000054,50000054,Flintstone,Ron,2020-03-28,,N,1,Male,P,P,Other Black Background
+DM-000055,50000055,Stoppable,Wilma,2022-03-16,,N,2,Female,A,A,White British
+DM-000056,50000056,Duck,Linus,2015-05-27,2021-11-07,Y,1,Male,J,J,Asian Pakistani
+DM-000057,50000057,Daffy,Patty,2010-01-02,,N,2,Female,A,A,White British
+DM-000058,50000058,Mouse,Bam bam,2013-03-13,,N,2,Female,H,H,Asian Indian
+DM-000059,50000059,Duck,Barney,2007-08-06,,N,1,Male,S,S,Other Ethnic Group
+DM-000060,50000060,Simpson,Daisy,2009-04-05,,N,2,Female,H,H,Asian Indian
+DM-000061,50000061,Cratchit,Bill,2007-04-12,,N,1,Male,P,P,Other Black Background
+DM-000062,50000062,Daffy,Lois,2020-07-17,,N,2,Female,A,A,White British
+DM-000063,50000063,Daffy,Bart,2006-11-16,,N,1,Male,C,C,Other White Background
+DM-000064,50000064,Stoppable,Pebbles,2015-03-30,,N,1,Male,H,H,Asian Indian
+DM-000065,50000065,Rugrat,Barney,2006-03-27,,N,1,Male,J,J,Asian Pakistani
+DM-000066,50000066,Bunny,Wilma,2007-08-09,,N,2,Female,K,K,Asian Bangladeshi
+DM-000067,50000067,Jeddler,Emily,2021-05-09,,N,2,Female,A,A,White British
+DM-000068,50000068,Peggotty,Minnie,2007-09-16,,N,2,Female,A,A,White British
+DM-000069,50000069,Twist,Grace,2008-12-06,,N,2,Female,N,N,Black African
+DM-000070,50000070,Jeddler,Bart,2002-12-17,,N,1,Male,A,A,White British
+DM-000071,50000071,Griffin,Ebenezer,2015-01-11,,N,1,Male,A,A,White British
+DM-000072,50000072,Flintstone,Tip,2005-10-25,,N,1,Male,L,L,Other Asian Background
+DM-000073,50000073,Mouse,Fred,2019-12-23,,N,1,Male,K,K,Asian Bangladeshi
+DM-000074,50000074,Simpson,Ron,2003-05-20,,N,1,Male,A,A,White British
+DM-000075,50000075,Jeddler,Bugs,2003-11-04,,N,1,Male,A,A,White British
+DM-000076,50000076,Nickleby,Kate,2015-06-23,,N,2,Female,A,A,White British
+DM-000077,50000077,Rubble,Micky,2014-04-16,,N,1,Male,A,A,White British
+DM-000078,50000078,Havisham,Linus,2008-05-12,,N,1,Male,H,H,Asian Indian
+DM-000079,50000079,Peggotty,Volumnia,2008-04-02,,N,2,Female,A,A,White British
+DM-000080,50000080,Reichardt,Tip,2015-04-26,,N,1,Male,S,S,Other Ethnic Group
+DM-000081,50000081,Mouse,Patty,2007-11-17,,N,2,Female,A,A,White British
+DM-000082,50000082,Copperfield,Affery,2009-10-25,,N,2,Female,A,A,White British
+DM-000083,50000083,Dorrit,Marge,2017-04-15,,N,2,Female,A,A,White British
+DM-000084,50000084,Wardle,Anthony,2021-03-25,2023-03-04,Y,1,Male,A,A,White British
+DM-000085,50000085,Twist,Bugs,2014-06-06,,N,1,Male,A,A,White British
+DM-000086,50000086,Skimpole,Bill,2011-01-26,,N,1,Male,G,G,Other Mixed Background
+DM-000087,50000087,Van Pelt,Barney,2020-11-06,,N,1,Male,A,A,White British
+DM-000088,50000088,Quilp,Ron,2004-04-28,,N,1,Male,H,H,Asian Indian
+DM-000089,50000089,Mouse,Arthur,2019-04-26,,N,1,Male,A,A,White British
+DM-000090,50000090,Quilp,Marge,2006-11-23,,N,2,Female,A,A,White British
+DM-000091,50000091,Skimpole,Martin,2021-10-28,,N,1,Male,A,A,White British
+DM-000092,50000092,Cratchit,Ebenezer,2008-10-28,,N,1,Male,C,C,Other White Background
+DM-000093,50000093,Mouse,Hommer,2006-07-23,,N,1,Male,S,S,Other Ethnic Group
+DM-000094,50000094,Dedlock,Jeremiah,2018-06-28,,N,1,Male,F,F,Mixed White and Asian
+DM-000095,50000095,Rubble,Marge,2011-09-16,,N,2,Female,A,A,White British
+DM-000096,50000096,Quilp,Nicholas,2017-07-09,,N,1,Male,A,A,White British
+DM-000097,50000097,Skimpole,Linus,2007-11-16,,N,1,Male,H,H,Asian Indian
+DM-000098,50000098,Simpson,Micky,2011-04-25,,N,1,Male,Z,Z,Prefer Not To Say
+DM-000099,50000099,Van Pelt,Oliver,2020-04-20,,N,1,Male,A,A,White British
+DM-000100,50000100,Chuzzlewit,Tip,2014-07-01,,N,1,Male,P,P,Other Black Background
+DM-000101,50000101,Brown,Minnie,2010-11-06,,N,2,Female,K,K,Asian Bangladeshi
+DM-000102,50000102,Van Pelt,Brian,2007-07-14,,N,1,Male,A,A,White British
+DM-000103,50000103,Quilp,Grace,2007-02-01,,N,2,Female,H,H,Asian Indian
+DM-000104,50000104,Rubble,Tip,2005-03-01,,N,1,Male,G,G,Other Mixed Background
+DM-000105,50000105,Peggotty,Arthur,2007-09-13,,N,1,Male,Z,Z,Prefer Not To Say
+DM-000106,50000106,Daffy,Isabella,2009-08-20,,N,2,Female,Z,Z,Prefer Not To Say
+DM-000107,50000107,Skimpole,Lucy,2006-07-20,,N,2,Female,A,A,White British
+DM-000108,50000108,Peggotty,Daniel,2004-10-26,,N,1,Male,A,A,White British
+DM-000109,50000109,Cratchit,Bart,2016-02-10,,N,1,Male,K,K,Asian Bangladeshi
+DM-000110,50000110,Swidger,Barney,2004-02-18,,N,1,Male,A,A,White British
+DM-000111,50000111,Reichardt,Oliver,2004-03-28,,N,1,Male,A,A,White British
+DM-000112,50000112,Nickleby,Oliver,2004-08-23,,N,1,Male,H,H,Asian Indian
+DM-000113,50000113,Dedlock,Affery,2020-05-07,,N,2,Female,A,A,White British
+DM-000114,50000114,Scrooge,David,2007-01-27,,N,1,Male,K,K,Asian Bangladeshi
+DM-000115,50000115,Sikes,Tip,2004-05-03,,N,1,Male,E,E,Mixed White and Black African
+DM-000116,50000116,Griffin,Duck,2006-03-14,,N,2,Female,J,J,Asian Pakistani
+DM-000117,50000117,Flintstone,Patty,2014-09-25,,N,2,Female,H,H,Asian Indian
+DM-000118,50000118,Dodger,William,2008-07-26,,N,1,Male,A,A,White British
+DM-000119,50000119,Cratchit,Grace,2011-04-29,,N,2,Female,H,H,Asian Indian
+DM-000120,50000120,Brown,Amy,2003-07-14,,N,2,Female,A,A,White British
+DM-000121,50000121,Dedlock,Lisa,2015-09-27,,N,2,Female,A,A,White British
+DM-000122,50000122,Bunny,Patty,2021-10-09,,N,2,Female,Z,Z,Prefer Not To Say
+DM-000123,50000123,Copperfield,Artful,2009-06-02,,N,1,Male,A,A,White British
+DM-000124,50000124,Twist,Martin,2020-04-30,,N,1,Male,Z,Z,Prefer Not To Say
+DM-000125,50000125,Cratchit,Barney,2014-01-04,,N,1,Male,S,S,Other Ethnic Group
+DM-000126,50000126,Peggotty,Frederick,2005-12-07,,N,1,Male,A,A,White British
+DM-000127,50000127,Twist,Wilma,2017-12-26,,N,2,Female,A,A,White British
+DM-000128,50000128,Quilp,Milly,2011-07-29,,N,2,Female,A,A,White British
+DM-000129,50000129,Copperfield,Milly,2011-05-07,,N,2,Female,S,S,Other Ethnic Group
+DM-000130,50000130,Duck,Bill,2018-09-10,,N,1,Male,N,N,Black African
+DM-000131,50000131,Havisham,Lucy,2009-07-23,,N,2,Female,N,N,Black African
+DM-000132,50000132,Cratchit,Milly,2008-04-17,,N,2,Female,S,S,Other Ethnic Group
+DM-000133,50000133,Simpson,Phil,2011-08-04,,N,1,Male,H,H,Asian Indian
+DM-000134,50000134,Scrooge,Lisa,2004-02-16,,N,2,Female,A,A,White British
+DM-000135,50000135,Daffy,Bugs,2002-12-31,,N,1,Male,D,D,Mixed White and Black Caribbean
+DM-000136,50000136,Rubble,Ebenezer,2009-03-07,,N,1,Male,A,A,White British
+DM-000137,50000137,Skimpole,Lucy,2013-07-05,,N,2,Female,A,A,White British
+DM-000138,50000138,Twist,Marge,2016-08-19,,N,2,Female,M,M,Black Caribbean
+DM-000139,50000139,Cratchit,Pebbles,2011-09-10,,N,1,Male,S,S,Other Ethnic Group
+DM-000140,50000140,Stoppable,Betsy,2014-09-03,,N,2,Female,C,C,Other White Background
+DM-000141,50000141,Reichardt,Bill,2013-06-16,,N,1,Male,H,H,Asian Indian
+DM-000142,50000142,Sikes,Frederick,2012-07-28,,N,1,Male,L,L,Other Asian Background
+DM-000143,50000143,Nickleby,Bob,2008-07-15,,N,1,Male,H,H,Asian Indian
+DM-000144,50000144,Rubble,Harold,2010-12-09,,N,1,Male,H,H,Asian Indian
+DM-000145,50000145,Copperfield,Bam bam,2020-12-01,,N,2,Female,J,J,Asian Pakistani
+DM-000146,50000146,Peggotty,Lois,2011-05-18,,N,2,Female,K,K,Asian Bangladeshi
+DM-000147,50000147,Wardle,Linus,2007-08-29,,N,1,Male,M,M,Black Caribbean
+DM-000148,50000148,Quilp,William,2005-09-23,,N,1,Male,H,H,Asian Indian
+DM-000149,50000149,Chuzzlewit,Bob,2010-09-10,,N,1,Male,A,A,White British
+DM-000150,50000150,Nickleby,Clara,2005-07-18,,N,2,Female,L,L,Other Asian Background
+DM-000151,50000151,Duck,Fred,2009-09-09,,N,1,Male,A,A,White British
+DM-000152,50000152,Reichardt,Ron,2005-09-30,,N,1,Male,A,A,White British
+DM-000153,50000153,Flintstone,Betty,2004-03-31,,N,2,Female,A,A,White British
+DM-000154,50000154,Daffy,Wilma,2016-03-28,,N,2,Female,A,A,White British
+DM-000155,50000155,Dorrit,Arthur,2015-10-31,,N,1,Male,F,F,Mixed White and Asian
+DM-000156,50000156,Chuzzlewit,Nicholas,2012-04-20,,N,1,Male,J,J,Asian Pakistani
+DM-000157,50000157,Copperfield,Artful,2010-08-29,,N,1,Male,A,A,White British
+DM-000158,50000158,Reichardt,Bam bam,2007-09-21,,N,2,Female,J,J,Asian Pakistani
+DM-000159,50000159,Flintwinch,Micky,2009-07-23,,N,1,Male,A,A,White British
+DM-000160,50000160,Twist,Barney,2011-06-29,,N,1,Male,P,P,Other Black Background
+DM-000161,50000161,Mouse,Meg,2010-10-06,,N,2,Female,S,S,Other Ethnic Group
+DM-000162,50000162,Stoppable,Daniel,2013-04-12,,N,1,Male,K,K,Asian Bangladeshi
+DM-000163,50000163,Wardle,Meg,2006-07-29,,N,2,Female,N,N,Black African
+DM-000164,50000164,Chuzzlewit,Kate,2013-10-12,,N,2,Female,A,A,White British
+DM-000165,50000165,Jeddler,Nicholas,2006-11-27,,N,1,Male,A,A,White British
+DM-000166,50000166,Peggotty,Jeremiah,2005-10-26,,N,1,Male,A,A,White British
+DM-000167,50000167,Rugrat,Bart,2015-11-03,,N,1,Male,N,N,Black African
+DM-000168,50000168,Wardle,Arthur,2019-07-01,,N,1,Male,C,C,Other White Background
+DM-000169,50000169,Rubble,Clara,2006-11-07,,N,2,Female,A,A,White British
+DM-000170,50000170,Twist,Kim,2017-03-13,,N,2,Female,A,A,White British
+DM-000171,50000171,Cratchit,Harold,2008-04-06,,N,1,Male,N,N,Black African
+DM-000172,50000172,Dedlock,Bob,2021-03-15,,N,1,Male,A,A,White British
+DM-000173,50000173,Daffy,Nicholas,2012-03-08,,N,1,Male,S,S,Other Ethnic Group
+DM-000174,50000174,Nickleby,Bugs,2006-01-26,,N,1,Male,A,A,White British
+DM-000175,50000175,Quilp,Tiny Tim,2015-02-28,,N,1,Male,C,C,Other White Background
+DM-000176,50000176,Simpson,Affery,2005-03-28,,N,2,Female,N,N,Black African
+DM-000177,50000177,Duck,Wilma,2004-09-25,,N,2,Female,A,A,White British
+DM-000178,50000178,Duck,Tip,2009-10-07,,N,1,Male,A,A,White British
+DM-000179,50000179,Swidger,Duck,2006-12-14,,N,2,Female,A,A,White British
+DM-000180,50000180,Cratchit,Betty,2019-02-09,,N,2,Female,S,S,Other Ethnic Group
+DM-000181,50000181,Reichardt,Estella,2015-11-10,,N,2,Female,P,P,Other Black Background
+DM-000182,50000182,Dodger,Lisa,2010-10-13,,N,2,Female,A,A,White British
+DM-000183,50000183,Skimpole,Daniel,2016-05-10,,N,1,Male,C,C,Other White Background
+DM-000184,50000184,Duck,Fanny,2008-12-01,,N,2,Female,S,S,Other Ethnic Group
+DM-000185,50000185,Chuzzlewit,Oliver,2009-10-07,,N,1,Male,N,N,Black African
+DM-000186,50000186,Peggotty,Martin,2009-09-18,,N,1,Male,A,A,White British
+DM-000187,50000187,Rubble,Bill,2020-05-10,2022-07-13,Y,1,Male,A,A,White British
+DM-000188,50000188,Griffin,Anthony,2004-05-13,,N,1,Male,A,A,White British
+DM-000189,50000189,Stoppable,Donald,2019-06-26,,N,1,Male,L,L,Other Asian Background
+DM-000190,50000190,Griffin,Bugs,2005-06-22,,N,1,Male,A,A,White British
+DM-000191,50000191,Quilp,Frederick,2005-08-26,,N,1,Male,J,J,Asian Pakistani
+DM-000192,50000192,Van Pelt,Artful,2008-04-17,,N,1,Male,D,D,Mixed White and Black Caribbean
+DM-000193,50000193,Duck,Marge,2022-05-23,,N,2,Female,A,A,White British
+DM-000194,50000194,Reichardt,Bob,2011-06-22,,N,1,Male,N,N,Black African
+DM-000195,50000195,Duck,Daniel,2004-02-19,,N,1,Male,C,C,Other White Background
+DM-000196,50000196,Stoppable,Fanny,2008-01-26,,N,2,Female,N,N,Black African
+DM-000197,50000197,Dedlock,Lois,2007-03-25,,N,2,Female,A,A,White British
+DM-000198,50000198,Nickleby,Tiny Tim,2019-05-04,,N,1,Male,A,A,White British
+DM-000199,50000199,Duck,Lil,2016-01-20,,N,2,Female,C,C,Other White Background
+DM-000200,50000200,Scrooge,Betsy,2007-06-26,2019-10-07,Y,2,Female,A,A,White British

@@ -1,0 +1,72 @@
+% Tables
+\usepackage{tabu}
+% \usepackage{longtable}[=v4.13]
+% \usepackage{tabularx}
+% \usepackage{ltablex}
+\usepackage{xltabular}
+\usepackage{makecell}
+\usepackage{etoolbox}
+\usepackage{color}
+\usepackage{framed}
+
+\renewcommand{\arraystretch}{1.25}
+
+% Font
+\usepackage[defaultfam,tabular,lining]{montserrat}
+\usepackage[T1]{fontenc}
+\renewcommand*\oldstylenums[1]{{\fontfamily{Montserrat-TOsF}\selectfont #1}}
+
+% Header and footer
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+% \lhead{%
+%   \begin{minipage}{\textwidth}
+%   % \parbox{0.23\linewidth}{\includegraphics[width=\linewidth]{example-image}}\hfill
+%   % \parbox{0.23\linewidth}{\includegraphics[width=0.5\linewidth]{example-image}}\hfill
+%   \parbox{0.80\linewidth}{PICTURE Clinical Informatics Report}\hfill
+%   \parbox{0.10\linewidth}{\raggedleft \thepage\ of \pageref{LastPage}}%
+%   \end{minipage}
+%   }
+
+% Full-width tabularx environment
+\newenvironment{tabularxfullwidth}[1]
+    {\xltabular{0.8\textwidth}{#1}}
+    {\endxltabular}
+    %{\tabularx{\textwidth}{#1}}
+    %{\endtabularx}
+
+% Small (narrow) column tag for tabularx
+\newcolumntype{s}{>{\hsize=.2\hsize}X}
+\newcolumntype{b}{>{\hsize=.4\hsize}X}
+
+% Force sections to start on a new page
+\preto{\section}{\clearpageafterfirst}
+\newcommand{\clearpageafterfirst}{%
+  \gdef\clearpageafterfirst{\clearpage}%
+}
+
+\newenvironment{blackbox}{
+  \definecolor{shadecolor}{rgb}{1, 0.4, 0.4}  % black
+  \color{white}
+  \begin{shaded}}
+ {\end{shaded}}
+
+\newenvironment{infobox}[1]
+  {
+  \begin{itemize}
+  \renewcommand{\labelitemi}{
+    \raisebox{-.7\height}[0pt][0pt]{
+      {\setkeys{Gin}{width=3em,keepaspectratio}
+        \includegraphics{images/#1}}
+    }
+  }
+  \setlength{\fboxsep}{1em}
+  \begin{blackbox}
+  \item
+  }
+  {
+  \end{blackbox}
+  \end{itemize}
+  }

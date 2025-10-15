@@ -1,0 +1,215 @@
+:root {
+  /* NHS Blues */
+  --nhs-blue: #005EB8;
+  --nhs-dark-blue: #003087;
+  --nhs-bright-blue: #0072CE;
+  --nhs-light-blue: #41B6E6;
+  --nhs-aqua-blue: #00A9CE;
+
+  /* GOSH DRIVE Colours */
+  --nhs-purple: #330072;
+  --nhs-warm-yellow: #FFB81C;
+  --nhs-orange: #ED8B00;
+  --emergency-services-red: #DA291C;
+  --nhs-pink: #AE2573;
+
+  /* Others */
+  --menu-dark-color: C2C7D0;
+}
+
+body {
+  font-family: 'Montserrat';
+}
+
+.main-header h1 {
+  margin: 0px;
+}
+
+.picture-logo {
+  background-color: var(--nhs-purple);
+  color: white;
+  font-size: 2.25rem;
+  font-weight: bold;
+  font-style: italic;
+  letter-spacing: 0.1em;
+  text-align: center;
+  width: 100%;
+}
+
+.brand-link {
+  height: 56px;
+  padding: 0px;
+}
+
+[class*=sidebar-dark-] .sidebar-menu hr {
+  border-color: var(--menu-dark-color);
+}
+
+[class*=sidebar-light-] .sidebar-menu hr {
+  border-color: var(--dark);
+}
+
+[class*=sidebar-dark-] .hide-when-light, [class*=sidebar-light-] .hide-when-dark {
+  visibility: hidden;
+  transition-duration: 0s;
+}
+
+.sidebar-custom img {
+  height: 2.3rem;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+p.menu-mini-label {
+  text-align: center;
+  font-size: x-small;
+}
+
+.sidebar-mini.sidebar-collapse p.menu-mini-label {
+  visibility: hidden;
+}
+
+.mw-720 {
+  max-width: 720px;
+}
+
+#shiny-tab-home_tab .card-deck {
+  justify-content: center;
+}
+
+#shiny-tab-home_tab .card-deck .card {
+  margin-bottom: 15px;
+  max-width: 500px;
+}
+
+#shiny-tab-home_tab .card-deck .card:hover{
+  transform: scale(1.01);
+  box-shadow: 0 0 20px rgba(0,0,0,0.10), 0 0 10px rgba(0,0,0,0.05);
+}
+
+#shiny-tab-home_tab .card-deck .card-title {
+  font-weight: bold;
+  width: 100%;
+}
+
+#shiny-tab-home_tab .card-deck .card-footer {
+  font-style: italic;
+  font-size: smaller;
+}
+
+ul.nav-tabs {
+  margin-left: 20px;
+}
+
+ul.nav-tabs a.nav-link {
+  color: #495057;
+}
+
+.dark-mode ul.nav-tabs a.nav-link {
+  color: #fff;
+}
+
+.nav-pills {
+  margin-top: 20px;
+}
+
+.home-grid i {
+  padding: 20px 0;
+}
+
+.home-grid > div {
+  padding: 0 20px;
+}
+
+.home-grid a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.home-grid a p {
+  text-align: justify!important;
+}
+
+.home-grid > div:hover {
+  background-color: white;
+}
+
+aside.note {
+  background-color: var(--emergency-services-red);
+  color: white;
+  padding: 12px;
+  margin: 12px, 0;
+}
+
+.sidebar-div {
+  width: 100%;
+  padding: 1em;
+}
+
+span.progress-detail {
+  display: block;
+}
+
+.input-daterange .input-group-addon {
+  padding: 0 !important;
+}
+
+#main_cohort_select-error_msg {
+  color: red;
+  font-weight: bold;
+}
+
+#cohort_element_column > div {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.current_cohorts_col .shiny-input-container {
+  width: 100%;
+}
+
+
+.cohort_element span {
+  padding-left: 1em;
+}
+
+
+.analysis-tabs .tab-content {
+  padding: 1em;
+}
+.analysis-tabs .tab-content {
+  background-color: var(--white);
+  border: 1px solid #dee2e6
+}
+.dark-mode .analysis-tabs .tab-content {
+  background-color: var(--dark);
+  border: 1px solid #56606a;
+}
+
+.shiny-tree-box {
+  overflow-x: scroll;
+  overflow-y: scroll;
+  height: 250px;
+}
+
+/* Parent div of parent div of shinytreebox */
+div:has(> div > .shiny-tree-box) {
+  padding: 0;
+}
+
+/* .card-header sibling of shinytreebox */
+div:has(> .shiny-tree-box) > .card-header {
+  display: none;
+}
+
+.profile-modal img {
+  width: 100%;
+}
+
+div.shiny-plot-output {
+  min-height: 400px;
+}
+
+div.direct-chat-contacts {
+  color: unset;
+}

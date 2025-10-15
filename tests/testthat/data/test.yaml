@@ -1,0 +1,52 @@
+---
+title: Test yaml
+description: |
+  Test yaml for unittesting.
+creator: clinician@gosh.nhs.uk
+img: "www/images/Magnifying Glass.png"
+dataset: Test
+amount_of_data_to_load: limited
+initialCohorts:
+  - label: Female
+    config:
+      - type: filter
+        rdv: pde
+        val: Female
+        inclusion: ever
+        column: sex_name
+        query_type: str_matches
+  - label: Male
+    config:
+      - type: filter
+        rdv: pde
+        val: Male
+        inclusion: ever
+        column: sex_name
+        query_type: str_matches
+offerCohortBuilder: true
+analysis:
+  - tab: Demographics
+    methodList:
+      - rpkg: driveanalytics
+        fn: tpl_pde_all
+        params:
+          df_pde: df_pde
+          df_loc: df_loc
+  - tab: Length of Stay at PICU
+    methodList:
+      - fn: gen_distribution_plots
+        rpkg: driveanalytics
+        tab_lbl: "Length of Stay"
+        params:
+          df_rdv: df_wst
+          col: ward_stay_days
+          stratify_by: cohort
+          filter_col: ward_code
+          filter_val: PICU
+          side_by_side: TRUE
+          calc_length: FALSE
+          calc_diff: FALSE
+          description: 'number of days'
+outputs:
+  interactive: TRUE
+  pdf: false

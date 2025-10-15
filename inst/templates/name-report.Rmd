@@ -1,0 +1,20 @@
+---
+title: {{title}}
+output: html_document
+params:{{ #inputs }}
+  {{.}}:
+    label: "TODO"
+    value: NA{{ /inputs }}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r run-analysis, echo=FALSE}
+#TODO
+```
+
+## Results
+### TODO

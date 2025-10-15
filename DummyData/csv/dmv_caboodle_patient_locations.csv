@@ -1,0 +1,264 @@
+project_id,start_datetime,end_datetime,address_type,postcode,LSOA Code,MSOA Code,District,County,Region,Country
+DM-000001,2019-01-05 03:00,2022-07-27 10:01,Permanent,TW14,E01002561,E02000547,Hounslow,Greater London,London,England
+DM-000002,2010-03-30 19:00,2012-10-06 17:00,Permanent,MK43,E01017551,E02003635,Bedford,Bedfordshire,East of England,England
+DM-000002,2022-03-06 09:00,2034-04-16 13:00,Permanent,E17,E01004467,E02000903,Waltham Forest,Greater London,London,England
+DM-000002,2043-09-14 16:00,2061-04-25 12:00,Permanent,IG6,E01003648,E02000756,Redbridge,Greater London,London,England
+DM-000003,2020-01-25 09:00,2026-11-06 21:00,Permanent,E14,E01004250,E02000877,Tower Hamlets,Greater London,London,England
+DM-000004,2014-12-13 15:00,2017-06-05 01:00,Correspondence,MK45,E01017374,E02003610,Central Bedfordshire,Bedfordshire,East of England,England
+DM-000005,2022-11-27 07:00,2027-03-25 09:00,Permanent,HP10,E01017934,E02003713,Buckinghamshire,Buckinghamshire,South East,England
+DM-000006,2019-01-22 09:00,2020-01-19 10:00,Permanent,NE33,E01008598,E02001768,South Tyneside,Tyne and Wear,North East,England
+DM-000006,2020-05-28 18:00,2026-03-11 15:00,Permanent,N1,E01002722,E02000365,Hackney,Greater London,London,England
+DM-000007,2022-11-13 20:00,2025-08-02 15:00,Permanent,PO9,E01022906,E02004769,Havant,Hampshire,South East,England
+DM-000007,2026-11-17 10:00,2033-06-19 10:00,Permanent,E17,E01004462,E02000903,Waltham Forest,Greater London,London,England
+DM-000008,2010-08-04 08:00,2013-08-16 01:00,Permanent,RM9,E01000063,E02000005,Barking and Dagenham,Greater London,London,England
+DM-000009,2013-04-23 15:00,2015-06-27 12:00,Permanent,KY4,S01009410,S02001769,Fife,Fife,Fife,Scotland
+DM-000010,2018-05-24 12:00,2021-05-11 15:00,Permanent,BN3,E01016871,E02003509,Brighton and Hove,East Sussex,South East,England
+DM-000010,2021-09-17 11:00,2023-09-25 12:00,Permanent,E6,E01003481,E02000731,Newham,Greater London,London,England
+DM-000011,2021-07-10 13:00,2023-11-28 15:00,Permanent,NW6,E01000931,E02000178,Camden,Greater London,London,England
+DM-000011,2024-04-24 12:00,2031-01-09 14:00,Permanent,SS17,E01015943,E02003296,Thurrock,Essex,East of England,England
+DM-000012,2013-07-13 18:00,2020-12-10 07:00,Permanent,N19,E01002770,E02000555,Islington,Greater London,London,England
+DM-000012,2022-05-15 17:00,2028-03-20 06:00,Permanent,OX14,E01028744,E02005980,Vale of White Horse,Oxfordshire,South East,England
+DM-000013,2021-05-28 08:00,2033-10-11 11:00,Permanent,HP2,E01023434,E02004860,Dacorum,Hertfordshire,East of England,England
+DM-000014,2017-03-29 10:00,2019-05-28 16:00,Permanent,CM2,E01021548,E02004492,Chelmsford,Essex,East of England,England
+DM-000015,2022-11-21 10:00,2035-05-11 03:00,Permanent,LU4,E01015731,E02003262,Luton,Bedfordshire,East of England,England
+DM-000016,2013-06-29 15:00,2014-04-23 17:00,Correspondence,IG1,E01003697,E02000776,Redbridge,Greater London,London,England
+DM-000016,2020-03-17 15:00,2024-01-31 18:00,Permanent,HP20,E01017662,E02003665,Buckinghamshire,Buckinghamshire,South East,England
+DM-000018,2016-03-24 06:00,2017-04-26 07:00,Permanent,RM3,E01002283,E02000465,Havering,Greater London,London,England
+DM-000019,2019-05-02 06:00,2021-10-13 18:00,Permanent,CB23,E01033118,E02006874,South Cambridgeshire,Cambridgeshire,East of England,England
+DM-000020,2014-04-08 09:00,2017-09-28 08:00,Permanent,TW10,E01003875,E02000789,Richmond upon Thames,Greater London,London,England
+DM-000021,2019-07-21 09:00,2024-12-05 16:00,Permanent,N7,E01002788,E02000558,Islington,Greater London,London,England
+DM-000022,2021-06-11 05:00,2037-02-04 11:00,Permanent,CM2,E01021548,E02004492,Chelmsford,Essex,East of England,England
+DM-000023,2021-08-17 14:00,2037-03-28 09:00,Permanent,E13,E01003602,E02000729,Newham,Greater London,London,England
+DM-000024,2011-08-06 15:00,2017-05-10 04:00,Permanent,OX14,E01033305,E02005980,Vale of White Horse,Oxfordshire,South East,England
+DM-000025,2021-01-02 14:00,2029-08-15 12:00,Permanent,MK7,E01016826,E02003482,Milton Keynes,Buckinghamshire,South East,England
+DM-000026,2023-03-24 11:00,2025-03-16 12:00,Permanent,SG5,E01023611,E02003612,Central Bedfordshire,Bedfordshire,East of England,England
+DM-000026,2027-09-01 10:00,2044-01-08 13:00,Permanent,CR5,E01001031,E02000231,Croydon,Greater London,London,England
+DM-000027,2018-03-14 10:00,2019-04-27 18:00,Permanent,TW3,E01002642,E02000536,Hounslow,Greater London,London,England
+DM-000027,2020-03-24 13:00,2025-06-06 10:00,Temporary,WD23,E01023553,E02004903,Hertsmere,Hertfordshire,East of England,England
+DM-000027,2026-05-04 07:00,2031-05-06 07:00,Permanent,E12,E01003583,E02000715,Newham,Greater London,London,England
+DM-000028,2023-02-03 12:00,2034-10-01 09:00,Permanent,SW7,E01004692,E02000586,Kensington and Chelsea,Greater London,London,England
+DM-000029,2011-03-04 12:00,2012-01-02 13:00,Permanent,UB1,E01001363,E02000254,Ealing,Greater London,London,England
+DM-000030,2017-07-17 11:00,2019-02-02 12:00,Permanent,NW1,E01000952,E02000183,Camden,Greater London,London,England
+DM-000031,2011-12-06 10:00,2012-01-08 03:00,Temporary,SG17,E01017439,E02003609,Central Bedfordshire,Bedfordshire,East of England,England
+DM-000032,2021-04-05 16:00,2022-04-29 12:00,Permanent,CM24,E01022083,E02004595,Uttlesford,Essex,East of England,England
+DM-000033,2020-01-17 11:00,2032-01-11 14:00,Permanent,RG22,E01022479,E02004693,Basingstoke and Deane,Hampshire,South East,England
+DM-000033,2046-07-09 16:00,2050-02-15 06:00,Permanent,IG8,E01003654,E02000751,Redbridge,Greater London,London,England
+DM-000034,2021-11-11 16:00,2026-09-13 09:00,Permanent,IG8,E01003760,E02000751,Redbridge,Greater London,London,England
+DM-000035,2012-01-02 06:00,2016-12-12 11:00,Permanent,HP20,E01032955,E02003665,Buckinghamshire,Buckinghamshire,South East,England
+DM-000035,2019-06-24 13:00,2022-09-12 04:00,Permanent,SE5,E01003993,E02000823,Southwark,Greater London,London,England
+DM-000036,2023-03-04 20:00,2027-10-13 10:00,Permanent,BR3,E01000703,E02000139,Bromley,Greater London,London,England
+DM-000037,2023-04-24 08:00,2026-09-14 04:00,Permanent,E17,E01004420,E02000903,Waltham Forest,Greater London,London,England
+DM-000037,2034-04-04 10:00,2034-04-18 01:00,Permanent,EN1,E01001539,E02000281,Enfield,Greater London,London,England
+DM-000038,2021-05-22 16:00,2041-02-07 14:00,Permanent,HA7,E01002202,E02000433,Harrow,Greater London,London,England
+DM-000038,2041-10-29 11:00,2042-05-18 10:00,Permanent,IG1,E01003788,E02000776,Redbridge,Greater London,London,England
+DM-000039,2015-05-08 12:00,2022-05-03 16:00,Permanent,E5,E01001722,E02000354,Hackney,Greater London,London,England
+DM-000040,2021-08-16 09:00,2023-03-30 18:00,Permanent,SS14,E01021319,E02004435,Basildon,Essex,East of England,England
+DM-000041,2008-12-26 10:00,2024-04-10 18:00,Permanent,SE4,E01003212,E02000657,Lewisham,Greater London,London,England
+DM-000042,2012-06-29 17:00,2014-08-01 11:00,Permanent,NR8,E01033538,E02005597,South Norfolk,Norfolk,East of England,England
+DM-000042,2016-07-05 03:00,2021-01-22 21:00,Permanent,OX14,E01028744,E02005980,Vale of White Horse,Oxfordshire,South East,England
+DM-000043,2016-12-17 09:00,2033-02-19 17:00,Temporary,CM4,E01021457,E02004465,Brentwood,Essex,East of England,England
+DM-000043,2043-03-16 04:00,2044-04-30 11:00,Permanent,E1,E01004205,E02000876,Tower Hamlets,Greater London,London,England
+DM-000044,2010-12-09 11:00,2011-06-07 10:00,Permanent,HA8,E01002119,E02000036,Barnet,Greater London,London,England
+DM-000044,2016-10-26 06:00,2018-05-12 08:00,Temporary,N19,E01002810,E02000555,Islington,Greater London,London,England
+DM-000045,2011-07-30 10:00,2019-12-30 17:00,Permanent,RM10,E01000107,E02000007,Barking and Dagenham,Greater London,London,England
+DM-000046,2023-04-06 07:00,2029-02-15 08:00,Permanent,WD23,E01023563,E02004903,Hertsmere,Hertfordshire,East of England,England
+DM-000047,2005-01-29 08:00,2008-09-10 09:00,Permanent,CM15,E01021471,E02004464,Brentwood,Essex,East of England,England
+DM-000048,2008-04-19 09:00,2014-08-20 05:00,Permanent,IG1,E01003729,E02000776,Redbridge,Greater London,London,England
+DM-000049,2019-04-27 13:00,2023-11-30 18:00,Permanent,HD3,E01011155,E02002308,Kirklees,West Yorkshire,Yorkshire and The Humber,England
+DM-000049,2035-11-29 14:00,2039-04-15 14:00,Permanent,HA0,E01000475,E02000118,Brent,Greater London,London,England
+DM-000050,2013-12-08 12:00,2021-06-09 04:00,Permanent,N18,E01001554,E02000307,Enfield,Greater London,London,England
+DM-000051,2020-07-25 11:00,2023-06-01 14:00,Permanent,E14,E01004254,E02000877,Tower Hamlets,Greater London,London,England
+DM-000051,2023-06-14 16:00,2023-07-26 05:00,Permanent,IG11,E01000007,E02000012,Barking and Dagenham,Greater London,London,England
+DM-000052,2022-12-26 12:00,2032-03-11 08:00,Permanent,IG1,E01003683,E02000776,Redbridge,Greater London,London,England
+DM-000052,2034-06-12 21:00,2039-10-18 15:00,Permanent,SG18,E01017390,E02003603,Central Bedfordshire,Bedfordshire,East of England,England
+DM-000052,2042-01-18 10:00,2043-08-27 13:00,Permanent,NW11,E01000145,E02000058,Barnet,Greater London,London,England
+DM-000053,2013-01-21 08:00,2018-05-03 15:00,Permanent,IG3,E01003739,E02000772,Redbridge,Greater London,London,England
+DM-000054,2021-08-06 11:00,2027-10-10 16:00,Permanent,HP5,E01017780,E02003678,Buckinghamshire,Buckinghamshire,South East,England
+DM-000055,2022-04-27 09:00,2026-02-22 08:00,Permanent,RM1,E01002350,E02000476,Havering,Greater London,London,England
+DM-000056,2021-09-05 13:00,2021-11-07 16:37,Permanent,N18,E01032574,E02000307,Enfield,Greater London,London,England
+DM-000057,2021-02-20 18:00,2028-12-30 10:00,Permanent,E6,E01003527,E02000731,Newham,Greater London,London,England
+DM-000058,2014-05-12 07:00,2018-08-25 11:00,Permanent,LU3,E01015701,E02003263,Luton,Bedfordshire,East of England,England
+DM-000059,2008-01-18 18:00,2019-08-23 06:00,Permanent,E1,E01004294,E02000876,Tower Hamlets,Greater London,London,England
+DM-000060,2020-09-27 16:00,2021-08-20 11:00,Permanent,SW7,E01002892,E02000586,Kensington and Chelsea,Greater London,London,England
+DM-000060,2022-12-10 09:00,2027-04-30 13:00,Permanent,N16,E01001825,E02000345,Hackney,Greater London,London,England
+DM-000060,2028-08-19 14:00,2045-03-19 17:00,Permanent,NW7,E01000262,E02000040,Barnet,Greater London,London,England
+DM-000061,2022-03-10 04:00,2026-07-27 10:00,Permanent,CM3,E01021538,E02004485,Chelmsford,Essex,East of England,England
+DM-000061,2041-06-24 11:00,2052-11-01 15:00,Permanent,OX26,E01028499,E02005931,Cherwell,Oxfordshire,South East,England
+DM-000062,2022-06-23 17:00,2022-10-26 17:00,Permanent,SS11,E01021339,E02004428,Basildon,Essex,East of England,England
+DM-000063,2007-04-18 11:00,2011-08-11 10:00,Permanent,NW7,E01000262,E02000040,Barnet,Greater London,London,England
+DM-000064,2017-09-12 04:00,2021-08-23 07:00,Permanent,TW7,E01002673,E02000537,Hounslow,Greater London,London,England
+DM-000065,2014-09-29 10:00,2019-03-18 08:00,Permanent,NR34,E01030292,E02006312,East Suffolk,Suffolk,East of England,England
+DM-000066,2013-08-08 10:00,2015-10-09 18:00,Temporary,E5,E01001765,E02000354,Hackney,Greater London,London,England
+DM-000067,2022-05-25 09:00,2027-05-15 13:00,Temporary,HA8,E01000191,E02000036,Barnet,Greater London,London,England
+DM-000068,2022-08-18 07:00,2038-10-13 16:00,Permanent,WR14,E01032209,E02006719,Malvern Hills,Worcestershire,West Midlands,England
+DM-000068,2053-09-14 11:00,2061-03-21 11:00,Temporary,E6,E01003492,E02000731,Newham,Greater London,London,England
+DM-000069,2016-09-23 13:00,2019-12-27 20:00,Permanent,EX37,E01020308,E02004226,Torridge,Devon,South West,England
+DM-000069,2022-03-10 11:00,2022-04-02 12:00,Permanent,N1,E01002698,E02000365,Hackney,Greater London,London,England
+DM-000070,2011-06-11 09:00,2013-05-31 11:00,Permanent,RM10,E01000106,E02000007,Barking and Dagenham,Greater London,London,England
+DM-000071,2023-03-29 12:00,2024-04-23 16:00,Permanent,E14,E01004254,E02000877,Tower Hamlets,Greater London,London,England
+DM-000072,2015-02-15 10:00,2029-01-13 18:00,Permanent,IP5,E01030179,E02006295,East Suffolk,Suffolk,East of England,England
+DM-000072,2038-05-06 18:00,2039-01-15 17:00,Permanent,HA2,E01002214,E02000447,Harrow,Greater London,London,England
+DM-000073,2023-05-19 11:00,2024-03-04 04:00,Permanent,E16,E01003503,E02000743,Newham,Greater London,London,England
+DM-000074,2016-04-29 11:00,2019-09-11 14:00,Permanent,OX4,E01028579,E02005950,Oxford,Oxfordshire,South East,England
+DM-000075,2020-03-01 06:00,2033-07-25 06:00,Permanent,OX3,E01028571,E02005944,Oxford,Oxfordshire,South East,England
+DM-000075,2049-11-20 18:00,2062-05-07 07:00,Permanent,WC1N,E01000915,E02000192,Camden,Greater London,London,England
+DM-000075,2078-09-02 05:00,2084-10-05 12:00,Permanent,RG41,E01016704,E02003447,Wokingham,Berkshire,South East,England
+DM-000076,2019-04-23 21:00,2021-10-29 16:00,Permanent,LU4,E01015760,E02003262,Luton,Bedfordshire,East of England,England
+DM-000077,2021-03-18 12:00,2029-02-20 12:00,Permanent,OX26,E01028499,E02005931,Cherwell,Oxfordshire,South East,England
+DM-000078,2016-03-09 19:00,2023-11-23 10:00,Permanent,HP22,E01017630,E02003672,Buckinghamshire,Buckinghamshire,South East,England
+DM-000079,2017-04-28 08:00,2017-12-12 06:00,Permanent,NW10,E01000534,E02000106,Brent,Greater London,London,England
+DM-000079,2018-09-02 15:00,2023-02-08 13:00,Permanent,EN3,E01001441,E02000277,Enfield,Greater London,London,England
+DM-000080,2016-05-29 12:00,2019-09-13 09:00,Permanent,OX20,E01032954,E02005996,West Oxfordshire,Oxfordshire,South East,England
+DM-000081,2019-04-19 10:00,2026-05-07 10:00,Permanent,SG17,E01017439,E02003609,Central Bedfordshire,Bedfordshire,East of England,England
+DM-000082,2012-10-24 12:00,2022-12-22 14:00,Permanent,WC1B,E01000855,E02000193,Camden,Greater London,London,England
+DM-000083,2018-11-29 08:00,2022-04-01 05:00,Permanent,TS21,E01020811,E02004334,County Durham,County Durham,North East,England
+DM-000084,2021-08-09 12:00,2023-03-04 20:07,Permanent,RH11,E01031573,E02006575,Crawley,West Sussex,South East,England
+DM-000085,2019-04-20 08:00,2026-12-26 03:00,Permanent,HP20,E01032955,E02003665,Buckinghamshire,Buckinghamshire,South East,England
+DM-000086,2021-10-20 09:00,2029-08-10 09:00,Permanent,IG11,E01000092,E02000012,Barking and Dagenham,Greater London,London,England
+DM-000087,2021-02-09 18:00,2021-03-14 10:00,Permanent,HA2,E01002162,E02000447,Harrow,Greater London,London,England
+DM-000088,2012-09-02 11:00,2019-11-24 09:00,Permanent,MK41,E01033432,E02003619,Bedford,Bedfordshire,East of England,England
+DM-000089,2022-02-18 07:00,2028-03-19 11:00,Permanent,SS17,E01015943,E02003296,Thurrock,Essex,East of England,England
+DM-000089,2031-01-12 14:00,2032-12-23 20:00,Permanent,CM16,E01021762,E02004531,Epping Forest,Essex,East of England,England
+DM-000090,2017-01-31 13:00,2017-10-10 04:00,Permanent,LU6,E01017565,E02003647,Central Bedfordshire,Bedfordshire,East of England,England
+DM-000091,2022-04-06 11:00,2024-11-07 14:00,Permanent,TW8,E01002684,E02000528,Hounslow,Greater London,London,England
+DM-000091,2025-04-16 19:00,2025-10-14 13:00,Permanent,E4,E01004452,E02000895,Waltham Forest,Greater London,London,England
+DM-000091,2026-03-23 12:00,2027-04-07 15:00,Permanent,EX37,E01020308,E02004226,Torridge,Devon,South West,England
+DM-000092,2020-01-13 14:00,2020-01-30 09:00,Permanent,HU14,E01013088,E02002718,East Riding of Yorkshire,East Riding of Yorkshire,Yorkshire and The Humber,England
+DM-000093,2022-09-10 22:00,2027-04-05 04:00,Permanent,HA3,E01000543,E02000095,Brent,Greater London,London,England
+DM-000094,2022-11-05 07:00,2031-01-23 12:00,Permanent,ST19,E01029617,E02006176,South Staffordshire,Staffordshire,West Midlands,England
+DM-000095,2020-07-02 11:00,2020-07-22 18:00,Permanent,SG17,E01017437,E02003609,Central Bedfordshire,Bedfordshire,East of England,England
+DM-000096,2018-08-03 10:00,2030-02-24 16:00,Permanent,NW7,E01000262,E02000040,Barnet,Greater London,London,England
+DM-000097,2019-12-01 13:00,2020-02-04 12:00,Permanent,IG11,E01000067,E02000012,Barking and Dagenham,Greater London,London,England
+DM-000098,2014-02-05 11:00,2032-10-24 09:00,Permanent,E1,E01004308,E02000876,Tower Hamlets,Greater London,London,England
+DM-000099,2020-06-06 09:00,2023-11-23 12:00,Permanent,E12,E01003583,E02000715,Newham,Greater London,London,England
+DM-000100,2018-06-21 17:00,2034-02-07 12:00,Permanent,LU3,E01015786,E02003263,Luton,Bedfordshire,East of England,England
+DM-000100,2038-01-28 14:00,2051-08-13 14:00,Temporary,CO4,E01021679,E02004507,Colchester,Essex,East of England,England
+DM-000101,2021-04-07 10:00,2021-11-19 09:00,Permanent,IG2,E01003755,E02000773,Redbridge,Greater London,London,England
+DM-000102,2021-06-19 11:00,2038-07-03 09:00,Permanent,WD6,E01023565,E02004901,Hertsmere,Hertfordshire,East of England,England
+DM-000103,2018-08-12 06:00,2021-03-22 13:00,Permanent,CM7,E01021369,E02004452,Braintree,Essex,East of England,England
+DM-000104,2006-07-02 16:00,2011-11-06 09:00,Permanent,RM8,E01000072,E02000008,Barking and Dagenham,Greater London,London,England
+DM-000104,2015-10-28 07:00,2033-06-25 11:00,Permanent,E7,E01003571,E02000714,Newham,Greater London,London,England
+DM-000105,2012-11-22 08:00,2022-04-17 13:00,Permanent,E18,E01003776,E02000759,Redbridge,Greater London,London,England
+DM-000106,2017-01-15 20:00,2020-03-26 11:00,Permanent,RH11,E01031573,E02006575,Crawley,West Sussex,South East,England
+DM-000107,2020-10-27 14:00,2026-10-28 11:00,Permanent,MK45,E01017374,E02003610,Central Bedfordshire,Bedfordshire,East of England,England
+DM-000108,2019-08-21 13:00,2020-12-30 13:00,Permanent,NW2,E01000223,E02000062,Barnet,Greater London,London,England
+DM-000109,2021-08-30 08:00,2030-06-19 10:00,Permanent,MK10,E01033501,E02003474,Milton Keynes,Buckinghamshire,South East,England
+DM-000110,2015-05-22 12:00,2015-05-11 15:00,Permanent,MK2,E01016744,E02003490,Milton Keynes,Buckinghamshire,South East,England
+DM-000111,2016-11-24 08:00,2019-01-13 10:00,Permanent,E2,E01001773,E02000369,Hackney,Greater London,London,England
+DM-000112,2007-07-24 10:00,2009-09-29 14:00,Permanent,E9,E01001846,E02000362,Hackney,Greater London,London,England
+DM-000113,2020-05-23 07:00,2023-01-09 13:00,Permanent,CO3,E01021654,E02004514,Colchester,Essex,East of England,England
+DM-000114,2023-02-04 10:00,2027-06-13 08:00,Permanent,HA2,E01002214,E02000447,Harrow,Greater London,London,England
+DM-000115,2021-10-18 10:00,2022-05-05 04:00,Permanent,NN14,E01027124,E02005641,Kettering,Northamptonshire,East Midlands,England
+DM-000116,2015-12-26 13:00,2019-10-27 01:00,Permanent,N16,E01001725,E02000345,Hackney,Greater London,London,England
+DM-000118,2021-01-05 12:00,2026-01-21 20:00,Permanent,HD3,E01011155,E02002308,Kirklees,West Yorkshire,Yorkshire and The Humber,England
+DM-000119,2015-12-17 19:00,2016-04-21 11:00,Permanent,IP4,E01029960,E02006248,Ipswich,Suffolk,East of England,England
+DM-000120,2016-12-06 08:00,2017-08-02 19:00,Permanent,TW3,E01002640,E02000536,Hounslow,Greater London,London,England
+DM-000121,2020-04-04 07:00,2022-04-13 03:00,Permanent,SW11,E01033099,E02000925,Wandsworth,Greater London,London,England
+DM-000121,2022-07-29 12:00,2033-04-05 11:00,Permanent,CM9,E01021893,E02004555,Maldon,Essex,East of England,England
+DM-000122,2022-09-02 11:00,2026-12-21 13:00,Permanent,E17,E01004467,E02000903,Waltham Forest,Greater London,London,England
+DM-000123,2018-07-20 12:00,2020-12-27 12:00,Temporary,HP20,E01032955,E02003665,Buckinghamshire,Buckinghamshire,South East,England
+DM-000124,2022-07-28 10:00,2032-07-08 07:00,Permanent,TW16,E01030754,E02006410,Spelthorne,Surrey,South East,England
+DM-000125,2015-08-08 11:00,2018-03-19 13:00,Permanent,IP30,E01030051,E02006266,Mid Suffolk,Suffolk,East of England,England
+DM-000126,2007-10-23 15:00,2008-03-30 04:00,Permanent,N1,E01002717,E02000365,Hackney,Greater London,London,England
+DM-000127,2019-05-08 04:00,2021-09-25 11:00,Permanent,MK10,E01033501,E02003474,Milton Keynes,Buckinghamshire,South East,England
+DM-000128,2017-01-28 12:00,2020-11-05 12:00,Permanent,TW1,E01003895,E02000790,Richmond upon Thames,Greater London,London,England
+DM-000129,2020-09-19 16:00,2027-03-11 11:00,Permanent,RM3,E01002284,E02000465,Havering,Greater London,London,England
+DM-000130,2021-07-17 12:00,2024-09-27 18:00,Permanent,HU6,E01012881,E02002659,"Kingston upon Hull, City of",East Riding of Yorkshire,Yorkshire and The Humber,England
+DM-000131,2012-03-04 06:00,2014-03-10 15:00,Permanent,TW7,E01002676,E02000537,Hounslow,Greater London,London,England
+DM-000132,2008-10-20 11:00,2009-07-28 11:00,Permanent,IG8,E01003760,E02000751,Redbridge,Greater London,London,England
+DM-000133,2019-06-01 13:00,2026-11-06 15:00,Permanent,HP11,E01017908,E02003708,Buckinghamshire,Buckinghamshire,South East,England
+DM-000134,2004-03-17 11:00,2011-02-05 09:00,Permanent,PL27,E01018924,E02003937,Cornwall,Cornwall,South West,England
+DM-000135,2009-10-30 08:00,2010-03-03 13:00,Permanent,E9,E01001729,E02000362,Hackney,Greater London,London,England
+DM-000136,2011-05-07 16:00,2015-01-27 17:00,Permanent,E2,E01004199,E02000369,Hackney,Greater London,London,England
+DM-000137,2019-10-15 12:00,2032-04-21 16:00,Permanent,TW14,E01002590,E02000547,Hounslow,Greater London,London,England
+DM-000138,2019-04-20 07:00,2027-01-26 13:00,Permanent,EN3,E01001547,E02000277,Enfield,Greater London,London,England
+DM-000139,2020-01-31 11:00,2020-03-02 18:00,Permanent,PE15,E01018078,E02003748,Fenland,Cambridgeshire,East of England,England
+DM-000139,2021-04-12 05:00,2027-05-31 14:00,Permanent,CM2,E01021545,E02004492,Chelmsford,Essex,East of England,England
+DM-000140,2018-11-04 13:00,2020-11-01 08:00,Permanent,E1,E01004294,E02000876,Tower Hamlets,Greater London,London,England
+DM-000140,2023-04-26 22:00,2039-02-22 06:00,Permanent,SW11,E01033099,E02000925,Wandsworth,Greater London,London,England
+DM-000141,2016-10-02 17:00,2017-12-08 09:00,Permanent,CM14,E01021438,E02004469,Brentwood,Essex,East of England,England
+DM-000142,2017-07-30 12:00,2018-06-16 20:00,Permanent,E1,E01004287,E02000876,Tower Hamlets,Greater London,London,England
+DM-000142,2019-06-04 18:00,2023-03-30 05:00,Permanent,UB1,E01001219,E02000254,Ealing,Greater London,London,England
+DM-000143,2009-01-08 14:00,2009-01-28 13:00,Permanent,CM12,E01021253,E02004425,Basildon,Essex,East of England,England
+DM-000143,2014-11-19 05:00,2033-02-08 20:00,Permanent,N16,E01001723,E02000345,Hackney,Greater London,London,England
+DM-000144,2013-10-14 10:00,2024-12-08 09:00,Permanent,PO4,E01017029,E02003542,Portsmouth,Hampshire,South East,England
+DM-000145,2021-05-09 06:00,2021-09-21 15:00,Permanent,NW10,E01000524,E02000106,Brent,Greater London,London,England
+DM-000145,2023-03-14 11:00,2023-04-10 17:00,Permanent,HP2,E01023393,E02004860,Dacorum,Hertfordshire,East of England,England
+DM-000146,2020-08-03 08:00,2034-09-16 15:00,Permanent,PE15,E01018078,E02003748,Fenland,Cambridgeshire,East of England,England
+DM-000146,2043-12-03 08:00,2044-12-10 16:00,Permanent,RH10,E01031587,E02006576,Crawley,West Sussex,South East,England
+DM-000146,2054-02-26 08:00,2058-09-23 13:00,Permanent,WD6,E01023565,E02004901,Hertsmere,Hertfordshire,East of England,England
+DM-000147,2009-05-07 09:00,2011-10-26 14:00,Permanent,LU4,E01015787,E02003262,Luton,Bedfordshire,East of England,England
+DM-000148,2018-06-30 14:00,2034-02-18 13:00,Permanent,E9,E01001837,E02000362,Hackney,Greater London,London,England
+DM-000149,2018-03-26 11:00,2018-08-18 14:00,Permanent,TW2,E01003844,E02000796,Richmond upon Thames,Greater London,London,England
+DM-000150,2016-08-10 12:00,2033-07-18 15:00,Permanent,SW9,E01003100,E02000622,Lambeth,Greater London,London,England
+DM-000151,2021-11-11 06:00,2025-03-07 07:00,Permanent,N18,E01001465,E02000307,Enfield,Greater London,London,England
+DM-000152,2010-10-09 06:00,2015-08-10 07:00,Temporary,IG8,E01003750,E02000751,Redbridge,Greater London,London,England
+DM-000153,2016-06-22 08:00,2028-02-02 11:00,Permanent,TW16,E01030752,E02006410,Spelthorne,Surrey,South East,England
+DM-000153,2040-04-25 16:00,2047-10-10 11:00,Permanent,RM6,E01000030,E02000002,Barking and Dagenham,Greater London,London,England
+DM-000154,2023-02-21 13:00,2025-06-05 18:00,Permanent,E6,E01003493,E02000731,Newham,Greater London,London,England
+DM-000154,2032-04-30 06:00,2044-01-23 13:00,Permanent,SS1,E01015883,E02003287,Southend-on-Sea,Essex,East of England,England
+DM-000155,2021-05-02 11:00,2026-03-13 05:00,Permanent,MK43,E01017553,E02003635,Bedford,Bedfordshire,East of England,England
+DM-000157,2011-01-20 13:00,2014-07-15 16:00,Permanent,HA1,E01002162,E02000447,Harrow,Greater London,London,England
+DM-000158,2010-03-24 13:00,2010-11-07 13:00,Permanent,IP3,E01033127,E02006255,Ipswich,Suffolk,East of England,England
+DM-000159,2013-06-22 11:00,2020-08-21 12:00,Permanent,CO6,E01021663,E02004459,Braintree,Essex,East of England,England
+DM-000159,2022-11-04 09:00,2024-02-27 16:00,Permanent,EN3,E01001441,E02000277,Enfield,Greater London,London,England
+DM-000159,2026-05-12 12:00,2031-10-04 20:00,Permanent,NW4,E01000237,E02000054,Barnet,Greater London,London,England
+DM-000160,2015-12-31 13:00,2024-05-30 15:00,Permanent,N17,E01002104,E02000401,Haringey,Greater London,London,England
+DM-000160,2028-12-01 19:00,2035-12-29 08:00,Permanent,WD23,E01023563,E02004903,Hertsmere,Hertfordshire,East of England,England
+DM-000162,2021-07-27 08:00,2022-07-19 16:00,Permanent,E7,E01003570,E02000714,Newham,Greater London,London,England
+DM-000162,2022-10-30 12:00,2027-02-04 09:00,Permanent,RG31,E01016258,E02003371,West Berkshire,Berkshire,South East,England
+DM-000163,2011-07-02 14:00,2011-09-12 14:00,Permanent,TQ1,E01015215,E02003158,Torbay,Devon,South West,England
+DM-000163,2014-08-23 10:00,2025-02-23 10:00,Temporary,TW2,E01003844,E02000796,Richmond upon Thames,Greater London,London,England
+DM-000163,2028-02-04 13:00,2032-06-04 16:00,Permanent,WC1X,E01000917,E02000189,Camden,Greater London,London,England
+DM-000163,2035-05-16 08:00,2036-04-27 14:00,Permanent,PO4,E01017029,E02003542,Portsmouth,Hampshire,South East,England
+DM-000164,2023-06-05 04:00,2025-02-21 12:00,Permanent,E6,E01003481,E02000731,Newham,Greater London,London,England
+DM-000165,2013-01-15 11:00,2014-07-08 11:00,Permanent,W5,E01001281,E02000248,Ealing,Greater London,London,England
+DM-000166,2014-06-05 13:00,2015-02-20 09:00,Permanent,DA1,E01000377,E02000083,Bexley,Greater London,London,England
+DM-000167,2017-04-26 18:00,2021-12-25 14:00,Permanent,IG8,E01003760,E02000751,Redbridge,Greater London,London,England
+DM-000167,2022-09-28 15:00,2023-11-06 13:00,Permanent,NW8,E01004730,E02000185,Camden,Greater London,London,England
+DM-000168,2021-10-20 09:00,2027-10-17 15:00,Permanent,E3,E01004242,E02000864,Tower Hamlets,Greater London,London,England
+DM-000168,2030-02-05 08:00,2036-01-10 15:00,Permanent,N4,E01001717,E02000351,Hackney,Greater London,London,England
+DM-000169,2007-12-17 04:00,2013-12-13 10:00,Permanent,UB3,E01002402,E02000517,Hillingdon,Greater London,London,England
+DM-000169,2021-12-26 06:00,2027-01-17 06:00,Permanent,N17,E01002092,E02000401,Haringey,Greater London,London,England
+DM-000169,2035-01-30 09:00,2038-05-21 06:00,Permanent,HP10,E01017867,E02003713,Buckinghamshire,Buckinghamshire,South East,England
+DM-000169,2046-06-03 11:00,2057-01-27 11:00,Temporary,NW10,E01000493,E02000106,Brent,Greater London,London,England
+DM-000170,2017-08-29 10:00,2022-02-27 13:00,Permanent,N4,E01001717,E02000351,Hackney,Greater London,London,England
+DM-000171,2020-02-25 08:00,2021-01-21 09:00,Permanent,IG6,E01003702,E02000756,Redbridge,Greater London,London,England
+DM-000172,2022-10-06 11:00,2022-12-11 12:00,Permanent,MK8,E01033522,E02003477,Milton Keynes,Buckinghamshire,South East,England
+DM-000173,2022-10-28 07:00,2026-07-25 05:00,Permanent,OX3,E01028571,E02005944,Oxford,Oxfordshire,South East,England
+DM-000174,2022-10-09 15:00,2041-06-20 17:00,Correspondence,HP20,E01032955,E02003665,Buckinghamshire,Buckinghamshire,South East,England
+DM-000175,2015-09-05 17:00,2029-10-19 16:00,Permanent,UB5,E01001263,E02000238,Ealing,Greater London,London,England
+DM-000175,2030-04-26 00:00,2033-12-28 09:00,Permanent,OX3,E01028571,E02005944,Oxford,Oxfordshire,South East,England
+DM-000175,2034-07-05 10:00,2035-05-22 12:00,Permanent,RM13,E01002264,E02000489,Havering,Greater London,London,England
+DM-000176,2022-10-28 03:00,2042-02-09 17:00,Permanent,RM1,E01002243,E02000476,Havering,Greater London,London,England
+DM-000177,2020-01-28 10:00,2022-05-22 03:00,Permanent,RM10,E01000035,E02000007,Barking and Dagenham,Greater London,London,England
+DM-000178,2016-08-13 12:00,2021-06-29 15:00,Permanent,PE15,E01018078,E02003748,Fenland,Cambridgeshire,East of England,England
+DM-000179,2018-07-28 12:00,2025-09-08 11:00,Permanent,N16,E01001728,E02000345,Hackney,Greater London,London,England
+DM-000179,2037-04-22 09:00,2039-10-16 10:00,Permanent,CM21,E01023503,E02004888,East Hertfordshire,Hertfordshire,East of England,England
+DM-000180,2020-01-26 09:00,2021-03-21 13:00,Permanent,E4,E01004452,E02000895,Waltham Forest,Greater London,London,England
+DM-000181,2023-01-27 12:00,2024-02-25 08:00,Permanent,SW11,E01033099,E02000925,Wandsworth,Greater London,London,England
+DM-000182,2017-03-31 08:00,2021-12-09 15:00,Permanent,MK2,E01016744,E02003490,Milton Keynes,Buckinghamshire,South East,England
+DM-000183,2020-09-30 10:00,2021-05-02 12:00,Permanent,CM9,E01021893,E02004555,Maldon,Essex,East of England,England
+DM-000183,2023-01-03 08:00,2033-08-03 12:00,Permanent,LU1,E01017562,E02003274,Luton,Bedfordshire,East of England,England
+DM-000184,2021-05-25 13:00,2027-06-21 13:00,Permanent,AL8,E01023917,E02004985,Welwyn Hatfield,Hertfordshire,East of England,England
+DM-000185,2010-11-09 07:00,2014-04-13 16:00,Permanent,UB1,E01001363,E02000254,Ealing,Greater London,London,England
+DM-000185,2014-05-15 14:00,2015-09-12 11:00,Permanent,UB1,E01001362,E02000254,Ealing,Greater London,London,England
+DM-000186,2017-03-14 17:00,2020-03-21 11:00,Permanent,WD7,E01023525,E02004899,Hertsmere,Hertfordshire,East of England,England
+DM-000187,2020-09-02 14:00,2022-07-13 14:02,Permanent,IG2,E01003755,E02000773,Redbridge,Greater London,London,England
+DM-000188,2018-05-19 12:00,2020-10-11 07:00,Permanent,E1,E01004321,E02000876,Tower Hamlets,Greater London,London,England
+DM-000189,2020-05-21 15:00,2021-02-09 18:00,Permanent,RM20,E01016011,E02003310,Thurrock,Essex,East of England,England
+DM-000190,2006-05-20 05:00,2011-08-22 13:00,Permanent,SE22,E01004052,E02000830,Southwark,Greater London,London,England
+DM-000191,2010-11-14 05:00,2010-11-27 16:00,Permanent,HA7,E01002202,E02000433,Harrow,Greater London,London,England
+DM-000192,2023-03-12 10:00,2025-10-16 11:00,Temporary,TW16,E01030754,E02006410,Spelthorne,Surrey,South East,England
+DM-000193,2022-12-06 05:00,2026-08-21 17:00,Permanent,E6,E01003481,E02000731,Newham,Greater London,London,England
+DM-000194,2019-08-13 15:00,2024-06-24 14:00,Permanent,N17,E01002092,E02000401,Haringey,Greater London,London,England
+DM-000195,2004-03-18 08:00,2006-04-04 08:00,Permanent,N18,E01001554,E02000307,Enfield,Greater London,London,England
+DM-000196,2017-04-28 07:00,2024-11-13 09:00,Permanent,IG6,E01003700,E02000756,Redbridge,Greater London,London,England
+DM-000197,2014-05-20 12:00,2020-05-08 10:00,Permanent,N8,E01033085,E02000416,Haringey,Greater London,London,England
+DM-000197,2022-05-07 11:00,2027-02-09 12:00,Permanent,WD17,E01023881,E02004974,Watford,Hertfordshire,East of England,England
+DM-000198,2020-04-25 17:00,2022-12-08 14:00,Permanent,IG7,E01003725,E02000753,Redbridge,Greater London,London,England
+DM-000198,2023-02-03 07:00,2027-07-29 13:00,Permanent,CM9,E01021893,E02004555,Maldon,Essex,East of England,England
+DM-000198,2027-09-24 13:00,2031-08-12 12:00,Temporary,WD25,E01023873,E02004970,Watford,Hertfordshire,East of England,England
+DM-000198,2031-10-08 09:00,2045-01-29 10:00,Permanent,E2,E01001773,E02000369,Hackney,Greater London,London,England
+DM-000199,2018-10-12 18:00,2019-05-24 06:00,Permanent,MK5,E01016755,E02003483,Milton Keynes,Buckinghamshire,South East,England
+DM-000200,2017-10-30 10:00,2019-10-07 03:56,Permanent,N18,E01001558,E02000307,Enfield,Greater London,London,England

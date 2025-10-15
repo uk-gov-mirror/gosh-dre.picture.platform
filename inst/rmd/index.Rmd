@@ -1,0 +1,26 @@
+---
+title: |
+  | **`r params$title`**
+author: "PICTURE Clinical Informatics Report"
+header-includes:
+  - \setlength{\footskip}{44pt}
+  - \lhead{`r params$title`}
+  - \rhead{PICTURE Clinical Informatics Report}
+  - \rfoot{\thepage\ of \pageref{LastPage}}
+  - \lfoot{
+        \includegraphics[height=40pt]{
+          `r system.file("www", "GOSH_DRIVE_Logo_RGB.png", package = "picture.platform")`
+        }
+      }
+params:
+  title: "Title Missing"
+---
+
+:::: {.blackbox data-latex=""}
+::: {.center data-latex=""}
+**IMPORTANT NOTICE!**
+:::
+PICTURE (including its software platform and output reports) is in research and development and has not been released.
+
+**No outputs are to be used for any clinical decision making** and full validation is not yet implemented across either patient datasets or analytics functions. **Use this report with caution.**
+::::

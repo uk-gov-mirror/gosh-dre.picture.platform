@@ -1,0 +1,972 @@
+diag_nat_code,chapter_range,chapter_name,group_range,group_name,sub_group_range,sub_group_name
+N185,N00-N99,Diseases of the genitourinary system,N17-N19,Renal failure,N17-N19,Renal failure
+D638,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D60-D64,Aplastic and other anaemias,D60-D64,Aplastic and other anaemias
+Q642,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+Z491,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+Z958,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z884,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+N049,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+N183,N00-N99,Diseases of the genitourinary system,N17-N19,Renal failure,N17-N19,Renal failure
+N189,N00-N99,Diseases of the genitourinary system,N17-N19,Renal failure,N17-N19,Renal failure
+Z940,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z931,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Q647,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+R572,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+Z876,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+P292,P00-P96,Certain conditions originating in the perinatal period,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+E618,E00-E90,"Endocrine, nutritional and metabolic diseases",E50-E64,Other nutritional deficiencies,E50-E64,Other nutritional deficiencies
+E109,E00-E90,"Endocrine, nutritional and metabolic diseases",E10-E14,Diabetes mellitus,E10-E14,Diabetes mellitus
+N271,N00-N99,Diseases of the genitourinary system,N25-N29,Other disorders of kidney and ureter,N25-N29,Other disorders of kidney and ureter
+L910,L00-L99,Diseases of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue
+Z886,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Q614,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+K909,K00-K93,Diseases of the digestive system,K90-K93,Other diseases of the digestive system,K90-K93,Other diseases of the digestive system
+Z922,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+H549,H00-H59,Diseases of the eye and adnexa,H53-H54,Visual disturbances and blindness,H53-H54,Visual disturbances and blindness
+F819,F00-F99,Mental and behavioural disorders,F80-F89,Disorders of psychological development,F80-F89,Disorders of psychological development
+Z918,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+I517,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+Z905,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+H530,H00-H59,Diseases of the eye and adnexa,H53-H54,Visual disturbances and blindness,H53-H54,Visual disturbances and blindness
+L033,L00-L99,Diseases of the skin and subcutaneous tissue,L00-L08,Infections of the skin and subcutaneous tissue,L00-L08,Infections of the skin and subcutaneous tissue
+F89,F00-F99,Mental and behavioural disorders,F80-F89,Disorders of psychological development,F80-F89,Disorders of psychological development
+Z888,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+T825,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+U073,U00-U85,Codes for special purposes,U00-U49,Provisional assignment of new diseases of uncertain etiology or emergency use,U00-U49,Provisional assignment of new diseases of uncertain etiology or emergency use
+E748,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+Z501,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+D175,C00-D48,Neoplasms,D10-D36,Benign neoplasms,D10-D36,Benign neoplasms
+N391,N00-N99,Diseases of the genitourinary system,N30-N39,Other diseases of urinary system,N30-N39,Other diseases of urinary system
+Z926,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+M089,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M05-M14,Inflammatory polyarthropathies
+Q766,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+I159,I00-I99,Diseases of the circulatory system,I10-I15,Hypertensive diseases,I10-I15,Hypertensive diseases
+Z006,Z00-Z99,Factors influencing health status and contact with health services,Z00-Z13,Persons encountering health services for examination and investigation,Z00-Z13,Persons encountering health services for examination and investigation
+I801,I00-I99,Diseases of the circulatory system,I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+R35,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R30-R39,Symptoms and signs involving the urinary system,R30-R39,Symptoms and signs involving the urinary system
+M2176,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M20-M25,Other joint disorders
+Z872,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R048,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+R030,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+I082,I00-I99,Diseases of the circulatory system,I05-I09,Chronic rheumatic heart diseases,I05-I09,Chronic rheumatic heart diseases
+J189,J00-J99,Diseases of the respiratory system,J09-J18,Influenza and pneumonia,J09-J18,Influenza and pneumonia
+Z818,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+B008,A00-B99,Certain infectious and parasitic diseases,B00-B09,Viral infections characterized by skin and mucous membrane lesions,B00-B09,Viral infections characterized by skin and mucous membrane lesions
+E780,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+R011,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+Z861,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+I151,I00-I99,Diseases of the circulatory system,I10-I15,Hypertensive diseases,I10-I15,Hypertensive diseases
+Z834,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R068,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+Z933,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R520,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+E639,E00-E90,"Endocrine, nutritional and metabolic diseases",E50-E64,Other nutritional deficiencies,E50-E64,Other nutritional deficiencies
+Z878,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R591,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+Z936,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R000,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+Q132,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q10-Q18,"Congenital malformations of eye, ear, face and neck",Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+Z507,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+D593,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D55-D59,Haemolytic anaemias,D55-D59,Haemolytic anaemias
+Q043,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q07,Congenital malformations of the nervous system,Q00-Q07,Congenital malformations of the nervous system
+F418,F00-F99,Mental and behavioural disorders,F40-F48,"Neurotic, stress-related and somatoform disorders",F40-F48,"Neurotic, stress-related and somatoform disorders"
+Mrc,,,,,,
+Q211,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+E785,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+E720,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+Z871,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+L55,L00-L99,Diseases of the skin and subcutaneous tissue,L55-L59,Radiation-related disorders of the skin and subcutaneous tissue,L55-L59,Radiation-related disorders of the skin and subcutaneous tissue
+D689,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions",D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions"
+D728,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D70-D77,Other diseases of blood and blood-forming organs,D70-D77,Other diseases of blood and blood-forming organs
+F840,F00-F99,Mental and behavioural disorders,F80-F89,Disorders of psychological development,F80-F89,Disorders of psychological development
+N137,N00-N99,Diseases of the genitourinary system,N10-N16,Renal tubulo-interstitial diseases,N10-N16,Renal tubulo-interstitial diseases
+R31,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R30-R39,Symptoms and signs involving the urinary system,R30-R39,Symptoms and signs involving the urinary system
+G959,G00-G99,Diseases of the nervous system,G90-G99,Other disorders of the nervous system,G90-G99,Other disorders of the nervous system
+Z867,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z877,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Y830,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y83-Y84,"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+Q923,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+K068,K00-K93,Diseases of the digestive system,K00-K14,"Diseases of oral cavity, salivary glands and jaws",K00-K14,"Diseases of oral cavity, salivary glands and jaws"
+Z921,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z866,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z874,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+I959,I00-I99,Diseases of the circulatory system,I95-I99,Other and unspecified disorders of the circulatory system,I95-I99,Other and unspecified disorders of the circulatory system
+G379,G00-G99,Diseases of the nervous system,G35-G37,Demyelinating diseases of the central nervous system,G35-G37,Demyelinating diseases of the central nervous system
+E559,E00-E90,"Endocrine, nutritional and metabolic diseases",E50-E64,Other nutritional deficiencies,E50-E64,Other nutritional deficiencies
+N319,N00-N99,Diseases of the genitourinary system,N30-N39,Other diseases of urinary system,N30-N39,Other diseases of urinary system
+Q437,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q38-Q45,Other congenital malformations of the digestive system,Q38-Q45,Other congenital malformations of the digestive system
+Q120,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q10-Q18,"Congenital malformations of eye, ear, face and neck",Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+Q851,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q80-Q89,Other congenital malformations,Q80-Q89,Other congenital malformations
+E771,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+N133,N00-N99,Diseases of the genitourinary system,N10-N16,Renal tubulo-interstitial diseases,N10-N16,Renal tubulo-interstitial diseases
+E611,E00-E90,"Endocrine, nutritional and metabolic diseases",E50-E64,Other nutritional deficiencies,E50-E64,Other nutritional deficiencies
+I871,I00-I99,Diseases of the circulatory system,I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+N390,N00-N99,Diseases of the genitourinary system,N30-N39,Other diseases of urinary system,N30-N39,Other diseases of urinary system
+N288,N00-N99,Diseases of the genitourinary system,N25-N29,Other disorders of kidney and ureter,N25-N29,Other disorders of kidney and ureter
+R629,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+N821,N00-N99,Diseases of the genitourinary system,N80-N98,Noninflammatory disorders of female genital tract,N80-N98,Noninflammatory disorders of female genital tract
+R05,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+R638,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+I352,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+R650,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+Z960,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R739,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R70-R79,"Abnormal findings on examination of blood, without diagnosis",R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+Q645,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+K298,K00-K93,Diseases of the digestive system,K20-K31,"Diseases of oesophagus, stomach and duodenum",K20-K31,"Diseases of oesophagus, stomach and duodenum"
+Z928,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Q777,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+B972,A00-B99,Certain infectious and parasitic diseases,B95-B98,"Bacterial, viral and other infectious agents",B95-B98,"Bacterial, viral and other infectious agents"
+D696,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions",D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions"
+Z223,Z00-Z99,Factors influencing health status and contact with health services,Z20-Z29,Persons with potential health hazards related to communicable diseases,Z20-Z29,Persons with potential health hazards related to communicable diseases
+Q619,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+K590,K00-K93,Diseases of the digestive system,K55-K64,Other diseases of intestines,K55-K64,Other diseases of intestines
+M2457,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M20-M25,Other joint disorders
+N12,N00-N99,Diseases of the genitourinary system,N10-N16,Renal tubulo-interstitial diseases,N10-N16,Renal tubulo-interstitial diseases
+Q253,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+Z831,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z290,Z00-Z99,Factors influencing health status and contact with health services,Z20-Z29,Persons with potential health hazards related to communicable diseases,Z20-Z29,Persons with potential health hazards related to communicable diseases
+Z843,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+F919,F00-F99,Mental and behavioural disorders,F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+T136,S00-T98,"Injury, poisoning and certain other consequences of external causes",T08-T14,"Injuries to unspecified part of trunk, limb or body region",T08-T14,"Injuries to unspecified part of trunk, limb or body region"
+Z638,Z00-Z99,Factors influencing health status and contact with health services,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+Q850,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q80-Q89,Other congenital malformations,Q80-Q89,Other congenital malformations
+N184,N00-N99,Diseases of the genitourinary system,N17-N19,Renal failure,N17-N19,Renal failure
+O358,O00-O99,"Pregnancy, childbirth and the puerperium",O30-O48,Maternal care related to the fetus and amniotic cavity and possible delivery problems,O30-O48,Maternal care related to the fetus and amniotic cavity and possible delivery problems
+Q564,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q50-Q56,Congenital malformations of genital organs,Q50-Q56,Congenital malformations of genital organs
+Z948,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Q615,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+N059,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+D563,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D55-D59,Haemolytic anaemias,D55-D59,Haemolytic anaemias
+Q848,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q80-Q89,Other congenital malformations,Q80-Q89,Other congenital malformations
+I150,I00-I99,Diseases of the circulatory system,I10-I15,Hypertensive diseases,I10-I15,Hypertensive diseases
+E711,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+Z017,Z00-Z99,Factors influencing health status and contact with health services,Z00-Z13,Persons encountering health services for examination and investigation,Z00-Z13,Persons encountering health services for examination and investigation
+Z911,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+I469,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+S60,S00-T98,"Injury, poisoning and certain other consequences of external causes",S60-S69,Injuries to the wrist and hand,S60-S69,Injuries to the wrist and hand
+Q999,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+Q320,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q30-Q34,Congenital malformations of the respiratory system,Q30-Q34,Congenital malformations of the respiratory system
+Z653,Z00-Z99,Factors influencing health status and contact with health services,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+D819,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism
+IMO0002,,,,,,
+Q518,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q50-Q56,Congenital malformations of genital organs,Q50-Q56,Congenital malformations of genital organs
+N328,N00-N99,Diseases of the genitourinary system,N30-N39,Other diseases of urinary system,N30-N39,Other diseases of urinary system
+I10,I00-I99,Diseases of the circulatory system,I10-I15,Hypertensive diseases,I10-I15,Hypertensive diseases
+F900,F00-F99,Mental and behavioural disorders,F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+Z863,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+E213,E00-E90,"Endocrine, nutritional and metabolic diseases",E20-E35,Disorders of other endocrine glands,E20-E35,Disorders of other endocrine glands
+M109,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M05-M14,Inflammatory polyarthropathies
+Z860,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+E139,E00-E90,"Endocrine, nutritional and metabolic diseases",E10-E14,Diabetes mellitus,E10-E14,Diabetes mellitus
+N041,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+K529,K00-K93,Diseases of the digestive system,K50-K52,Noninfective enteritis and colitis,K50-K52,Noninfective enteritis and colitis
+N10,N00-N99,Diseases of the genitourinary system,N10-N16,Renal tubulo-interstitial diseases,N10-N16,Renal tubulo-interstitial diseases
+H355,H00-H59,Diseases of the eye and adnexa,H30-H36,Disorders of choroid and retina,H30-H36,Disorders of choroid and retina
+Q138,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q10-Q18,"Congenital malformations of eye, ear, face and neck",Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+Z010,Z00-Z99,Factors influencing health status and contact with health services,Z00-Z13,Persons encountering health services for examination and investigation,Z00-Z13,Persons encountering health services for examination and investigation
+Z827,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R458,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour"
+Q068,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q07,Congenital malformations of the nervous system,Q00-Q07,Congenital malformations of the nervous system
+Z992,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z881,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+H522,H00-H59,Diseases of the eye and adnexa,H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction",H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+N058,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+Z862,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R633,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+I510,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+Q639,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+Drc,,,,,,
+Nrc,,,,,,
+I776,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+G473,G00-G99,Diseases of the nervous system,G40-G47,Episodic and paroxysmal disorders,G40-G47,Episodic and paroxysmal disorders
+T861,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+N179,N00-N99,Diseases of the genitourinary system,N17-N19,Renal failure,N17-N19,Renal failure
+Z935,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z855,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+M216,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M20-M25,Other joint disorders
+R202,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R20-R23,Symptoms and signs involving the skin and subcutaneous tissue,R20-R23,Symptoms and signs involving the skin and subcutaneous tissue
+R194,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+C795,C00-D48,Neoplasms,C00-C97,Malignant neoplasms,C76-C80,"Malignant neoplasms of ill-defined,  secondary and unspecified sites"
+Z910,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+T828,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+I438,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+Q02,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q07,Congenital malformations of the nervous system,Q00-Q07,Congenital malformations of the nervous system
+E301,E00-E90,"Endocrine, nutritional and metabolic diseases",E20-E35,Disorders of other endocrine glands,E20-E35,Disorders of other endocrine glands
+P113,P00-P96,Certain conditions originating in the perinatal period,P10-P15,Birth trauma,P10-P15,Birth trauma
+U838,U00-U85,Codes for special purposes,U82-U85,Resistance to antimicrobial and antineoplastic drugs,U82-U85,Resistance to antimicrobial and antineoplastic drugs
+B952,A00-B99,Certain infectious and parasitic diseases,B95-B98,"Bacterial, viral and other infectious agents",B95-B98,"Bacterial, viral and other infectious agents"
+D739,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D70-D77,Other diseases of blood and blood-forming organs,D70-D77,Other diseases of blood and blood-forming organs
+D619,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D60-D64,Aplastic and other anaemias,D60-D64,Aplastic and other anaemias
+K746,K00-K93,Diseases of the digestive system,K70-K77,Diseases of liver,K70-K77,Diseases of liver
+Q909,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+J459,J00-J99,Diseases of the respiratory system,J40-J47,Chronic lower respiratory diseases,J40-J47,Chronic lower respiratory diseases
+Z639,Z00-Z99,Factors influencing health status and contact with health services,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+M321,M00-M99,Diseases of the musculoskeletal system and connective tissue,M30-M36,Systemic connective tissue disorders,M30-M36,Systemic connective tissue disorders
+Q422,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q38-Q45,Other congenital malformations of the digestive system,Q38-Q45,Other congenital malformations of the digestive system
+Q439,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q38-Q45,Other congenital malformations of the digestive system,Q38-Q45,Other congenital malformations of the digestive system
+Z513,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+K449,K00-K93,Diseases of the digestive system,K40-K46,Hernia,K40-K46,Hernia
+Q603,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+N085,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+K219,K00-K93,Diseases of the digestive system,K20-K31,"Diseases of oesophagus, stomach and duodenum",K20-K31,"Diseases of oesophagus, stomach and duodenum"
+E610,E00-E90,"Endocrine, nutritional and metabolic diseases",E50-E64,Other nutritional deficiencies,E50-E64,Other nutritional deficiencies
+I770,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+F818,F00-F99,Mental and behavioural disorders,F80-F89,Disorders of psychological development,F80-F89,Disorders of psychological development
+N200,N00-N99,Diseases of the genitourinary system,N20-N23,Urolithiasis,N20-N23,Urolithiasis
+H520,H00-H59,Diseases of the eye and adnexa,H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction",H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+Z950,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z880,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+T810,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+J90,J00-J99,Diseases of the respiratory system,J90-J94,Other diseases of pleura,J90-J94,Other diseases of pleura
+Q251,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+Q872,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q80-Q89,Other congenital malformations,Q80-Q89,Other congenital malformations
+E835,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+H919,H60-H95,Diseases of the ear and mastoid process,H90-H95,Other disorders of ear,H90-H95,Other disorders of ear
+Q627,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+E343,E00-E90,"Endocrine, nutritional and metabolic diseases",E20-E35,Disorders of other endocrine glands,E20-E35,Disorders of other endocrine glands
+D479,C00-D48,Neoplasms,D37-D48,Neoplasms of uncertain or unknown behaviour,D37-D48,Neoplasms of uncertain or unknown behaviour
+C222,C00-D48,Neoplasms,C00-C97,Malignant neoplasms,C15-C26,Malignant neoplasms of digestive organs
+E831,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+T857,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+J301,J00-J99,Diseases of the respiratory system,J30-J39,Other diseases of upper respiratory tract,J30-J39,Other diseases of upper respiratory tract
+F402,F00-F99,Mental and behavioural disorders,F40-F48,"Neurotic, stress-related and somatoform disorders",F40-F48,"Neurotic, stress-related and somatoform disorders"
+Z713,Z00-Z99,Factors influencing health status and contact with health services,Z70-Z76,Persons encountering health services in other circumstances,Z70-Z76,Persons encountering health services in other circumstances
+Z962,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Q532,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q50-Q56,Congenital malformations of genital organs,Q50-Q56,Congenital malformations of genital organs
+R945,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R90-R94,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis",R90-R94,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+Q622,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+I719,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+D489,C00-D48,Neoplasms,D37-D48,Neoplasms of uncertain or unknown behaviour,D37-D48,Neoplasms of uncertain or unknown behaviour
+I726,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+G801,G00-G99,Diseases of the nervous system,G80-G83,Cerebral palsy and other paralytic syndromes,G80-G83,Cerebral palsy and other paralytic syndromes
+R031,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+Q921,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+L732,L00-L99,Diseases of the skin and subcutaneous tissue,L60-L75,Disorders of skin appendages,L60-L75,Disorders of skin appendages
+K088,K00-K93,Diseases of the digestive system,K00-K14,"Diseases of oral cavity, salivary glands and jaws",K00-K14,"Diseases of oral cavity, salivary glands and jaws"
+L309,L00-L99,Diseases of the skin and subcutaneous tissue,L20-L30,Dermatitis and eczema,L20-L30,Dermatitis and eczema
+Z930,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+B962,A00-B99,Certain infectious and parasitic diseases,B95-B98,"Bacterial, viral and other infectious agents",B95-B98,"Bacterial, viral and other infectious agents"
+F88,F00-F99,Mental and behavioural disorders,F80-F89,Disorders of psychological development,F80-F89,Disorders of psychological development
+J00,J00-J99,Diseases of the respiratory system,J00-J06,Acute upper respiratory infections,J00-J06,Acute upper respiratory infections
+Z616,Z00-Z99,Factors influencing health status and contact with health services,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+D573,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D55-D59,Haemolytic anaemias,D55-D59,Haemolytic anaemias
+Q878,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q80-Q89,Other congenital malformations,Q80-Q89,Other congenital malformations
+Q899,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q80-Q89,Other congenital malformations,Q80-Q89,Other congenital malformations
+D171,C00-D48,Neoplasms,D10-D36,Benign neoplasms,D10-D36,Benign neoplasms
+R628,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+R11,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+U820,U00-U85,Codes for special purposes,U82-U85,Resistance to antimicrobial and antineoplastic drugs,U82-U85,Resistance to antimicrobial and antineoplastic drugs
+R490,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R47-R49,Symptoms and signs involving speech and voice,R47-R49,Symptoms and signs involving speech and voice
+H903,H60-H95,Diseases of the ear and mastoid process,H90-H95,Other disorders of ear,H90-H95,Other disorders of ear
+M314,M00-M99,Diseases of the musculoskeletal system and connective tissue,M30-M36,Systemic connective tissue disorders,M30-M36,Systemic connective tissue disorders
+Z841,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+L603,L00-L99,Diseases of the skin and subcutaneous tissue,L60-L75,Disorders of skin appendages,L60-L75,Disorders of skin appendages
+M419,M00-M99,Diseases of the musculoskeletal system and connective tissue,M40-M54,Dorsopathies,M40-M43,Deforming dorsopathies
+R845,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis"
+M2170,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M20-M25,Other joint disorders
+F82,F00-F99,Mental and behavioural disorders,F80-F89,Disorders of psychological development,F80-F89,Disorders of psychological development
+G409,G00-G99,Diseases of the nervous system,G40-G47,Episodic and paroxysmal disorders,G40-G47,Episodic and paroxysmal disorders
+T856,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+N057,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+J981,J00-J99,Diseases of the respiratory system,J95-J99,Other diseases of the respiratory system,J95-J99,Other diseases of the respiratory system
+T855,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+P073,P00-P96,Certain conditions originating in the perinatal period,P05-P08,Disorders related to length of gestation and fetal growth,P05-P08,Disorders related to length of gestation and fetal growth
+I313,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+J988,J00-J99,Diseases of the respiratory system,J95-J99,Other diseases of the respiratory system,J95-J99,Other diseases of the respiratory system
+Q221,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+N323,N00-N99,Diseases of the genitourinary system,N30-N39,Other diseases of urinary system,N30-N39,Other diseases of urinary system
+E149,E00-E90,"Endocrine, nutritional and metabolic diseases",E10-E14,Diabetes mellitus,E10-E14,Diabetes mellitus
+Q134,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q10-Q18,"Congenital malformations of eye, ear, face and neck",Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+E031,E00-E90,"Endocrine, nutritional and metabolic diseases",E00-E07,Disorders of thyroid gland,E00-E07,Disorders of thyroid gland
+Z942,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+L259,L00-L99,Diseases of the skin and subcutaneous tissue,L20-L30,Dermatitis and eczema,L20-L30,Dermatitis and eczema
+M329,M00-M99,Diseases of the musculoskeletal system and connective tissue,M30-M36,Systemic connective tissue disorders,M30-M36,Systemic connective tissue disorders
+H521,H00-H59,Diseases of the eye and adnexa,H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction",H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+N182,N00-N99,Diseases of the genitourinary system,N17-N19,Renal failure,N17-N19,Renal failure
+T869,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+A099,A00-B99,Certain infectious and parasitic diseases,A00-A09,Intestinal infectious diseases,A00-A09,Intestinal infectious diseases
+D71,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D70-D77,Other diseases of blood and blood-forming organs,D70-D77,Other diseases of blood and blood-forming organs
+I829,I00-I99,Diseases of the circulatory system,I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+Z625,Z00-Z99,Factors influencing health status and contact with health services,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+I351,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+N289,N00-N99,Diseases of the genitourinary system,N25-N29,Other disorders of kidney and ureter,N25-N29,Other disorders of kidney and ureter
+Z505,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+Q763,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Z840,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+B961,A00-B99,Certain infectious and parasitic diseases,B95-B98,"Bacterial, viral and other infectious agents",B95-B98,"Bacterial, viral and other infectious agents"
+J348,J00-J99,Diseases of the respiratory system,J30-J39,Other diseases of upper respiratory tract,J30-J39,Other diseases of upper respiratory tract
+I720,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+H905,H60-H95,Diseases of the ear and mastoid process,H90-H95,Other disorders of ear,H90-H95,Other disorders of ear
+I518,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+N032,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+L299,L00-L99,Diseases of the skin and subcutaneous tissue,L20-L30,Dermatitis and eczema,L20-L30,Dermatitis and eczema
+J039,J00-J99,Diseases of the respiratory system,J00-J06,Acute upper respiratory infections,J00-J06,Acute upper respiratory infections
+N028,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+E877,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+K861,K00-K93,Diseases of the digestive system,K80-K87,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,"Disorders of gallbladder, biliary tract and pancreas"
+R740,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R70-R79,"Abnormal findings on examination of blood, without diagnosis",R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+R798,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R70-R79,"Abnormal findings on examination of blood, without diagnosis",R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+Z826,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+C774,C00-D48,Neoplasms,C00-C97,Malignant neoplasms,C76-C80,"Malignant neoplasms of ill-defined,  secondary and unspecified sites"
+M908,M00-M99,Diseases of the musculoskeletal system and connective tissue,M80-M94,Osteopathies and chondropathies,M86-M90,Other osteopathies
+E211,E00-E90,"Endocrine, nutritional and metabolic diseases",E20-E35,Disorders of other endocrine glands,E20-E35,Disorders of other endocrine glands
+I712,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+E669,E00-E90,"Endocrine, nutritional and metabolic diseases",E65-E68,Obesity and other hyperalimentation,E65-E68,Obesity and other hyperalimentation
+L988,L00-L99,Diseases of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue
+Q256,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+U821,U00-U85,Codes for special purposes,U82-U85,Resistance to antimicrobial and antineoplastic drugs,U82-U85,Resistance to antimicrobial and antineoplastic drugs
+C492,C00-D48,Neoplasms,C00-C97,Malignant neoplasms,C45-C49,Malignant neoplasms of mesothelial and soft tissue
+D682,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions",D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions"
+H024,H00-H59,Diseases of the eye and adnexa,H00-H06,"Disorders of eyelid, lacrimal system and orbit",H00-H06,"Disorders of eyelid, lacrimal system and orbit"
+N251,N00-N99,Diseases of the genitourinary system,N25-N29,Other disorders of kidney and ureter,N25-N29,Other disorders of kidney and ureter
+N298,N00-N99,Diseases of the genitourinary system,N25-N29,Other disorders of kidney and ureter,N25-N29,Other disorders of kidney and ureter
+Z452,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+K638,K00-K93,Diseases of the digestive system,K55-K64,Other diseases of intestines,K55-K64,Other diseases of intestines
+C910,C00-D48,Neoplasms,C00-C97,Malignant neoplasms,C81-C96,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+Z941,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+B957,A00-B99,Certain infectious and parasitic diseases,B95-B98,"Bacterial, viral and other infectious agents",B95-B98,"Bacterial, viral and other infectious agents"
+Z873,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+E871,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+Q433,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q38-Q45,Other congenital malformations of the digestive system,Q38-Q45,Other congenital malformations of the digestive system
+R768,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R70-R79,"Abnormal findings on examination of blood, without diagnosis",R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+I771,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+K259,K00-K93,Diseases of the digestive system,K20-K31,"Diseases of oesophagus, stomach and duodenum",K20-K31,"Diseases of oesophagus, stomach and duodenum"
+R42,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour"
+R454,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour"
+A499,A00-B99,Certain infectious and parasitic diseases,A30-A49,Other bacterial diseases,A30-A49,Other bacterial diseases
+Z221,Z00-Z99,Factors influencing health status and contact with health services,Z20-Z29,Persons with potential health hazards related to communicable diseases,Z20-Z29,Persons with potential health hazards related to communicable diseases
+B270,A00-B99,Certain infectious and parasitic diseases,B25-B34,Other viral diseases,B25-B34,Other viral diseases
+Z238,Z00-Z99,Factors influencing health status and contact with health services,Z20-Z29,Persons with potential health hazards related to communicable diseases,Z20-Z29,Persons with potential health hazards related to communicable diseases
+R001,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+Z488,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+Y405,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y40-Y59,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use"
+Z908,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+N055,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+Z292,Z00-Z99,Factors influencing health status and contact with health services,Z20-Z29,Persons with potential health hazards related to communicable diseases,Z20-Z29,Persons with potential health hazards related to communicable diseases
+I675,I00-I99,Diseases of the circulatory system,I60-I69,Cerebrovascular diseases,I60-I69,Cerebrovascular diseases
+E872,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+H535,H00-H59,Diseases of the eye and adnexa,H53-H54,Visual disturbances and blindness,H53-H54,Visual disturbances and blindness
+L853,L00-L99,Diseases of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue
+Z115,Z00-Z99,Factors influencing health status and contact with health services,Z00-Z13,Persons encountering health services for examination and investigation,Z00-Z13,Persons encountering health services for examination and investigation
+Z924,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+D177,C00-D48,Neoplasms,D10-D36,Benign neoplasms,D10-D36,Benign neoplasms
+E550,E00-E90,"Endocrine, nutritional and metabolic diseases",E50-E64,Other nutritional deficiencies,E50-E64,Other nutritional deficiencies
+Z968,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z530,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+I714,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+H472,H00-H59,Diseases of the eye and adnexa,H46-H48,Disorders of optic nerve and visual pathways,H46-H48,Disorders of optic nerve and visual pathways
+Z504,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+M858,M00-M99,Diseases of the musculoskeletal system and connective tissue,M80-M94,Osteopathies and chondropathies,M80-M85,Disorders of bone density and structure
+K528,K00-K93,Diseases of the digestive system,K50-K52,Noninfective enteritis and colitis,K50-K52,Noninfective enteritis and colitis
+Q638,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+N209,N00-N99,Diseases of the genitourinary system,N20-N23,Urolithiasis,N20-N23,Urolithiasis
+D899,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism
+A689,A00-B99,Certain infectious and parasitic diseases,A65-A69,Other spirochaetal diseases,A65-A69,Other spirochaetal diseases
+Y841,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y83-Y84,"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+B181,A00-B99,Certain infectious and parasitic diseases,B15-B19,Viral hepatitis,B15-B19,Viral hepatitis
+Q112,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q10-Q18,"Congenital malformations of eye, ear, face and neck",Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+R651,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+E876,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+Q528,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q50-Q56,Congenital malformations of genital organs,Q50-Q56,Congenital malformations of genital organs
+E833,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+D561,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D55-D59,Haemolytic anaemias,D55-D59,Haemolytic anaemias
+Wrc,V01-Y98,External causes of morbidity and mortality,V01-X59,Accidents,,
+Z949,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z379,Z00-Z99,Factors influencing health status and contact with health services,Z30-Z39,Persons encountering health services in circumstances related to reproduction,Z30-Z39,Persons encountering health services in circumstances related to reproduction
+M674,M00-M99,Diseases of the musculoskeletal system and connective tissue,M60-M79,Soft tissue disorders,M65-M68,Disorders of synovium and tendon
+Z458,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+Z835,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+T884,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+Z824,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Q631,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+I728,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+Z870,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+N19,N00-N99,Diseases of the genitourinary system,N17-N19,Renal failure,N17-N19,Renal failure
+R161,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+E300,E00-E90,"Endocrine, nutritional and metabolic diseases",E20-E35,Disorders of other endocrine glands,E20-E35,Disorders of other endocrine glands
+R17,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+L810,L00-L99,Diseases of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue
+K859,K00-K93,Diseases of the digestive system,K80-K87,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,"Disorders of gallbladder, biliary tract and pancreas"
+T827,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+Y833,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y83-Y84,"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+K429,K00-K93,Diseases of the digestive system,K40-K46,Hernia,K40-K46,Hernia
+H910,H60-H95,Diseases of the ear and mastoid process,H90-H95,Other disorders of ear,H90-H95,Other disorders of ear
+R631,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+R060,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+Q870,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q80-Q89,Other congenital malformations,Q80-Q89,Other congenital malformations
+R80,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R80-R82,"Abnormal findings on examination of urine, without diagnosis",R80-R82,"Abnormal findings on examination of urine, without diagnosis"
+B259,A00-B99,Certain infectious and parasitic diseases,B25-B34,Other viral diseases,B25-B34,Other viral diseases
+Q232,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+N043,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+Q612,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+R33,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R30-R39,Symptoms and signs involving the urinary system,R30-R39,Symptoms and signs involving the urinary system
+Q611,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+D801,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism
+D649,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D60-D64,Aplastic and other anaemias,D60-D64,Aplastic and other anaemias
+G401,G00-G99,Diseases of the nervous system,G40-G47,Episodic and paroxysmal disorders,G40-G47,Episodic and paroxysmal disorders
+Q148,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q10-Q18,"Congenital malformations of eye, ear, face and neck",Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+N764,N00-N99,Diseases of the genitourinary system,N70-N77,Inflammatory diseases of female pelvic organs,N70-N77,Inflammatory diseases of female pelvic organs
+N394,N00-N99,Diseases of the genitourinary system,N30-N39,Other diseases of urinary system,N30-N39,Other diseases of urinary system
+B968,A00-B99,Certain infectious and parasitic diseases,B95-B98,"Bacterial, viral and other infectious agents",B95-B98,"Bacterial, viral and other infectious agents"
+Q794,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q430,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q38-Q45,Other congenital malformations of the digestive system,Q38-Q45,Other congenital malformations of the digestive system
+D690,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions",D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions"
+L029,L00-L99,Diseases of the skin and subcutaneous tissue,L00-L08,Infections of the skin and subcutaneous tissue,L00-L08,Infections of the skin and subcutaneous tissue
+M8699,M00-M99,Diseases of the musculoskeletal system and connective tissue,M80-M94,Osteopathies and chondropathies,M86-M90,Other osteopathies
+Z038,Z00-Z99,Factors influencing health status and contact with health services,Z00-Z13,Persons encountering health services for examination and investigation,Z00-Z13,Persons encountering health services for examination and investigation
+C920,C00-D48,Neoplasms,C00-C97,Malignant neoplasms,C81-C96,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue"
+Z832,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z978,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+N051,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+D477,C00-D48,Neoplasms,D37-D48,Neoplasms of uncertain or unknown behaviour,D37-D48,Neoplasms of uncertain or unknown behaviour
+A169,A00-B99,Certain infectious and parasitic diseases,A15-A19,Tuberculosis,A15-A19,Tuberculosis
+R101,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+E86,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+M4149,M00-M99,Diseases of the musculoskeletal system and connective tissue,M40-M54,Dorsopathies,M40-M43,Deforming dorsopathies
+Q718,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Z923,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+E039,E00-E90,"Endocrine, nutritional and metabolic diseases",E00-E07,Disorders of thyroid gland,E00-E07,Disorders of thyroid gland
+R568,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+H162,H00-H59,Diseases of the eye and adnexa,H15-H22,"Disorders of sclera, cornea, iris and ciliary body",H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+Irc,,,,,,
+I722,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+I422,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+H55,H00-H59,Diseases of the eye and adnexa,H55-H59,Other disorders of eye and adnexa,H55-H59,Other disorders of eye and adnexa
+R630,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+R062,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+P599,P00-P96,Certain conditions originating in the perinatal period,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+H188,H00-H59,Diseases of the eye and adnexa,H15-H22,"Disorders of sclera, cornea, iris and ciliary body",H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+Z864,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Q539,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q50-Q56,Congenital malformations of genital organs,Q50-Q56,Congenital malformations of genital organs
+I370,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+I288,I00-I99,Diseases of the circulatory system,I26-I28,Pulmonary heart disease and diseases of pulmonary circulation,I26-I28,Pulmonary heart disease and diseases of pulmonary circulation
+E030,E00-E90,"Endocrine, nutritional and metabolic diseases",E00-E07,Disorders of thyroid gland,E00-E07,Disorders of thyroid gland
+Z944,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+M310,M00-M99,Diseases of the musculoskeletal system and connective tissue,M30-M36,Systemic connective tissue disorders,M30-M36,Systemic connective tissue disorders
+Q336,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q30-Q34,Congenital malformations of the respiratory system,Q30-Q34,Congenital malformations of the respiratory system
+H209,H00-H59,Diseases of the eye and adnexa,H15-H22,"Disorders of sclera, cornea, iris and ciliary body",H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+J47,J00-J99,Diseases of the respiratory system,J40-J47,Chronic lower respiratory diseases,J40-J47,Chronic lower respiratory diseases
+P788,P00-P96,Certain conditions originating in the perinatal period,P75-P78,Digestive system disorders of fetus and newborn,P75-P78,Digestive system disorders of fetus and newborn
+Z822,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R15,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+U839,U00-U85,Codes for special purposes,U82-U85,Resistance to antimicrobial and antineoplastic drugs,U82-U85,Resistance to antimicrobial and antineoplastic drugs
+B24,A00-B99,Certain infectious and parasitic diseases,B20-B24,Human immunodeficiency virus [HIV] disease,B20-B24,Human immunodeficiency virus [HIV] disease
+I652,I00-I99,Diseases of the circulatory system,I60-I69,Cerebrovascular diseases,I60-I69,Cerebrovascular diseases
+H500,H00-H59,Diseases of the eye and adnexa,H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction",H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+B956,A00-B99,Certain infectious and parasitic diseases,B95-B98,"Bacterial, viral and other infectious agents",B95-B98,"Bacterial, viral and other infectious agents"
+N139,N00-N99,Diseases of the genitourinary system,N10-N16,Renal tubulo-interstitial diseases,N10-N16,Renal tubulo-interstitial diseases
+T79,S00-T98,"Injury, poisoning and certain other consequences of external causes",T79-T79,Certain early complications of trauma,T79-T79,Certain early complications of trauma
+N329,N00-N99,Diseases of the genitourinary system,N30-N39,Other diseases of urinary system,N30-N39,Other diseases of urinary system
+N258,N00-N99,Diseases of the genitourinary system,N25-N29,Other disorders of kidney and ureter,N25-N29,Other disorders of kidney and ureter
+I119,I00-I99,Diseases of the circulatory system,I10-I15,Hypertensive diseases,I10-I15,Hypertensive diseases
+G08,G00-G99,Diseases of the nervous system,G00-G09,Inflammatory diseases of the central nervous system,G00-G09,Inflammatory diseases of the central nervous system
+M6240,M00-M99,Diseases of the musculoskeletal system and connective tissue,M60-M79,Soft tissue disorders,M60-M63,Disorders of muscles
+R51,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+K659,K00-K93,Diseases of the digestive system,K65-K67,Diseases of peritoneum,K65-K67,Diseases of peritoneum
+C494,C00-D48,Neoplasms,C00-C97,Malignant neoplasms,C45-C49,Malignant neoplasms of mesothelial and soft tissue
+M7910,M00-M99,Diseases of the musculoskeletal system and connective tissue,M60-M79,Soft tissue disorders,M70-M79,Other soft tissue disorders
+Y418,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y40-Y59,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use"
+G919,G00-G99,Diseases of the nervous system,G90-G99,Other disorders of the nervous system,G90-G99,Other disorders of the nervous system
+K509,K00-K93,Diseases of the digestive system,K50-K52,Noninfective enteritis and colitis,K50-K52,Noninfective enteritis and colitis
+Q600,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+L608,L00-L99,Diseases of the skin and subcutaneous tissue,L60-L75,Disorders of skin appendages,L60-L75,Disorders of skin appendages
+G378,G00-G99,Diseases of the nervous system,G35-G37,Demyelinating diseases of the central nervous system,G35-G37,Demyelinating diseases of the central nervous system
+N008,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+J450,J00-J99,Diseases of the respiratory system,J40-J47,Chronic lower respiratory diseases,J40-J47,Chronic lower respiratory diseases
+Y427,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y40-Y59,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use"
+M313,M00-M99,Diseases of the musculoskeletal system and connective tissue,M30-M36,Systemic connective tissue disorders,M30-M36,Systemic connective tissue disorders
+E875,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+F809,F00-F99,Mental and behavioural disorders,F80-F89,Disorders of psychological development,F80-F89,Disorders of psychological development
+E161,E00-E90,"Endocrine, nutritional and metabolic diseases",E15-E16,Other disorders of glucose regulation and pancreatic internal secretion,E15-E16,Other disorders of glucose regulation and pancreatic internal secretion
+R198,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+T801,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+H180,H00-H59,Diseases of the eye and adnexa,H15-H22,"Disorders of sclera, cornea, iris and ciliary body",H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+Q764,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+L709,L00-L99,Diseases of the skin and subcutaneous tissue,L60-L75,Disorders of skin appendages,L60-L75,Disorders of skin appendages
+Z823,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Q174,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q10-Q18,"Congenital malformations of eye, ear, face and neck",Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+N270,N00-N99,Diseases of the genitourinary system,N25-N29,Other disorders of kidney and ureter,N25-N29,Other disorders of kidney and ureter
+S730,S00-T98,"Injury, poisoning and certain other consequences of external causes",S70-S79,Injuries to the hip and thigh,S70-S79,Injuries to the hip and thigh
+B978,A00-B99,Certain infectious and parasitic diseases,B95-B98,"Bacterial, viral and other infectious agents",B95-B98,"Bacterial, viral and other infectious agents"
+R53,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+N281,N00-N99,Diseases of the genitourinary system,N25-N29,Other disorders of kidney and ureter,N25-N29,Other disorders of kidney and ureter
+H270,H00-H59,Diseases of the eye and adnexa,H25-H28,Disorders of lens,H25-H28,Disorders of lens
+M4199,M00-M99,Diseases of the musculoskeletal system and connective tissue,M40-M54,Dorsopathies,M40-M43,Deforming dorsopathies
+T813,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+E781,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+M0820,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M05-M14,Inflammatory polyarthropathies
+M4135,M00-M99,Diseases of the musculoskeletal system and connective tissue,M40-M54,Dorsopathies,M40-M43,Deforming dorsopathies
+K660,K00-K93,Diseases of the digestive system,K65-K67,Diseases of peritoneum,K65-K67,Diseases of peritoneum
+M415,M00-M99,Diseases of the musculoskeletal system and connective tissue,M40-M54,Dorsopathies,M40-M43,Deforming dorsopathies
+Z973,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+L729,L00-L99,Diseases of the skin and subcutaneous tissue,L60-L75,Disorders of skin appendages,L60-L75,Disorders of skin appendages
+E268,E00-E90,"Endocrine, nutritional and metabolic diseases",E20-E35,Disorders of other endocrine glands,E20-E35,Disorders of other endocrine glands
+L812,L00-L99,Diseases of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue
+Q620,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+Q998,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+K904,K00-K93,Diseases of the digestive system,K90-K93,Other diseases of the digestive system,K90-K93,Other diseases of the digestive system
+Z228,Z00-Z99,Factors influencing health status and contact with health services,Z20-Z29,Persons with potential health hazards related to communicable diseases,Z20-Z29,Persons with potential health hazards related to communicable diseases
+R104,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+N995,N00-N99,Diseases of the genitourinary system,N99-N99,Other disorders of the genitourinary system,N99-N99,Other disorders of the genitourinary system
+I723,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+E880,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+Q544,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q50-Q56,Congenital malformations of genital organs,Q50-Q56,Congenital malformations of genital organs
+M6288,M00-M99,Diseases of the musculoskeletal system and connective tissue,M60-M79,Soft tissue disorders,M60-M63,Disorders of muscles
+H269,H00-H59,Diseases of the eye and adnexa,H25-H28,Disorders of lens,H25-H28,Disorders of lens
+Y834,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y83-Y84,"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+N079,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+Q257,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+F800,F00-F99,Mental and behavioural disorders,F80-F89,Disorders of psychological development,F80-F89,Disorders of psychological development
+Z090,Z00-Z99,Factors influencing health status and contact with health services,Z00-Z13,Persons encountering health services for examination and investigation,Z00-Z13,Persons encountering health services for examination and investigation
+C499,C00-D48,Neoplasms,C00-C97,Malignant neoplasms,C45-C49,Malignant neoplasms of mesothelial and soft tissue
+J80,J00-J99,Diseases of the respiratory system,J80-J84,Other respiratory diseases principally affecting the interstitium,J80-J84,Other respiratory diseases principally affecting the interstitium
+Q630,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+E752,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+Q623,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+Z466,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+L22,L00-L99,Diseases of the skin and subcutaneous tissue,L20-L30,Dermatitis and eczema,L20-L30,Dermatitis and eczema
+G713,G00-G99,Diseases of the nervous system,G70-G73,Diseases of myoneural junction and muscle,G70-G73,Diseases of myoneural junction and muscle
+H179,H00-H59,Diseases of the eye and adnexa,H15-H22,"Disorders of sclera, cornea, iris and ciliary body",H15-H22,"Disorders of sclera, cornea, iris and ciliary body"
+R760,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R70-R79,"Abnormal findings on examination of blood, without diagnosis",R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+Z974,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+T824,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+Q649,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+D738,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D70-D77,Other diseases of blood and blood-forming organs,D70-D77,Other diseases of blood and blood-forming organs
+N033,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+M2185,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M20-M25,Other joint disorders
+R509,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+H350,H00-H59,Diseases of the eye and adnexa,H30-H36,Disorders of choroid and retina,H30-H36,Disorders of choroid and retina
+Z011,Z00-Z99,Factors influencing health status and contact with health services,Z00-Z13,Persons encountering health services for examination and investigation,Z00-Z13,Persons encountering health services for examination and investigation
+Z21,Z00-Z99,Factors influencing health status and contact with health services,Z20-Z29,Persons with potential health hazards related to communicable diseases,Z20-Z29,Persons with potential health hazards related to communicable diseases
+Q928,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+C64,C00-D48,Neoplasms,C00-C97,Malignant neoplasms,C64-C68,Malignant neoplasms of urinary tract
+G950,G00-G99,Diseases of the nervous system,G90-G99,Other disorders of the nervous system,G90-G99,Other disorders of the nervous system
+Y831,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y83-Y84,"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+R298,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R25-R29,Symptoms and signs involving the nervous and musculoskeletal systems,R25-R29,Symptoms and signs involving the nervous and musculoskeletal systems
+K650,K00-K93,Diseases of the digestive system,K65-K67,Diseases of peritoneum,K65-K67,Diseases of peritoneum
+K056,K00-K93,Diseases of the digestive system,K00-K14,"Diseases of oral cavity, salivary glands and jaws",K00-K14,"Diseases of oral cavity, salivary glands and jaws"
+E136,E00-E90,"Endocrine, nutritional and metabolic diseases",E10-E14,Diabetes mellitus,E10-E14,Diabetes mellitus
+A319,A00-B99,Certain infectious and parasitic diseases,A30-A49,Other bacterial diseases,A30-A49,Other bacterial diseases
+Y408,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y40-Y59,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use"
+R899,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis"
+N029,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+K148,K00-K93,Diseases of the digestive system,K00-K14,"Diseases of oral cavity, salivary glands and jaws",K00-K14,"Diseases of oral cavity, salivary glands and jaws"
+I898,I00-I99,Diseases of the circulatory system,I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+Q750,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Q130,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q10-Q18,"Congenital malformations of eye, ear, face and neck",Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+N01,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+N201,N00-N99,Diseases of the genitourinary system,N20-N23,Urolithiasis,N20-N23,Urolithiasis
+G629,G00-G99,Diseases of the nervous system,G60-G64,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,Polyneuropathies and other disorders of the peripheral nervous system
+H538,H00-H59,Diseases of the eye and adnexa,H53-H54,Visual disturbances and blindness,H53-H54,Visual disturbances and blindness
+J303,J00-J99,Diseases of the respiratory system,J30-J39,Other diseases of upper respiratory tract,J30-J39,Other diseases of upper respiratory tract
+R451,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour"
+R21,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R20-R23,Symptoms and signs involving the skin and subcutaneous tissue,R20-R23,Symptoms and signs involving the skin and subcutaneous tissue
+R413,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour"
+Z907,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+M4054,M00-M99,Diseases of the musculoskeletal system and connective tissue,M40-M54,Dorsopathies,M40-M43,Deforming dorsopathies
+P819,P00-P96,Certain conditions originating in the perinatal period,P80-P83,Conditions involving the integument and temperature regulation of fetus and newborn,P80-P83,Conditions involving the integument and temperature regulation of fetus and newborn
+G712,G00-G99,Diseases of the nervous system,G70-G73,Diseases of myoneural junction and muscle,G70-G73,Diseases of myoneural junction and muscle
+H904,H60-H95,Diseases of the ear and mastoid process,H90-H95,Other disorders of ear,H90-H95,Other disorders of ear
+B340,A00-B99,Certain infectious and parasitic diseases,B25-B34,Other viral diseases,B25-B34,Other viral diseases
+I653,I00-I99,Diseases of the circulatory system,I60-I69,Cerebrovascular diseases,I60-I69,Cerebrovascular diseases
+R162,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+N039,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+Y593,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y40-Y59,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use"
+Z805,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+J942,J00-J99,Diseases of the respiratory system,J90-J94,Other diseases of pleura,J90-J94,Other diseases of pleura
+Z833,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Q210,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+Y842,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y83-Y84,"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+R190,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+M7960,M00-M99,Diseases of the musculoskeletal system and connective tissue,M60-M79,Soft tissue disorders,M70-M79,Other soft tissue disorders
+E740,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+I7010,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+J22,J00-J99,Diseases of the respiratory system,J20-J22,Other acute lower respiratory infections,J20-J22,Other acute lower respiratory infections
+B338,A00-B99,Certain infectious and parasitic diseases,B25-B34,Other viral diseases,B25-B34,Other viral diseases
+P968,P00-P96,Certain conditions originating in the perinatal period,P90-P96,Other disorders originating in the perinatal period,P90-P96,Other disorders originating in the perinatal period
+Z988,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R262,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R25-R29,Symptoms and signs involving the nervous and musculoskeletal systems,R25-R29,Symptoms and signs involving the nervous and musculoskeletal systems
+L659,L00-L99,Diseases of the skin and subcutaneous tissue,L60-L75,Disorders of skin appendages,L60-L75,Disorders of skin appendages
+Brc,,,,,,
+Z135,Z00-Z99,Factors influencing health status and contact with health services,Z00-Z13,Persons encountering health services for examination and investigation,Z00-Z13,Persons encountering health services for examination and investigation
+IMO0001,,,,,,
+I773,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+J386,J00-J99,Diseases of the respiratory system,J30-J39,Other diseases of upper respiratory tract,J30-J39,Other diseases of upper respiratory tract
+K868,K00-K93,Diseases of the digestive system,K80-K87,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,"Disorders of gallbladder, biliary tract and pancreas"
+K20,K00-K93,Diseases of the digestive system,K20-K31,"Diseases of oesophagus, stomach and duodenum",K20-K31,"Diseases of oesophagus, stomach and duodenum"
+Q796,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+E162,E00-E90,"Endocrine, nutritional and metabolic diseases",E15-E16,Other disorders of glucose regulation and pancreatic internal secretion,E15-E16,Other disorders of glucose regulation and pancreatic internal secretion
+R450,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour"
+Z934,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Q858,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q80-Q89,Other congenital malformations,Q80-Q89,Other congenital malformations
+Y846,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y83-Y84,"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+N26,N00-N99,Diseases of the genitourinary system,N25-N29,Other disorders of kidney and ureter,N25-N29,Other disorders of kidney and ureter
+U071,U00-U85,Codes for special purposes,U00-U49,Provisional assignment of new diseases of uncertain etiology or emergency use,U00-U49,Provisional assignment of new diseases of uncertain etiology or emergency use
+N181,N00-N99,Diseases of the genitourinary system,N17-N19,Renal failure,N17-N19,Renal failure
+E782,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+L813,L00-L99,Diseases of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue
+I609,I00-I99,Diseases of the circulatory system,I60-I69,Cerebrovascular diseases,I60-I69,Cerebrovascular diseases
+Q048,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q07,Congenital malformations of the nervous system,Q00-Q07,Congenital malformations of the nervous system
+Z971,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+F83,F00-F99,Mental and behavioural disorders,F80-F89,Disorders of psychological development,F80-F89,Disorders of psychological development
+P960,P00-P96,Certain conditions originating in the perinatal period,P90-P96,Other disorders originating in the perinatal period,P90-P96,Other disorders originating in the perinatal period
+I081,I00-I99,Diseases of the circulatory system,I05-I09,Chronic rheumatic heart diseases,I05-I09,Chronic rheumatic heart diseases
+C786,C00-D48,Neoplasms,C00-C97,Malignant neoplasms,C76-C80,"Malignant neoplasms of ill-defined,  secondary and unspecified sites"
+D229,C00-D48,Neoplasms,D10-D36,Benign neoplasms,D10-D36,Benign neoplasms
+M819,M00-M99,Diseases of the musculoskeletal system and connective tissue,M80-M94,Osteopathies and chondropathies,M80-M85,Disorders of bone density and structure
+Q423,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q38-Q45,Other congenital malformations of the digestive system,Q38-Q45,Other congenital malformations of the digestive system
+E788,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+Q046,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q07,Congenital malformations of the nervous system,Q00-Q07,Congenital malformations of the nervous system
+N210,N00-N99,Diseases of the genitourinary system,N20-N23,Urolithiasis,N20-N23,Urolithiasis
+R468,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour"
+Z591,Z00-Z99,Factors influencing health status and contact with health services,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+Z246,Z00-Z99,Factors influencing health status and contact with health services,Z20-Z29,Persons with potential health hazards related to communicable diseases,Z20-Z29,Persons with potential health hazards related to communicable diseases
+Z904,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+H105,H00-H59,Diseases of the eye and adnexa,H10-H13,Disorders of conjunctiva,H10-H13,Disorders of conjunctiva
+D539,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D53,Nutritional anaemias,D50-D53,Nutritional anaemias
+Z889,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z993,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+I083,I00-I99,Diseases of the circulatory system,I05-I09,Chronic rheumatic heart diseases,I05-I09,Chronic rheumatic heart diseases
+H332,H00-H59,Diseases of the eye and adnexa,H30-H36,Disorders of choroid and retina,H30-H36,Disorders of choroid and retina
+E274,E00-E90,"Endocrine, nutritional and metabolic diseases",E20-E35,Disorders of other endocrine glands,E20-E35,Disorders of other endocrine glands
+Z431,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+M2442,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M20-M25,Other joint disorders
+R234,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R20-R23,Symptoms and signs involving the skin and subcutaneous tissue,R20-R23,Symptoms and signs involving the skin and subcutaneous tissue
+Q898,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q80-Q89,Other congenital malformations,Q80-Q89,Other congenital malformations
+A047,A00-B99,Certain infectious and parasitic diseases,A00-A09,Intestinal infectious diseases,A00-A09,Intestinal infectious diseases
+M8585,M00-M99,Diseases of the musculoskeletal system and connective tissue,M80-M94,Osteopathies and chondropathies,M80-M85,Disorders of bone density and structure
+E232,E00-E90,"Endocrine, nutritional and metabolic diseases",E20-E35,Disorders of other endocrine glands,E20-E35,Disorders of other endocrine glands
+N63,N00-N99,Diseases of the genitourinary system,N60-N64,Disorders of breast,N60-N64,Disorders of breast
+Z887,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+K914,K00-K93,Diseases of the digestive system,K90-K93,Other diseases of the digestive system,K90-K93,Other diseases of the digestive system
+N359,N00-N99,Diseases of the genitourinary system,N30-N39,Other diseases of urinary system,N30-N39,Other diseases of urinary system
+J448,J00-J99,Diseases of the respiratory system,J40-J47,Chronic lower respiratory diseases,J40-J47,Chronic lower respiratory diseases
+E888,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+P293,P00-P96,Certain conditions originating in the perinatal period,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+R410,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour"
+R252,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R25-R29,Symptoms and signs involving the nervous and musculoskeletal systems,R25-R29,Symptoms and signs involving the nervous and musculoskeletal systems
+R748,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R70-R79,"Abnormal findings on examination of blood, without diagnosis",R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+B238,A00-B99,Certain infectious and parasitic diseases,B20-B24,Human immunodeficiency virus [HIV] disease,B20-B24,Human immunodeficiency virus [HIV] disease
+R634,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+M214,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M20-M25,Other joint disorders
+N007,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+I361,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+Q249,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+G809,G00-G99,Diseases of the nervous system,G80-G83,Cerebral palsy and other paralytic syndromes,G80-G83,Cerebral palsy and other paralytic syndromes
+S7290,S00-T98,"Injury, poisoning and certain other consequences of external causes",S70-S79,Injuries to the hip and thigh,S70-S79,Injuries to the hip and thigh
+P291,P00-P96,Certain conditions originating in the perinatal period,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+R944,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R90-R94,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis",R90-R94,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+U828,U00-U85,Codes for special purposes,U82-U85,Resistance to antimicrobial and antineoplastic drugs,U82-U85,Resistance to antimicrobial and antineoplastic drugs
+Z208,Z00-Z99,Factors influencing health status and contact with health services,Z20-Z29,Persons with potential health hazards related to communicable diseases,Z20-Z29,Persons with potential health hazards related to communicable diseases
+D849,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism
+H659,H60-H95,Diseases of the ear and mastoid process,H65-H75,Diseases of middle ear and mastoid,H65-H75,Diseases of middle ear and mastoid
+U830,U00-U85,Codes for special purposes,U82-U85,Resistance to antimicrobial and antineoplastic drugs,U82-U85,Resistance to antimicrobial and antineoplastic drugs
+M4052,M00-M99,Diseases of the musculoskeletal system and connective tissue,M40-M54,Dorsopathies,M40-M43,Deforming dorsopathies
+Q165,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q10-Q18,"Congenital malformations of eye, ear, face and neck",Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+E270,E00-E90,"Endocrine, nutritional and metabolic diseases",E20-E35,Disorders of other endocrine glands,E20-E35,Disorders of other endocrine glands
+J984,J00-J99,Diseases of the respiratory system,J95-J99,Other diseases of the respiratory system,J95-J99,Other diseases of the respiratory system
+Z013,Z00-Z99,Factors influencing health status and contact with health services,Z00-Z13,Persons encountering health services for examination and investigation,Z00-Z13,Persons encountering health services for examination and investigation
+K029,K00-K93,Diseases of the digestive system,K00-K14,"Diseases of oral cavity, salivary glands and jaws",K00-K14,"Diseases of oral cavity, salivary glands and jaws"
+R195,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+K130,K00-K93,Diseases of the digestive system,K00-K14,"Diseases of oral cavity, salivary glands and jaws",K00-K14,"Diseases of oral cavity, salivary glands and jaws"
+K011,K00-K93,Diseases of the digestive system,K00-K14,"Diseases of oral cavity, salivary glands and jaws",K00-K14,"Diseases of oral cavity, salivary glands and jaws"
+I730,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+R69,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+Z915,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+K565,K00-K93,Diseases of the digestive system,K55-K64,Other diseases of intestines,K55-K64,Other diseases of intestines
+Z018,Z00-Z99,Factors influencing health status and contact with health services,Z00-Z13,Persons encountering health services for examination and investigation,Z00-Z13,Persons encountering health services for examination and investigation
+I778,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+R32,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R30-R39,Symptoms and signs involving the urinary system,R30-R39,Symptoms and signs involving the urinary system
+Y848,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y83-Y84,"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+J848,J00-J99,Diseases of the respiratory system,J80-J84,Other respiratory diseases principally affecting the interstitium,J80-J84,Other respiratory diseases principally affecting the interstitium
+R224,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R20-R23,Symptoms and signs involving the skin and subcutaneous tissue,R20-R23,Symptoms and signs involving the skin and subcutaneous tissue
+M9089,M00-M99,Diseases of the musculoskeletal system and connective tissue,M80-M94,Osteopathies and chondropathies,M86-M90,Other osteopathies
+P288,P00-P96,Certain conditions originating in the perinatal period,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+G935,G00-G99,Diseases of the nervous system,G90-G99,Other disorders of the nervous system,G90-G99,Other disorders of the nervous system
+Z596,Z00-Z99,Factors influencing health status and contact with health services,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+M259,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M20-M25,Other joint disorders
+R18,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+L814,L00-L99,Diseases of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue
+H405,H00-H59,Diseases of the eye and adnexa,H40-H42,Glaucoma,H40-H42,Glaucoma
+J340,J00-J99,Diseases of the respiratory system,J30-J39,Other diseases of upper respiratory tract,J30-J39,Other diseases of upper respiratory tract
+H534,H00-H59,Diseases of the eye and adnexa,H53-H54,Visual disturbances and blindness,H53-H54,Visual disturbances and blindness
+I371,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+M6289,M00-M99,Diseases of the musculoskeletal system and connective tissue,M60-M79,Soft tissue disorders,M60-M63,Disorders of muscles
+K74,K00-K93,Diseases of the digestive system,K70-K77,Diseases of liver,K70-K77,Diseases of liver
+M8980,M00-M99,Diseases of the musculoskeletal system and connective tissue,M80-M94,Osteopathies and chondropathies,M86-M90,Other osteopathies
+M0095,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M00-M03,Infectious arthropathies
+H264,H00-H59,Diseases of the eye and adnexa,H25-H28,Disorders of lens,H25-H28,Disorders of lens
+G934,G00-G99,Diseases of the nervous system,G90-G99,Other disorders of the nervous system,G90-G99,Other disorders of the nervous system
+Q039,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q07,Congenital malformations of the nervous system,Q00-Q07,Congenital malformations of the nervous system
+G062,G00-G99,Diseases of the nervous system,G00-G09,Inflammatory diseases of the central nervous system,G00-G09,Inflammatory diseases of the central nervous system
+K802,K00-K93,Diseases of the digestive system,K80-K87,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,"Disorders of gallbladder, biliary tract and pancreas"
+Z980,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Y658,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y60-Y69,Misadventures to patients during surgical and medical care
+N898,N00-N99,Diseases of the genitourinary system,N80-N98,Noninflammatory disorders of female genital tract,N80-N98,Noninflammatory disorders of female genital tract
+R827,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R80-R82,"Abnormal findings on examination of urine, without diagnosis",R80-R82,"Abnormal findings on examination of urine, without diagnosis"
+M549,M00-M99,Diseases of the musculoskeletal system and connective tissue,M40-M54,Dorsopathies,M50-M54,Other dorsopathies
+Q390,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q38-Q45,Other congenital malformations of the digestive system,Q38-Q45,Other congenital malformations of the digestive system
+Y95,V01-Y98,External causes of morbidity and mortality,Y90-Y98,Supplementary factors related to causes of morbidity and mortality classified elsewhere,Y90-Y98,Supplementary factors related to causes of morbidity and mortality classified elsewhere
+Z430,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+I678,I00-I99,Diseases of the circulatory system,I60-I69,Cerebrovascular diseases,I60-I69,Cerebrovascular diseases
+R688,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+J980,J00-J99,Diseases of the respiratory system,J95-J99,Other diseases of the respiratory system,J95-J99,Other diseases of the respiratory system
+R600,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+P298,P00-P96,Certain conditions originating in the perinatal period,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+H492,H00-H59,Diseases of the eye and adnexa,H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction",H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction"
+Q632,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+R935,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R90-R94,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis",R90-R94,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+K591,K00-K93,Diseases of the digestive system,K55-K64,Other diseases of intestines,K55-K64,Other diseases of intestines
+M722,M00-M99,Diseases of the musculoskeletal system and connective tissue,M60-M79,Soft tissue disorders,M70-M79,Other soft tissue disorders
+E237,E00-E90,"Endocrine, nutritional and metabolic diseases",E20-E35,Disorders of other endocrine glands,E20-E35,Disorders of other endocrine glands
+A167,A00-B99,Certain infectious and parasitic diseases,A15-A19,Tuberculosis,A15-A19,Tuberculosis
+Q254,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+R223,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R20-R23,Symptoms and signs involving the skin and subcutaneous tissue,R20-R23,Symptoms and signs involving the skin and subcutaneous tissue
+N08,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+B963,A00-B99,Certain infectious and parasitic diseases,B95-B98,"Bacterial, viral and other infectious agents",B95-B98,"Bacterial, viral and other infectious agents"
+N920,N00-N99,Diseases of the genitourinary system,N80-N98,Noninflammatory disorders of female genital tract,N80-N98,Noninflammatory disorders of female genital tract
+E230,E00-E90,"Endocrine, nutritional and metabolic diseases",E20-E35,Disorders of other endocrine glands,E20-E35,Disorders of other endocrine glands
+A411,A00-B99,Certain infectious and parasitic diseases,A30-A49,Other bacterial diseases,A30-A49,Other bacterial diseases
+T818,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+J398,J00-J99,Diseases of the respiratory system,J30-J39,Other diseases of upper respiratory tract,J30-J39,Other diseases of upper respiratory tract
+L906,L00-L99,Diseases of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue
+M6226,M00-M99,Diseases of the musculoskeletal system and connective tissue,M60-M79,Soft tissue disorders,M60-M63,Disorders of muscles
+R529,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+Q670,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+K070,K00-K93,Diseases of the digestive system,K00-K14,"Diseases of oral cavity, salivary glands and jaws",K00-K14,"Diseases of oral cavity, salivary glands and jaws"
+K123,K00-K93,Diseases of the digestive system,K00-K14,"Diseases of oral cavity, salivary glands and jaws",K00-K14,"Diseases of oral cavity, salivary glands and jaws"
+I64,I00-I99,Diseases of the circulatory system,I60-I69,Cerebrovascular diseases,I60-I69,Cerebrovascular diseases
+M952,M00-M99,Diseases of the musculoskeletal system and connective tissue,M95-M99,Other disorders of the musculoskeletal system and connective tissue,M95-M99,Other disorders of the musculoskeletal system and connective tissue
+Z251,Z00-Z99,Factors influencing health status and contact with health services,Z20-Z29,Persons with potential health hazards related to communicable diseases,Z20-Z29,Persons with potential health hazards related to communicable diseases
+E873,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+P220,P00-P96,Certain conditions originating in the perinatal period,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period,P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period
+G510,G00-G99,Diseases of the nervous system,G50-G59,"Nerve, nerve root and plexus disorders",G50-G59,"Nerve, nerve root and plexus disorders"
+I420,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+N939,N00-N99,Diseases of the genitourinary system,N80-N98,Noninflammatory disorders of female genital tract,N80-N98,Noninflammatory disorders of female genital tract
+Y836,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y83-Y84,"Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure"
+D808,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism
+Q749,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+F419,F00-F99,Mental and behavioural disorders,F40-F48,"Neurotic, stress-related and somatoform disorders",F40-F48,"Neurotic, stress-related and somatoform disorders"
+Q438,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q38-Q45,Other congenital malformations of the digestive system,Q38-Q45,Other congenital malformations of the digestive system
+M6280,M00-M99,Diseases of the musculoskeletal system and connective tissue,M60-M79,Soft tissue disorders,M60-M63,Disorders of muscles
+R590,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+N134,N00-N99,Diseases of the genitourinary system,N10-N16,Renal tubulo-interstitial diseases,N10-N16,Renal tubulo-interstitial diseases
+Q828,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q80-Q89,Other congenital malformations,Q80-Q89,Other congenital malformations
+R13,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+T887,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+Z820,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+E878,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+Q790,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+Z813,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+I742,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+G439,G00-G99,Diseases of the nervous system,G40-G47,Episodic and paroxysmal disorders,G40-G47,Episodic and paroxysmal disorders
+N259,N00-N99,Diseases of the genitourinary system,N25-N29,Other disorders of kidney and ureter,N25-N29,Other disorders of kidney and ureter
+N054,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+I500,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+Z858,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+I499,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+Z906,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R160,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+Y434,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y40-Y59,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use"
+G961,G00-G99,Diseases of the nervous system,G90-G99,Other disorders of the nervous system,G90-G99,Other disorders of the nervous system
+Grc,,,,,,
+Q288,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+G911,G00-G99,Diseases of the nervous system,G90-G99,Other disorders of the nervous system,G90-G99,Other disorders of the nervous system
+T860,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+K439,K00-K93,Diseases of the digestive system,K40-K46,Hernia,K40-K46,Hernia
+P610,P00-P96,Certain conditions originating in the perinatal period,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+R065,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+M2117,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M20-M25,Other joint disorders
+Z856,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z258,Z00-Z99,Factors influencing health status and contact with health services,Z20-Z29,Persons with potential health hazards related to communicable diseases,Z20-Z29,Persons with potential health hazards related to communicable diseases
+Q189,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q10-Q18,"Congenital malformations of eye, ear, face and neck",Q10-Q18,"Congenital malformations of eye, ear, face and neck"
+K37,K00-K93,Diseases of the digestive system,K35-K38,Diseases of appendix,K35-K38,Diseases of appendix
+M2116,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M20-M25,Other joint disorders
+N911,N00-N99,Diseases of the genitourinary system,N80-N98,Noninflammatory disorders of female genital tract,N80-N98,Noninflammatory disorders of female genital tract
+I330,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+R601,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+K076,K00-K93,Diseases of the digestive system,K00-K14,"Diseases of oral cavity, salivary glands and jaws",K00-K14,"Diseases of oral cavity, salivary glands and jaws"
+K922,K00-K93,Diseases of the digestive system,K90-K93,Other diseases of the digestive system,K90-K93,Other diseases of the digestive system
+B977,A00-B99,Certain infectious and parasitic diseases,B95-B98,"Bacterial, viral and other infectious agents",B95-B98,"Bacterial, viral and other infectious agents"
+I498,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+H540,H00-H59,Diseases of the eye and adnexa,H53-H54,Visual disturbances and blindness,H53-H54,Visual disturbances and blindness
+E273,E00-E90,"Endocrine, nutritional and metabolic diseases",E20-E35,Disorders of other endocrine glands,E20-E35,Disorders of other endocrine glands
+F458,F00-F99,Mental and behavioural disorders,F40-F48,"Neurotic, stress-related and somatoform disorders",F40-F48,"Neurotic, stress-related and somatoform disorders"
+N832,N00-N99,Diseases of the genitourinary system,N80-N98,Noninflammatory disorders of female genital tract,N80-N98,Noninflammatory disorders of female genital tract
+Erc,,,,,,
+C771,C00-D48,Neoplasms,C00-C97,Malignant neoplasms,C76-C80,"Malignant neoplasms of ill-defined,  secondary and unspecified sites"
+N048,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+B378,A00-B99,Certain infectious and parasitic diseases,B35-B49,Mycoses,B35-B49,Mycoses
+R098,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+Z848,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+M311,M00-M99,Diseases of the musculoskeletal system and connective tissue,M30-M36,Systemic connective tissue disorders,M30-M36,Systemic connective tissue disorders
+Z885,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Q668,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+R34,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R30-R39,Symptoms and signs involving the urinary system,R30-R39,Symptoms and signs involving the urinary system
+P071,P00-P96,Certain conditions originating in the perinatal period,P05-P08,Disorders related to length of gestation and fetal growth,P05-P08,Disorders related to length of gestation and fetal growth
+Z912,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+I491,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+H358,H00-H59,Diseases of the eye and adnexa,H30-H36,Disorders of choroid and retina,H30-H36,Disorders of choroid and retina
+I428,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+N946,N00-N99,Diseases of the genitourinary system,N80-N98,Noninflammatory disorders of female genital tract,N80-N98,Noninflammatory disorders of female genital tract
+Q531,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q50-Q56,Congenital malformations of genital organs,Q50-Q56,Congenital malformations of genital organs
+Q272,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+K631,K00-K93,Diseases of the digestive system,K55-K64,Other diseases of intestines,K55-K64,Other diseases of intestines
+I823,I00-I99,Diseases of the circulatory system,I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+M0836,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M05-M14,Inflammatory polyarthropathies
+E721,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+Q311,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q30-Q34,Congenital malformations of the respiratory system,Q30-Q34,Congenital malformations of the respiratory system
+E791,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+F410,F00-F99,Mental and behavioural disorders,F40-F48,"Neurotic, stress-related and somatoform disorders",F40-F48,"Neurotic, stress-related and somatoform disorders"
+Y579,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y40-Y59,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use"
+O410,O00-O99,"Pregnancy, childbirth and the puerperium",O30-O48,Maternal care related to the fetus and amniotic cavity and possible delivery problems,O30-O48,Maternal care related to the fetus and amniotic cavity and possible delivery problems
+N393,N00-N99,Diseases of the genitourinary system,N30-N39,Other diseases of urinary system,N30-N39,Other diseases of urinary system
+Q258,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+Q213,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+Z538,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+Z982,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R02,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+I779,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+E870,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+Z952,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R418,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour",R40-R46,"Symptoms and signs involving cognition, perception, emotional state and behaviour"
+J181,J00-J99,Diseases of the respiratory system,J09-J18,Influenza and pneumonia,J09-J18,Influenza and pneumonia
+Q613,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q60-Q64,Congenital malformations of the urinary system,Q60-Q64,Congenital malformations of the urinary system
+I632,I00-I99,Diseases of the circulatory system,I60-I69,Cerebrovascular diseases,I60-I69,Cerebrovascular diseases
+I741,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+Q992,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+I7000,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+I868,I00-I99,Diseases of the circulatory system,I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+G249,G00-G99,Diseases of the nervous system,G20-G26,Extrapyramidal and movement disorders,G20-G26,Extrapyramidal and movement disorders
+N040,N00-N99,Diseases of the genitourinary system,N00-N08,Glomerular diseases,N00-N08,Glomerular diseases
+T834,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+R14,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R10-R19,Symptoms and signs involving the digestive system and abdomen,R10-R19,Symptoms and signs involving the digestive system and abdomen
+I828,I00-I99,Diseases of the circulatory system,I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+R71,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R70-R79,"Abnormal findings on examination of blood, without diagnosis",R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+Q676,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Q65-Q79,Congenital malformations and deformations of the musculoskeletal system
+B971,A00-B99,Certain infectious and parasitic diseases,B95-B98,"Bacterial, viral and other infectious agents",B95-B98,"Bacterial, viral and other infectious agents"
+Z092,Z00-Z99,Factors influencing health status and contact with health services,Z00-Z13,Persons encountering health services for examination and investigation,Z00-Z13,Persons encountering health services for examination and investigation
+Q447,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q38-Q45,Other congenital malformations of the digestive system,Q38-Q45,Other congenital malformations of the digestive system
+I635,I00-I99,Diseases of the circulatory system,I60-I69,Cerebrovascular diseases,I60-I69,Cerebrovascular diseases
+R008,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+L83,L00-L99,Diseases of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue
+P590,P00-P96,Certain conditions originating in the perinatal period,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn,P50-P61,Haemorrhagic and haematological disorders of fetus and newborn
+R908,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R90-R94,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis",R90-R94,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+T858,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+Q388,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q38-Q45,Other congenital malformations of the digestive system,Q38-Q45,Other congenital malformations of the digestive system
+Z031,Z00-Z99,Factors influencing health status and contact with health services,Z00-Z13,Persons encountering health services for examination and investigation,Z00-Z13,Persons encountering health services for examination and investigation
+R635,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+R072,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+D233,C00-D48,Neoplasms,D10-D36,Benign neoplasms,D10-D36,Benign neoplasms
+U072,U00-U85,Codes for special purposes,U00-U49,Provisional assignment of new diseases of uncertain etiology or emergency use,U00-U49,Provisional assignment of new diseases of uncertain etiology or emergency use
+I443,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+E168,E00-E90,"Endocrine, nutritional and metabolic diseases",E15-E16,Other disorders of glucose regulation and pancreatic internal secretion,E15-E16,Other disorders of glucose regulation and pancreatic internal secretion
+K768,K00-K93,Diseases of the digestive system,K70-K77,Diseases of liver,K70-K77,Diseases of liver
+R233,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R20-R23,Symptoms and signs involving the skin and subcutaneous tissue,R20-R23,Symptoms and signs involving the skin and subcutaneous tissue
+Q279,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+M0880,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M05-M14,Inflammatory polyarthropathies
+B99,A00-B99,Certain infectious and parasitic diseases,B99-B99,Other infectious diseases,B99-B99,Other infectious diseases
+A419,A00-B99,Certain infectious and parasitic diseases,A30-A49,Other bacterial diseases,A30-A49,Other bacterial diseases
+Q524,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q50-Q56,Congenital malformations of genital organs,Q50-Q56,Congenital malformations of genital organs
+L819,L00-L99,Diseases of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue
+M2550,M00-M99,Diseases of the musculoskeletal system and connective tissue,M00-M25,Arthropathies,M20-M25,Other joint disorders
+R778,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R70-R79,"Abnormal findings on examination of blood, without diagnosis",R70-R79,"Abnormal findings on examination of blood, without diagnosis"
+Z598,Z00-Z99,Factors influencing health status and contact with health services,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+N119,N00-N99,Diseases of the genitourinary system,N10-N16,Renal tubulo-interstitial diseases,N10-N16,Renal tubulo-interstitial diseases
+K115,K00-K93,Diseases of the digestive system,K00-K14,"Diseases of oral cavity, salivary glands and jaws",K00-K14,"Diseases of oral cavity, salivary glands and jaws"
+L539,L00-L99,Diseases of the skin and subcutaneous tissue,L50-L54,Urticaria and erythema,L50-L54,Urticaria and erythema
+N135,N00-N99,Diseases of the genitourinary system,N10-N16,Renal tubulo-interstitial diseases,N10-N16,Renal tubulo-interstitial diseases
+Y413,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y40-Y59,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use"
+Q233,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+H114,H00-H59,Diseases of the eye and adnexa,H10-H13,Disorders of conjunctiva,H10-H13,Disorders of conjunctiva
+M303,M00-M99,Diseases of the musculoskeletal system and connective tissue,M30-M36,Systemic connective tissue disorders,M30-M36,Systemic connective tissue disorders
+K222,K00-K93,Diseases of the digestive system,K20-K31,"Diseases of oesophagus, stomach and duodenum",K20-K31,"Diseases of oesophagus, stomach and duodenum"
+G479,G00-G99,Diseases of the nervous system,G40-G47,Episodic and paroxysmal disorders,G40-G47,Episodic and paroxysmal disorders
+D350,C00-D48,Neoplasms,D10-D36,Benign neoplasms,D10-D36,Benign neoplasms
+R268,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R25-R29,Symptoms and signs involving the nervous and musculoskeletal systems,R25-R29,Symptoms and signs involving the nervous and musculoskeletal systems
+E830,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+R478,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R47-R49,Symptoms and signs involving speech and voice,R47-R49,Symptoms and signs involving speech and voice
+Q250,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+U837,U00-U85,Codes for special purposes,U82-U85,Resistance to antimicrobial and antineoplastic drugs,U82-U85,Resistance to antimicrobial and antineoplastic drugs
+T808,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+Z532,Z00-Z99,Factors influencing health status and contact with health services,Z40-Z54,Persons encountering health services for specific procedures and health care,Z40-Z54,Persons encountering health services for specific procedures and health care
+Z991,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+I519,I00-I99,Diseases of the circulatory system,I30-I52,Other forms of heart disease,I30-I52,Other forms of heart disease
+D151,C00-D48,Neoplasms,D10-D36,Benign neoplasms,D10-D36,Benign neoplasms
+L891,L00-L99,Diseases of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue
+K409,K00-K93,Diseases of the digestive system,K40-K46,Hernia,K40-K46,Hernia
+R578,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R50-R69,General symptoms and signs,R50-R69,General symptoms and signs
+B349,A00-B99,Certain infectious and parasitic diseases,B25-B34,Other viral diseases,B25-B34,Other viral diseases
+F69,F00-F99,Mental and behavioural disorders,F60-F69,Disorders of adult personality and behaviour,F60-F69,Disorders of adult personality and behaviour
+N926,N00-N99,Diseases of the genitourinary system,N80-N98,Noninflammatory disorders of female genital tract,N80-N98,Noninflammatory disorders of female genital tract
+E799,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+I674,I00-I99,Diseases of the circulatory system,I60-I69,Cerebrovascular diseases,I60-I69,Cerebrovascular diseases
+N250,N00-N99,Diseases of the genitourinary system,N25-N29,Other disorders of kidney and ureter,N25-N29,Other disorders of kidney and ureter
+Z825,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+K623,K00-K93,Diseases of the digestive system,K55-K64,Other diseases of intestines,K55-K64,Other diseases of intestines
+P012,P00-P96,Certain conditions originating in the perinatal period,P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery",P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery"
+M8199,M00-M99,Diseases of the musculoskeletal system and connective tissue,M80-M94,Osteopathies and chondropathies,M80-M85,Disorders of bone density and structure
+G968,G00-G99,Diseases of the nervous system,G90-G99,Other disorders of the nervous system,G90-G99,Other disorders of the nervous system
+J351,J00-J99,Diseases of the respiratory system,J30-J39,Other diseases of upper respiratory tract,J30-J39,Other diseases of upper respiratory tract
+N170,N00-N99,Diseases of the genitourinary system,N17-N19,Renal failure,N17-N19,Renal failure
+Z830,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+R070,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R00-R09,Symptoms and signs involving the circulatory and respiratory systems,R00-R09,Symptoms and signs involving the circulatory and respiratory systems
+M869,M00-M99,Diseases of the musculoskeletal system and connective tissue,M80-M94,Osteopathies and chondropathies,M86-M90,Other osteopathies
+P929,P00-P96,Certain conditions originating in the perinatal period,P90-P96,Other disorders originating in the perinatal period,P90-P96,Other disorders originating in the perinatal period
+P741,P00-P96,Certain conditions originating in the perinatal period,P70-P74,Transitory endocrine and metabolic disorders specific to fetus and newborn,P70-P74,Transitory endocrine and metabolic disorders specific to fetus and newborn
+R898,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis"
+B081,A00-B99,Certain infectious and parasitic diseases,B00-B09,Viral infections characterized by skin and mucous membrane lesions,B00-B09,Viral infections characterized by skin and mucous membrane lesions
+K566,K00-K93,Diseases of the digestive system,K55-K64,Other diseases of intestines,K55-K64,Other diseases of intestines
+J950,J00-J99,Diseases of the respiratory system,J95-J99,Other diseases of the respiratory system,J95-J99,Other diseases of the respiratory system
+Q925,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",Q90-Q99,"Chromosomal abnormalities, not elsewhere classified"
+E119,E00-E90,"Endocrine, nutritional and metabolic diseases",E10-E14,Diabetes mellitus,E10-E14,Diabetes mellitus
+Z618,Z00-Z99,Factors influencing health status and contact with health services,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances,Z55-Z65,Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+R947,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R90-R94,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis",R90-R94,"Abnormal findings on diagnostic imaging and in function studies, without diagnosis"
+K561,K00-K93,Diseases of the digestive system,K55-K64,Other diseases of intestines,K55-K64,Other diseases of intestines
+Z883,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+I958,I00-I99,Diseases of the circulatory system,I95-I99,Other and unspecified disorders of the circulatory system,I95-I99,Other and unspecified disorders of the circulatory system
+D225,C00-D48,Neoplasms,D10-D36,Benign neoplasms,D10-D36,Benign neoplasms
+D815,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism
+G404,G00-G99,Diseases of the nervous system,G40-G47,Episodic and paroxysmal disorders,G40-G47,Episodic and paroxysmal disorders
+N23,N00-N99,Diseases of the genitourinary system,N20-N23,Urolithiasis,N20-N23,Urolithiasis
+L928,L00-L99,Diseases of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue,L80-L99,Other disorders of the skin and subcutaneous tissue
+R300,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R30-R39,Symptoms and signs involving the urinary system,R30-R39,Symptoms and signs involving the urinary system
+Q563,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q50-Q56,Congenital malformations of genital organs,Q50-Q56,Congenital malformations of genital organs
+L678,L00-L99,Diseases of the skin and subcutaneous tissue,L60-L75,Disorders of skin appendages,L60-L75,Disorders of skin appendages
+K819,K00-K93,Diseases of the digestive system,K80-K87,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,"Disorders of gallbladder, biliary tract and pancreas"
+K30,K00-K93,Diseases of the digestive system,K20-K31,"Diseases of oesophagus, stomach and duodenum",K20-K31,"Diseases of oesophagus, stomach and duodenum"
+M628,M00-M99,Diseases of the musculoskeletal system and connective tissue,M60-M79,Soft tissue disorders,M60-M63,Disorders of muscles
+J9699,J00-J99,Diseases of the respiratory system,J95-J99,Other diseases of the respiratory system,J95-J99,Other diseases of the respiratory system
+K766,K00-K93,Diseases of the digestive system,K70-K77,Diseases of liver,K70-K77,Diseases of liver
+Q245,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+K921,K00-K93,Diseases of the digestive system,K90-K93,Other diseases of the digestive system,K90-K93,Other diseases of the digestive system
+Z961,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+B980,A00-B99,Certain infectious and parasitic diseases,B95-B98,"Bacterial, viral and other infectious agents",B95-B98,"Bacterial, viral and other infectious agents"
+H578,H00-H59,Diseases of the eye and adnexa,H55-H59,Other disorders of eye and adnexa,H55-H59,Other disorders of eye and adnexa
+A415,A00-B99,Certain infectious and parasitic diseases,A30-A49,Other bacterial diseases,A30-A49,Other bacterial diseases
+Q238,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q20-Q28,Congenital malformations of the circulatory system,Q20-Q28,Congenital malformations of the circulatory system
+D823,D50-D89,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism,D80-D89,Certain disorders involving the immune mechanism
+B348,A00-B99,Certain infectious and parasitic diseases,B25-B34,Other viral diseases,B25-B34,Other viral diseases
+R398,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R30-R39,Symptoms and signs involving the urinary system,R30-R39,Symptoms and signs involving the urinary system
+N280,N00-N99,Diseases of the genitourinary system,N25-N29,Other disorders of kidney and ureter,N25-N29,Other disorders of kidney and ureter
+Z932,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+Z842,Z00-Z99,Factors influencing health status and contact with health services,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status,Z80-Z99,Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+U074,U00-U85,Codes for special purposes,U00-U49,Provisional assignment of new diseases of uncertain etiology or emergency use,U00-U49,Provisional assignment of new diseases of uncertain etiology or emergency use
+I158,I00-I99,Diseases of the circulatory system,I10-I15,Hypertensive diseases,I10-I15,Hypertensive diseases
+A490,A00-B99,Certain infectious and parasitic diseases,A30-A49,Other bacterial diseases,A30-A49,Other bacterial diseases
+B007,A00-B99,Certain infectious and parasitic diseases,B00-B09,Viral infections characterized by skin and mucous membrane lesions,B00-B09,Viral infections characterized by skin and mucous membrane lesions
+Y430,V01-Y98,External causes of morbidity and mortality,Y40-Y84,Complications of medical and surgical care,Y40-Y59,"Drugs, medicaments and biological substances causing adverse effects in therapeutic use"
+F845,F00-F99,Mental and behavioural disorders,F80-F89,Disorders of psychological development,F80-F89,Disorders of psychological development
+I878,I00-I99,Diseases of the circulatory system,I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+F515,F00-F99,Mental and behavioural disorders,F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors,F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors
+E744,E00-E90,"Endocrine, nutritional and metabolic diseases",E70-E90,Metabolic disorders,E70-E90,Metabolic disorders
+K551,K00-K93,Diseases of the digestive system,K55-K64,Other diseases of intestines,K55-K64,Other diseases of intestines
+T140,S00-T98,"Injury, poisoning and certain other consequences of external causes",T08-T14,"Injuries to unspecified part of trunk, limb or body region",T08-T14,"Injuries to unspecified part of trunk, limb or body region"
+Q893,Q00-Q99,"Congenital malformations, deformations and chromosomal abnormalities",Q80-Q89,Other congenital malformations,Q80-Q89,Other congenital malformations
+R231,R00-R99,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",R20-R23,Symptoms and signs involving the skin and subcutaneous tissue,R20-R23,Symptoms and signs involving the skin and subcutaneous tissue
+I701,I00-I99,Diseases of the circulatory system,I70-I79,"Diseases of arteries, arterioles and capillaries",I70-I79,"Diseases of arteries, arterioles and capillaries"
+H042,H00-H59,Diseases of the eye and adnexa,H00-H06,"Disorders of eyelid, lacrimal system and orbit",H00-H06,"Disorders of eyelid, lacrimal system and orbit"
+G819,G00-G99,Diseases of the nervous system,G80-G83,Cerebral palsy and other paralytic syndromes,G80-G83,Cerebral palsy and other paralytic syndromes
+T812,S00-T98,"Injury, poisoning and certain other consequences of external causes",T80-T88,"Complications of surgical and medical care, not elsewhere classified",T80-T88,"Complications of surgical and medical care, not elsewhere classified"
+L298,L00-L99,Diseases of the skin and subcutaneous tissue,L20-L30,Dermatitis and eczema,L20-L30,Dermatitis and eczema
+K121,K00-K93,Diseases of the digestive system,K00-K14,"Diseases of oral cavity, salivary glands and jaws",K00-K14,"Diseases of oral cavity, salivary glands and jaws"
