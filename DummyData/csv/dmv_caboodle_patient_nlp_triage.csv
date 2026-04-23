@@ -1,0 +1,151 @@
+project_id,start_datetime,end_datetime,raw_clinical_note,anatomy
+DM-000101,15/01/2024 09:00,15/01/2024 10:00,Patient is managing well. Reports dull ache pain in lower back. Transient.,Lower Back
+DM-000102,15/01/2024 09:15,15/01/2024 10:00,Patient is distressed. Reports dull ache pain in cervical spine. Occasional.,Cervical Spine
+DM-000103,15/01/2024 09:30,15/01/2024 10:00,Patient is tearful. Reports twinge pain in right knee. Intermittent.,Right Knee
+DM-000104,15/01/2024 09:45,15/01/2024 10:00,Patient is managing well. Reports dull ache pain in lower back. Transient.,Lower Back
+DM-000105,15/01/2024 10:00,15/01/2024 11:00,Patient is highly anxious. Reports dull ache pain in lower back. Transient.,Lower Back
+DM-000106,15/01/2024 10:15,15/01/2024 11:00,Patient is tearful. Reports mild soreness pain in abdomen. Occasional.,Abdomen
+DM-000107,15/01/2024 10:30,15/01/2024 11:00,Patient is tearful. Reports twinge pain in shoulder. Intermittent.,Shoulder
+DM-000108,15/01/2024 10:45,15/01/2024 11:00,Patient is highly anxious. Reports dull ache pain in head. Intermittent.,Head
+DM-000109,15/01/2024 11:00,15/01/2024 12:00,Patient is calm. Reports mild soreness pain in abdomen. Transient.,Abdomen
+DM-000110,15/01/2024 11:15,15/01/2024 12:00,Patient is calm. Reports dull ache pain in shoulder. Occasional.,Shoulder
+DM-000111,15/01/2024 11:30,15/01/2024 12:00,Patient is calm. Reports vague discomfort pain in right knee. Intermittent.,Right Knee
+DM-000112,15/01/2024 11:45,15/01/2024 12:00,Patient is unable to cope. Reports stabbing pain in lower back. Relentless.,Lower Back
+DM-000113,15/01/2024 12:00,15/01/2024 13:00,Patient is highly anxious. Reports mild soreness pain in cervical spine. Intermittent.,Cervical Spine
+DM-000114,15/01/2024 12:15,15/01/2024 13:00,Patient is calm. Reports crushing pain in chest. Worsening rapidly.,Chest
+DM-000115,15/01/2024 12:30,15/01/2024 13:00,Patient is discussing. Reports dull ache pain in cervical spine. Transient.,Cervical Spine
+DM-000116,15/01/2024 12:45,15/01/2024 13:00,Patient is managing well. Reports mild soreness pain in lower back. Transient.,Lower Back
+DM-000117,15/01/2024 13:00,15/01/2024 14:00,Patient is calm. Reports searing pain in chest. Relentless.,Chest
+DM-000118,15/01/2024 13:15,15/01/2024 14:00,Patient is managing well. Reports unbearable pain in cervical spine. Worsening rapidly.,Cervical Spine
+DM-000119,15/01/2024 13:30,15/01/2024 14:00,Patient is managing well. Reports mild soreness pain in shoulder. Intermittent.,Shoulder
+DM-000120,15/01/2024 13:45,15/01/2024 14:00,Patient is calm. Reports vague discomfort pain in head. Intermittent.,Head
+DM-000121,15/01/2024 14:00,15/01/2024 15:00,Patient is discussing. Reports vague discomfort pain in right knee. Transient.,Right Knee
+DM-000122,15/01/2024 14:15,15/01/2024 15:00,Patient is distressed. Reports searing pain in cervical spine. Relentless.,Cervical Spine
+DM-000123,15/01/2024 14:30,15/01/2024 15:00,Patient is unable to cope. Reports unbearable pain in head. Awakens patient from sleep.,Head
+DM-000124,15/01/2024 14:45,15/01/2024 15:00,Patient is discussing. Reports crushing pain in abdomen. Relentless.,Abdomen
+DM-000125,15/01/2024 15:00,15/01/2024 16:00,Patient is discussing. Reports searing pain in shoulder. Relentless.,Shoulder
+DM-000126,15/01/2024 15:15,15/01/2024 16:00,Patient is distressed. Reports stabbing pain in chest. Worsening rapidly.,Chest
+DM-000127,15/01/2024 15:30,15/01/2024 16:00,Patient is distressed. Reports dull ache pain in head. Transient.,Head
+DM-000128,15/01/2024 15:45,15/01/2024 16:00,Patient is calm. Reports excruciating pain in cervical spine. Relentless.,Cervical Spine
+DM-000129,15/01/2024 16:00,15/01/2024 17:00,Patient is calm. Reports mild soreness pain in abdomen. Intermittent.,Abdomen
+DM-000130,15/01/2024 16:15,15/01/2024 17:00,Patient is discussing. Reports dull ache pain in lower back. Intermittent.,Lower Back
+DM-000131,15/01/2024 16:30,15/01/2024 17:00,Patient is managing well. Reports dull ache pain in lower back. Intermittent.,Lower Back
+DM-000132,15/01/2024 16:45,15/01/2024 17:00,Patient is reporting. Reports twinge pain in head. Intermittent.,Head
+DM-000133,15/01/2024 17:00,15/01/2024 18:00,Patient is tearful. Reports vague discomfort pain in cervical spine. Occasional.,Cervical Spine
+DM-000134,15/01/2024 17:15,15/01/2024 18:00,Patient is highly anxious. Reports twinge pain in head. Intermittent.,Head
+DM-000135,15/01/2024 17:30,15/01/2024 18:00,Patient is calm. Reports vague discomfort pain in lower back. Intermittent.,Lower Back
+DM-000136,15/01/2024 17:45,15/01/2024 18:00,Patient is tearful. Reports unbearable pain in right knee. Awakens patient from sleep.,Right Knee
+DM-000137,15/01/2024 18:00,15/01/2024 19:00,Patient is unable to cope. Reports stabbing pain in chest. Relentless.,Chest
+DM-000138,15/01/2024 18:15,15/01/2024 19:00,Patient is distressed. Reports twinge pain in abdomen. Transient.,Abdomen
+DM-000139,15/01/2024 18:30,15/01/2024 19:00,Patient is managing well. Reports dull ache pain in right knee. Occasional.,Right Knee
+DM-000140,15/01/2024 18:45,15/01/2024 19:00,Patient is calm. Reports searing pain in chest. Awakens patient from sleep.,Chest
+DM-000141,15/01/2024 19:00,15/01/2024 20:00,Patient is calm. Reports dull ache pain in right knee. Occasional.,Right Knee
+DM-000142,15/01/2024 19:15,15/01/2024 20:00,Patient is managing well. Reports crushing pain in abdomen. Awakens patient from sleep.,Abdomen
+DM-000143,15/01/2024 19:30,15/01/2024 20:00,Patient is unable to cope. Reports mild soreness pain in right knee. Occasional.,Right Knee
+DM-000144,15/01/2024 19:45,15/01/2024 20:00,Patient is discussing. Reports dull ache pain in right knee. Transient.,Right Knee
+DM-000145,15/01/2024 20:00,15/01/2024 21:00,Patient is discussing. Reports vague discomfort pain in cervical spine. Transient.,Cervical Spine
+DM-000146,15/01/2024 20:15,15/01/2024 21:00,Patient is managing well. Reports mild soreness pain in shoulder. Transient.,Shoulder
+DM-000147,15/01/2024 20:30,15/01/2024 21:00,Patient is managing well. Reports twinge pain in cervical spine. Intermittent.,Cervical Spine
+DM-000148,15/01/2024 20:45,15/01/2024 21:00,Patient is highly anxious. Reports dull ache pain in head. Intermittent.,Head
+DM-000149,15/01/2024 21:00,15/01/2024 22:00,Patient is reporting. Reports excruciating pain in right knee. Worsening rapidly.,Right Knee
+DM-000150,15/01/2024 21:15,15/01/2024 22:00,Patient is highly anxious. Reports twinge pain in cervical spine. Transient.,Cervical Spine
+DM-000151,15/01/2024 21:30,15/01/2024 22:00,Patient is highly anxious. Reports crushing pain in lower back. Worsening rapidly.,Lower Back
+DM-000152,15/01/2024 21:45,15/01/2024 22:00,Patient is discussing. Reports vague discomfort pain in head. Intermittent.,Head
+DM-000153,15/01/2024 22:00,15/01/2024 23:00,Patient is reporting. Reports mild soreness pain in shoulder. Transient.,Shoulder
+DM-000154,15/01/2024 22:15,15/01/2024 23:00,Patient is discussing. Reports stabbing pain in cervical spine. Worsening rapidly.,Cervical Spine
+DM-000155,15/01/2024 22:30,15/01/2024 23:00,Patient is discussing. Reports twinge pain in cervical spine. Transient.,Cervical Spine
+DM-000156,15/01/2024 22:45,15/01/2024 23:00,Patient is discussing. Reports twinge pain in cervical spine. Transient.,Cervical Spine
+DM-000157,15/01/2024 23:00,16/01/2024 00:00,Patient is calm. Reports dull ache pain in cervical spine. Transient.,Cervical Spine
+DM-000158,16/01/2024 00:00,16/01/2024 01:00,Patient is highly anxious. Reports stabbing pain in lower back. Worsening rapidly.,Lower Back
+DM-000159,16/01/2024 01:00,16/01/2024 02:00,Patient is tearful. Reports dull ache pain in lower back. Occasional.,Lower Back
+DM-000160,16/01/2024 02:00,16/01/2024 03:00,Patient is discussing. Reports mild soreness pain in abdomen. Intermittent.,Abdomen
+DM-000161,16/01/2024 03:00,16/01/2024 04:00,Patient is distressed. Reports mild soreness pain in right knee. Transient.,Right Knee
+DM-000162,16/01/2024 04:00,16/01/2024 05:00,Patient is managing well. Reports mild soreness pain in shoulder. Intermittent.,Shoulder
+DM-000163,16/01/2024 05:00,16/01/2024 06:00,Patient is calm. Reports vague discomfort pain in lower back. Transient.,Lower Back
+DM-000164,16/01/2024 06:00,16/01/2024 07:00,Patient is reporting. Reports stabbing pain in head. Relentless.,Head
+DM-000165,16/01/2024 07:00,16/01/2024 08:00,Patient is tearful. Reports twinge pain in cervical spine. Transient.,Cervical Spine
+DM-000166,16/01/2024 08:00,16/01/2024 09:00,Patient is tearful. Reports excruciating pain in lower back. Awakens patient from sleep.,Lower Back
+DM-000167,16/01/2024 09:00,16/01/2024 10:00,Patient is managing well. Reports crushing pain in cervical spine. Worsening rapidly.,Cervical Spine
+DM-000168,16/01/2024 10:00,16/01/2024 11:00,Patient is unable to cope. Reports mild soreness pain in right knee. Intermittent.,Right Knee
+DM-000169,16/01/2024 11:00,16/01/2024 12:00,Patient is unable to cope. Reports stabbing pain in chest. Awakens patient from sleep.,Chest
+DM-000170,16/01/2024 12:00,16/01/2024 13:00,Patient is tearful. Reports crushing pain in head. Awakens patient from sleep.,Head
+DM-000171,16/01/2024 13:00,16/01/2024 14:00,Patient is calm. Reports searing pain in shoulder. Worsening rapidly.,Shoulder
+DM-000172,16/01/2024 14:00,16/01/2024 15:00,Patient is distressed. Reports vague discomfort pain in abdomen. Occasional.,Abdomen
+DM-000173,16/01/2024 15:00,16/01/2024 16:00,Patient is unable to cope. Reports searing pain in cervical spine. Relentless.,Cervical Spine
+DM-000174,16/01/2024 16:00,16/01/2024 17:00,Patient is discussing. Reports excruciating pain in chest. Relentless.,Chest
+DM-000175,16/01/2024 17:00,16/01/2024 18:00,Patient is calm. Reports vague discomfort pain in shoulder. Occasional.,Shoulder
+DM-000176,16/01/2024 18:00,16/01/2024 19:00,Patient is highly anxious. Reports vague discomfort pain in cervical spine. Occasional.,Cervical Spine
+DM-000177,16/01/2024 19:00,16/01/2024 20:00,Patient is unable to cope. Reports twinge pain in cervical spine. Intermittent.,Cervical Spine
+DM-000178,16/01/2024 20:00,16/01/2024 21:00,Patient is calm. Reports dull ache pain in lower back. Intermittent.,Lower Back
+DM-000179,16/01/2024 21:00,16/01/2024 22:00,Patient is reporting. Reports unbearable pain in chest. Relentless.,Chest
+DM-000180,16/01/2024 22:00,16/01/2024 23:00,Patient is distressed. Reports excruciating pain in lower back. Relentless.,Lower Back
+DM-000181,16/01/2024 23:00,17/01/2024 00:00,Patient is discussing. Reports stabbing pain in cervical spine. Worsening rapidly.,Cervical Spine
+DM-000182,17/01/2024 00:00,17/01/2024 01:00,Patient is reporting. Reports mild soreness pain in cervical spine. Occasional.,Cervical Spine
+DM-000183,17/01/2024 01:00,17/01/2024 02:00,Patient is highly anxious. Reports vague discomfort pain in lower back. Occasional.,Lower Back
+DM-000184,17/01/2024 02:00,17/01/2024 03:00,Patient is reporting. Reports crushing pain in chest. Awakens patient from sleep.,Chest
+DM-000185,17/01/2024 03:00,17/01/2024 04:00,Patient is calm. Reports vague discomfort pain in shoulder. Intermittent.,Shoulder
+DM-000186,17/01/2024 04:00,17/01/2024 05:00,Patient is calm. Reports mild soreness pain in head. Occasional.,Head
+DM-000187,17/01/2024 05:00,17/01/2024 06:00,Patient is discussing. Reports crushing pain in shoulder. Awakens patient from sleep.,Shoulder
+DM-000188,17/01/2024 06:00,17/01/2024 07:00,Patient is highly anxious. Reports searing pain in right knee. Relentless.,Right Knee
+DM-000189,17/01/2024 07:00,17/01/2024 08:00,Patient is tearful. Reports excruciating pain in cervical spine. Relentless.,Cervical Spine
+DM-000190,17/01/2024 08:00,17/01/2024 09:00,Patient is distressed. Reports mild soreness pain in abdomen. Intermittent.,Abdomen
+DM-000191,17/01/2024 09:00,17/01/2024 10:00,Patient is distressed. Reports dull ache pain in lower back. Occasional.,Lower Back
+DM-000192,17/01/2024 10:00,17/01/2024 11:00,Patient is discussing. Reports unbearable pain in lower back. Awakens patient from sleep.,Lower Back
+DM-000193,17/01/2024 11:00,17/01/2024 12:00,Patient is managing well. Reports mild soreness pain in right knee. Intermittent.,Right Knee
+DM-000194,17/01/2024 12:00,17/01/2024 13:00,Patient is calm. Reports unbearable pain in lower back. Awakens patient from sleep.,Lower Back
+DM-000195,17/01/2024 13:00,17/01/2024 14:00,Patient is reporting. Reports twinge pain in shoulder. Occasional.,Shoulder
+DM-000196,17/01/2024 14:00,17/01/2024 15:00,Patient is managing well. Reports searing pain in shoulder. Relentless.,Shoulder
+DM-000197,17/01/2024 15:00,17/01/2024 16:00,Patient is highly anxious. Reports mild soreness pain in lower back. Intermittent.,Lower Back
+DM-000198,17/01/2024 16:00,17/01/2024 17:00,Patient is discussing. Reports mild soreness pain in shoulder. Transient.,Shoulder
+DM-000199,17/01/2024 17:00,17/01/2024 18:00,Patient is unable to cope. Reports dull ache pain in shoulder. Intermittent.,Shoulder
+DM-000200,17/01/2024 18:00,17/01/2024 19:00,Patient is managing well. Reports twinge pain in cervical spine. Intermittent.,Cervical Spine
+DM-000201,17/01/2024 19:00,17/01/2024 20:00,Patient is calm. Reports stabbing pain in lower back. Awakens patient from sleep.,Lower Back
+DM-000202,17/01/2024 20:00,17/01/2024 21:00,Patient is calm. Reports twinge pain in right knee. Occasional.,Right Knee
+DM-000203,17/01/2024 21:00,17/01/2024 22:00,Patient is tearful. Reports vague discomfort pain in lower back. Occasional.,Lower Back
+DM-000204,17/01/2024 22:00,17/01/2024 23:00,Patient is highly anxious. Reports searing pain in chest. Worsening rapidly.,Chest
+DM-000205,17/01/2024 23:00,18/01/2024 00:00,Patient is discussing. Reports mild soreness pain in head. Transient.,Head
+DM-000206,18/01/2024 00:00,18/01/2024 01:00,Patient is unable to cope. Reports dull ache pain in head. Intermittent.,Head
+DM-000207,18/01/2024 01:00,18/01/2024 02:00,Patient is highly anxious. Reports searing pain in lower back. Worsening rapidly.,Lower Back
+DM-000208,18/01/2024 02:00,18/01/2024 03:00,Patient is highly anxious. Reports twinge pain in cervical spine. Transient.,Cervical Spine
+DM-000209,18/01/2024 03:00,18/01/2024 04:00,Patient is discussing. Reports vague discomfort pain in head. Transient.,Head
+DM-000210,18/01/2024 04:00,18/01/2024 05:00,Patient is highly anxious. Reports vague discomfort pain in abdomen. Transient.,Abdomen
+DM-000211,18/01/2024 05:00,18/01/2024 06:00,Patient is calm. Reports searing pain in head. Relentless.,Head
+DM-000212,18/01/2024 06:00,18/01/2024 07:00,Patient is tearful. Reports twinge pain in cervical spine. Intermittent.,Cervical Spine
+DM-000213,18/01/2024 07:00,18/01/2024 08:00,Patient is discussing. Reports twinge pain in right knee. Intermittent.,Right Knee
+DM-000214,18/01/2024 08:00,18/01/2024 09:00,Patient is reporting. Reports twinge pain in head. Intermittent.,Head
+DM-000215,18/01/2024 09:00,18/01/2024 10:00,Patient is calm. Reports unbearable pain in chest. Awakens patient from sleep.,Chest
+DM-000216,18/01/2024 10:00,18/01/2024 11:00,Patient is highly anxious. Reports twinge pain in abdomen. Intermittent.,Abdomen
+DM-000217,18/01/2024 11:00,18/01/2024 12:00,Patient is unable to cope. Reports mild soreness pain in right knee. Transient.,Right Knee
+DM-000218,18/01/2024 12:00,18/01/2024 13:00,Patient is discussing. Reports mild soreness pain in head. Transient.,Head
+DM-000219,18/01/2024 13:00,18/01/2024 14:00,Patient is tearful. Reports vague discomfort pain in abdomen. Intermittent.,Abdomen
+DM-000220,18/01/2024 14:00,18/01/2024 15:00,Patient is discussing. Reports twinge pain in right knee. Transient.,Right Knee
+DM-000221,18/01/2024 15:00,18/01/2024 16:00,Patient is distressed. Reports dull ache pain in cervical spine. Transient.,Cervical Spine
+DM-000222,18/01/2024 16:00,18/01/2024 17:00,Patient is distressed. Reports dull ache pain in abdomen. Occasional.,Abdomen
+DM-000223,18/01/2024 17:00,18/01/2024 18:00,Patient is tearful. Reports dull ache pain in shoulder. Occasional.,Shoulder
+DM-000224,18/01/2024 18:00,18/01/2024 19:00,Patient is discussing. Reports twinge pain in lower back. Occasional.,Lower Back
+DM-000225,18/01/2024 19:00,18/01/2024 20:00,Patient is highly anxious. Reports vague discomfort pain in abdomen. Intermittent.,Abdomen
+DM-000226,18/01/2024 20:00,18/01/2024 21:00,Patient is calm. Reports dull ache pain in lower back. Intermittent.,Lower Back
+DM-000227,18/01/2024 21:00,18/01/2024 22:00,Patient is reporting. Reports twinge pain in lower back. Occasional.,Lower Back
+DM-000228,18/01/2024 22:00,18/01/2024 23:00,Patient is tearful. Reports twinge pain in head. Occasional.,Head
+DM-000229,18/01/2024 23:00,19/01/2024 00:00,Patient is distressed. Reports mild soreness pain in shoulder. Occasional.,Shoulder
+DM-000230,19/01/2024 00:00,19/01/2024 01:00,Patient is highly anxious. Reports excruciating pain in chest. Worsening rapidly.,Chest
+DM-000231,19/01/2024 01:00,19/01/2024 02:00,Patient is managing well. Reports excruciating pain in chest. Awakens patient from sleep.,Chest
+DM-000232,19/01/2024 02:00,19/01/2024 03:00,Patient is managing well. Reports mild soreness pain in lower back. Occasional.,Lower Back
+DM-000233,19/01/2024 03:00,19/01/2024 04:00,Patient is discussing. Reports vague discomfort pain in abdomen. Occasional.,Abdomen
+DM-000234,19/01/2024 04:00,19/01/2024 05:00,Patient is tearful. Reports mild soreness pain in lower back. Occasional.,Lower Back
+DM-000235,19/01/2024 05:00,19/01/2024 06:00,Patient is reporting. Reports stabbing pain in chest. Awakens patient from sleep.,Chest
+DM-000236,19/01/2024 06:00,19/01/2024 07:00,Patient is tearful. Reports twinge pain in cervical spine. Occasional.,Cervical Spine
+DM-000237,19/01/2024 07:00,19/01/2024 08:00,Patient is reporting. Reports dull ache pain in head. Transient.,Head
+DM-000238,19/01/2024 08:00,19/01/2024 09:00,Patient is highly anxious. Reports dull ache pain in head. Transient.,Head
+DM-000239,19/01/2024 09:00,19/01/2024 10:00,Patient is reporting. Reports mild soreness pain in shoulder. Occasional.,Shoulder
+DM-000240,19/01/2024 10:00,19/01/2024 11:00,Patient is managing well. Reports searing pain in chest. Worsening rapidly.,Chest
+DM-000241,19/01/2024 11:00,19/01/2024 12:00,Patient is reporting. Reports unbearable pain in right knee. Awakens patient from sleep.,Right Knee
+DM-000242,19/01/2024 12:00,19/01/2024 13:00,Patient is unable to cope. Reports crushing pain in chest. Relentless.,Chest
+DM-000243,19/01/2024 13:00,19/01/2024 14:00,Patient is calm. Reports unbearable pain in abdomen. Awakens patient from sleep.,Abdomen
+DM-000244,19/01/2024 14:00,19/01/2024 15:00,Patient is calm. Reports searing pain in chest. Worsening rapidly.,Chest
+DM-000245,19/01/2024 15:00,19/01/2024 16:00,Patient is tearful. Reports vague discomfort pain in cervical spine. Transient.,Cervical Spine
+DM-000246,19/01/2024 16:00,19/01/2024 17:00,Patient is calm. Reports vague discomfort pain in lower back. Transient.,Lower Back
+DM-000247,19/01/2024 17:00,19/01/2024 18:00,Patient is highly anxious. Reports vague discomfort pain in head. Transient.,Head
+DM-000248,19/01/2024 18:00,19/01/2024 19:00,Patient is reporting. Reports dull ache pain in shoulder. Intermittent.,Shoulder
+DM-000249,19/01/2024 19:00,19/01/2024 20:00,Patient is highly anxious. Reports mild soreness pain in abdomen. Intermittent.,Abdomen
+DM-000250,19/01/2024 20:00,19/01/2024 21:00,Patient is tearful. Reports dull ache pain in cervical spine. Intermittent.,Cervical Spine
