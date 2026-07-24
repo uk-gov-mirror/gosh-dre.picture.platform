@@ -292,38 +292,72 @@ app_picture_server <- function(app_config, data_dir, n_max) {
 }
 
 
+#' Build the initial cohort definitions from the app YAML.
+#'
+#' Returns a named list (one entry per cohort label) of `Node` trees - the root
+#' of each cohort's logic tree. This replaces the previous tibble-per-cohort
+#' representation; the tree is resolved to a patient_list by `Node$evaluate()`.
+#'
+#' Each cohort config is expected to carry a recursive `tree:`
+#'
+#' Legacy cohorts with a flat `config:` list of clauses are still accepted and
+#' wrapped into an AND of those filters over the base population.
+#'
+#' @param cohort_config The `cfg$initialCohorts` list parsed from the app YAML.
+#' @param base_dataset Character; the dataset / specialty name.
+#' @return Named list of root `Node`s.
 .initialCohorts2defn <- function(cohort_config, base_dataset) {
 
   cohort_defn <- list()
 
-  # For each input cohort
   for (cc in cohort_config) {
 
-    # Initialise the cohort definition
-    cohort_defn[[cc$label]] <- tibble::tibble(id = 1, type = "base", val = list(base_dataset))
-
-    # For each filter clause in the config
-    for (clevel in cc$config) {
-      cohort_defn[[cc$label]] <- plyr::rbind.fill(
-        cohort_defn[[cc$label]],
-        tibble::tibble(
-          id = nrow(cohort_defn[[cc$label]]) + 1,
-          type = clevel$type,
-          rdv = clevel$rdv,
-          column = clevel$column,
-          val = list(clevel$val),
-          query_type = clevel$query_type,
-          inclusion = clevel$inclusion,
-          window = ifelse(
-            is.null(clevel$window),
-            list(c(as.integer(0),as.integer(0))),
-            list(clevel$window)
-          )
-        )
-      )
+    if (!is.null(cc$tree)) {
+      # New recursive tree config
+      cohort_defn[[cc$label]] <- .cohort_config2node(cc$tree)
+    } else if (length(cc$config) > 0) {
+      # Legacy flat config: AND together the filter clauses over the base
+      filters <- lapply(cc$config, .cohort_config2node)
+      cohort_defn[[cc$label]] <- Node$new(value_type = "and", children = filters)
+    } else {
+      # No clauses at all: the whole base population ("all patients"). Building
+      # an empty AND here would be non-evaluable and throw at run time, so seed
+      # a bare base node instead.
+      cohort_defn[[cc$label]] <- Node$new(value_type = "base")
     }
 
   }
 
   cohort_defn
+}
+
+
+#' Recursively convert one YAML cohort node into a `Node`.
+#'
+#' Operator nodes (`and`/`or`/`not`) recurse into their `children`; leaf nodes
+#' (`base`/`filter`) carry the clause fields. Accepts both the new `val_type`
+#' key and the legacy `type` key for the node type, and both `value`/`val` for
+#' the query value.
+#'
+#' @param node_config A single node from the cohort tree config.
+#' @return A `Node`.
+.cohort_config2node <- function(node_config) {
+
+  value_type <- node_config$val_type %||% node_config$type
+
+  if (value_type %in% c("and", "or", "not")) {
+    children <- lapply(node_config$children, .cohort_config2node)
+    return(Node$new(value_type = value_type, children = children))
+  }
+
+  # Leaf node (base / filter)
+  Node$new(
+    value_type = value_type,
+    value      = node_config$value %||% node_config$val,
+    rdv        = node_config$rdv,
+    column     = node_config$column,
+    query_type = node_config$query_type,
+    inclusion  = node_config$inclusion,
+    window     = node_config$window %||% c(0L, 0L)
+  )
 }
