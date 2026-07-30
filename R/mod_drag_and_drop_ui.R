@@ -85,6 +85,12 @@ yaml_maker_ui <- function(mod_dirs = c("driveanalytics/R")) {
                     "app_dataset",
                     "Dataset used for analysis",
                     .get_datasets()
+                ),
+
+                shiny::checkboxInput(
+                    "app_cohort_builder",
+                    "Offer the users the ability to create new cohorts",
+                    TRUE
                 )
             ),
 
@@ -228,9 +234,11 @@ yaml_maker_tab_ui <- function(mod_dirs = c("driveanalytics/R")) {
 
 .get_images <- function() {
     image_paths <- list.files("picture.platform/inst/www/images", full.names = TRUE)
+    image_paths <- gsub("picture\\.platform/inst/", "", image_paths)
 
     image_names <- list.files("picture.platform/inst/www/images", full.names = FALSE)
     image_names <- gsub("\\.(png|jpg)$", "", image_names)
+    
     names(image_paths) <- image_names
     return(image_paths)
 }

@@ -63,13 +63,15 @@ yaml_maker_server <- function(mod_dirs, namespaces = c("driveanalytics", "pictur
 
         yaml_text <- reactive({
             yaml::as.yaml(list(
-                title          = input$app_title,
-                description    = input$app_description,
-                creator        = input$app_creator,
-                img            = input$app_png,
-                dataset        = input$app_dataset,
-                initialCohorts = .cohorts_to_initial_config(cohort_defn()),
-                analysis       = .analysis(input, mod_params, namespaces)
+                title              = input$app_title,
+                description        = input$app_description,
+                creator            = input$app_creator,
+                img                = input$app_png,
+                dataset            = input$app_dataset,
+                initialCohorts     = .cohorts_to_initial_config(cohort_defn()),
+                offerCohortBuilder = input$app_cohort_builder,
+                analysis           = .analysis(input, mod_params, namespaces),
+                outputs            = list(interactive = TRUE, pdf = FALSE)
             ))
         })
 
@@ -142,14 +144,32 @@ yaml_maker_server <- function(mod_dirs, namespaces = c("driveanalytics", "pictur
         list(
             "tab" = input[[paste0(mod, "_title")]],
             "methodList" = list(
-                "fn" = mod,
-                "rpkg" = get_rpkg(mod),
-                "params" = setNames(lapply(mod_params[[mod]], function(p) {
-                    input[[paste0(mod, "__", p)]]
-                }), mod_params[[mod]])
+                list(
+                    "fn" = mod,
+                    "rpkg" = get_rpkg(mod),
+                    "params" = setNames(lapply(mod_params[[mod]], function(p) {
+                        .coerce_param(input[[paste0(mod, "__", p)]])
+                    }), mod_params[[mod]])
+                )
             )
         )
     })
+}
+
+.coerce_param <- function(val) {
+    if (!is.character(val) || length(val) != 1 || val == "") {
+        return(val)
+    }
+    if (toupper(val) %in% c("TRUE", "FALSE")) {
+        return(as.logical(val))
+    }
+    if (grepl("^-?[0-9]+$", val)) {
+        return(as.integer(val))
+    }
+    if (grepl("^-?([0-9]*\\.[0-9]+|[0-9]+\\.)", val)) {
+        return(as.numeric(val))
+    }
+    val
 }
 
 # Serialize the cohort-builder output (a named list of cohorts, each a list of
