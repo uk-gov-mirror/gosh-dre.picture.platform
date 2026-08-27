@@ -21,6 +21,9 @@ app_picture_ui <- function(app_config) {
     bs4Dash::menuItem(
       "Home", tabName = "home_tab", icon = shiny::icon("house")
     ),
+    bs4Dash::menuItem(
+      "App Creator", tabName = "app_creator_tab", icon = shiny::icon("sliders")
+    ),
     # Dynamic menu elements
     bs4Dash::menuItemOutput("patient_select_menuitem"),
     bs4Dash::menuItemOutput("cohort_select_menuitem"),
@@ -86,6 +89,12 @@ app_picture_ui <- function(app_config) {
         type = "deck",
         lapply(app_config, cfg2card)
       )
+    ),
+
+    # App Creator tab (drag-and-drop YAML maker)
+    bs4Dash::tabItem(
+      tabName = "app_creator_tab",
+      yaml_maker_tab_ui()
     ),
 
     # Patient select tab

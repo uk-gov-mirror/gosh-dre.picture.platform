@@ -13,6 +13,9 @@ app_picture_server <- function(app_config, data_dir, n_max) {
       file.rename("log/logfile_temp.log",log_output_filename)
       })
 
+    # Attach the drag-and-drop app builder (YAML maker) to this session.
+    yaml_maker_server(mod_dirs = c("driveanalytics/R"))(input, output, session)
+
     # Prevent timeout when running in the cloud partner system
     autoInvalidate <- shiny::reactiveTimer(20000)
     shiny::observe({
