@@ -1,6 +1,6 @@
 #' Default start date for selection
 #' @export
-deafult_start_date <- lubridate::as_date("2020-01-01")
+default_start_date <- lubridate::as_date("2020-01-01")
 
 #' List of RDVs and derived RDVs that are usable in PICTURE
 #' It is currently necessary to hardcode these because of the way that reactives
@@ -17,6 +17,10 @@ rdv_list <- list(
   "df_had",
   "df_lab",
   "df_med_admins",
-  "df_lab_components"
+  "df_lab_components",
+  "df_wst",
+  "df_flw_main",
+  "df_tli"
 )
 names(rdv_list) <- rdv_list
+

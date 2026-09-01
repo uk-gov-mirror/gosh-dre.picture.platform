@@ -63,9 +63,13 @@ get_rdv_code <- function(rdv) {
 
 
 get_variable_label <- function(rdv, var, pull = "label") {
-  get_rdv_Variable_lookup() %>%
+  # A variable maps to a single label/type; duplicate rows in the lookup table
+  # would otherwise return a length->1 vector and break scalar callers (e.g. the
+  # node summary text and the filter-modal query type). Keep the first match.
+  vals <- get_rdv_Variable_lookup() %>%
     dplyr::filter(rdv_code == rdv & variable_code == var) %>%
     dplyr::pull(!!as.name(pull))
+  if (length(vals) == 0) vals else vals[[1]]
 }
 
 

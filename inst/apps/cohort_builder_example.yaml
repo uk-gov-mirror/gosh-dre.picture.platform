@@ -1,0 +1,201 @@
+---
+title: Cohort Builder Example
+description: |
+  A worked example of the graph/tree cohort builder
+creator: will
+img: "www/images/Binoculars.png"
+dataset: dmv
+
+# The cohort builder understands two config styles per cohort:
+#
+#   config:  -> LEGACY. A flat list of `filter` clauses. Every clause is ANDed
+#               together over the base population (all patients). Kept for
+#               backwards compatibility. See the first cohort below.
+#
+#   tree:    -> NEW. A single recursive node. Operator nodes (and / or / not)
+#               carry a `children:` list; leaf nodes are `filter` (or `base`).
+#               This is what unlocks OR, NOT and arbitrary nesting.
+#
+# Leaf (filter) fields:
+#   type:       filter
+#   rdv:        the rdv_code to query (see inst/configs/rdv_code_lookup.csv,
+#               e.g. pde, dia_conditions, had, wst, lab, med_admins, ...)
+#   column:     the column within that RDV to test
+#   query_type: str_matches | str_starts | str_contains |
+#               date_between | numeric_between | age_between
+#   val:        the value(s) to test against. A single value for the str_*
+#               types; a two-element list [lo, hi] for the *_between types.
+#   inclusion:  ever | never | fully_concurrent | after_first | on_first
+#   window:     (optional) [start_days, end_days] widening either side of the
+#               matched event, e.g. [-7, 7] = one week before to one week after.
+#
+# Operator nodes:
+#   and -> intersection of children (patients/periods in ALL children)
+#   or  -> union of children        (patients/periods in ANY child)
+#   not -> complement of its single child, taken against the base population
+#
+# All rdvs / columns / values below are real for the `dmv` dummy data, so the
+# filters actually match rows.
+
+initialCohorts:
+
+  # ------------------------------------------------------------------ #
+  # 1. LEGACY flat config (for contrast). Two clauses, implicitly ANDed:
+  #    female AND aged 13-18 at an event.
+  # ------------------------------------------------------------------ #
+  - label: Adolescent females
+    config:
+      - type: filter
+        rdv: pde
+        column: sex_name
+        query_type: str_matches
+        val: Female
+        inclusion: ever
+      - type: filter
+        rdv: pde
+        column: birth_date
+        query_type: age_between
+        val: [13, 18]
+        inclusion: ever
+
+  # ------------------------------------------------------------------ #
+  # 2. TREE config: the interesting one.
+  #
+  #    Dialysis-dependent CKD, not transplanted =
+  #      ( ever a chronic kidney disease diagnosis )
+  #      AND
+  #      ( any evidence of dialysis:  a dialysis diagnosis
+  #                                   OR a haemodialysis ward stay
+  #                                   OR a dialysis line-lock drug )
+  #      AND
+  #      ( NOT a kidney-transplant status )
+  #
+  #    Shows AND at the root, a 3-way nested OR, and a NOT wrapping a filter.
+  # ------------------------------------------------------------------ #
+  - label: Dialysis CKD (no transplant)
+    tree:
+      type: and
+      children:
+
+        # 2a. Ever coded with chronic kidney disease (matches all CKD stages,
+        #     e.g. "Chronic kidney disease, stage 5" / "..., unspecified").
+        - type: filter
+          rdv: dia_conditions
+          column: diag_name
+          query_type: str_contains
+          val: chronic kidney disease
+          inclusion: ever
+
+        # 2b. Nested OR: at least one line of evidence the patient is dialysing.
+        - type: or
+          children:
+            # A dialysis diagnosis ("Extracorporeal dialysis",
+            # "Dependence on renal dialysis").
+            - type: filter
+              rdv: dia_conditions
+              column: diag_name
+              query_type: str_contains
+              val: dialysis
+              inclusion: ever
+            # OR a stay on the haemodialysis ward ("EAGLE HAEMODIALYSIS").
+            - type: filter
+              rdv: wst
+              column: ward_short_name
+              query_type: str_contains
+              val: haemodialysis
+              inclusion: ever
+            # OR ever given fibrin (dialysis-catheter line-lock agent).
+            - type: filter
+              rdv: med_admins
+              column: drug_name
+              query_type: str_matches
+              val: fibrin
+              inclusion: ever
+
+        # 2c. NOT: exclude anyone ever coded as a kidney-transplant recipient
+        #     ("Kidney transplant status").
+        - type: not
+          children:
+            - type: filter
+              rdv: dia_conditions
+              column: diag_name
+              query_type: str_contains
+              val: kidney transplant
+              inclusion: ever
+
+  # ------------------------------------------------------------------ #
+  # 3. TREE config demonstrating the *_between query types, a date window
+  #    with the !datelist tag, and a concurrent inclusion rule.
+  #
+  #    Recent emergency nephrology admissions with a long stay + abnormal lab =
+  #      ( an emergency admission... )
+  #      AND ( ...to the Nephrology service )
+  #      AND ( a long ward stay of 7+ days )
+  #      AND ( admitted during 2022-2023 )
+  #      AND ( an abnormal-high lab result, concurrent +/- 7 days )
+  # ------------------------------------------------------------------ #
+  - label: Recent long nephrology emergencies
+    tree:
+      type: and
+      children:
+
+        # 3a. Emergency admission of any kind ("Emergency - Other",
+        #     "Emergency Transfer", ...). str_starts anchors the prefix.
+        - type: filter
+          rdv: had
+          column: admission_type
+          query_type: str_starts
+          val: Emergency
+          inclusion: ever
+
+        # 3b. ...under the Nephrology service (the dominant service here).
+        - type: filter
+          rdv: had
+          column: hospital_service
+          query_type: str_matches
+          val: Nephrology
+          inclusion: ever
+
+        # 3c. A ward stay lasting between 7 and 200 days (numeric_between).
+        - type: filter
+          rdv: wst
+          column: ward_stay_days
+          query_type: numeric_between
+          val: [7, 200]
+          inclusion: ever
+
+        # 3d. Admitted within 2022-2023. start_datetime is a datetime column,
+        #     so tag the bounds with !datelist to parse them as datetimes
+        #     (handler registered in R/app_picture.R).
+        - type: filter
+          rdv: had
+          column: start_datetime
+          query_type: date_between
+          val: !datelist ["2022-01-01 00:00:00", "2023-12-31 23:59:59"]
+          inclusion: after_first
+
+        # 3e. Had an abnormal-high lab result, kept only where concurrent with
+        #     the retained periods, widened +/- 7 days.
+        - type: filter
+          rdv: lab
+          column: flag
+          query_type: str_matches
+          val: High
+          inclusion: fully_concurrent
+          window: [-7, 7]
+
+# Let users edit / add / delete these cohorts interactively in the app.
+offerCohortBuilder: true
+
+analysis:
+  - tab: Demographics
+    methodList:
+      - rpkg: driveanalytics
+        fn: tpl_pde_all
+        params:
+          df_pde: df_pde
+          df_loc: df_loc
+
+outputs:
+  interactive: true
+  pdf: false

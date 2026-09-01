@@ -15,13 +15,15 @@ rdv_reactive <- function(rdv, rdvs_server, cohort_defn, run_reactive) {
       return(NULL)
     }
 
-    filter_by_cohorts(rdv_selected, cohort_defn())
+    filter_by_cohorts(rdv_selected, cohort_defn(), rdvs_server())
   })
 }
 
 
-# Filter an RDV based on a cohort definition
-filter_by_cohorts <- function(rdv, cohorts) {
+# Filter an RDV based on a cohort definition. `cohorts` is a named list of `Node`
+# trees; each root resolves to a patient_list via `Node$evaluate()`, cached on
+# the node (R6) so the 16 per-RDV reactives trigger evaluation only once.
+filter_by_cohorts <- function(rdv, cohorts, df_rdvs) {
 
   # If no cohort, return the empty data
   if (length(cohorts) == 0) {
@@ -32,8 +34,32 @@ filter_by_cohorts <- function(rdv, cohorts) {
   rdv_out <- tibble::tibble()
   for (idx in seq(length(cohorts))) {
 
-    cohort_idx <- cohorts[[idx]]
-    df_init_patient_list <- cohort_idx$patient_list[[nrow(cohort_idx)]][[1]]
+    cohort_root <- cohorts[[idx]]
+
+    # Skip cohorts whose tree not in an evaluable state yet 
+    if (inherits(cohort_root, "Node") && !cohort_root$is_evaluable()) {
+      logger::log_warn(glue::glue(
+        "Skipping non-evaluable cohort '{names(cohorts)[[idx]]}'."
+      ))
+      next
+    }
+
+    # Use the cached membership if already resolved
+    df_init_patient_list <- cohort_root$patient_list
+    if (is.null(df_init_patient_list)) {
+      df_init_patient_list <- tryCatch(
+        cohort_root$evaluate(df_rdvs),
+        error = function(e) {
+          logger::log_warn(glue::glue(
+            "Failed to evaluate cohort '{names(cohorts)[[idx]]}': {conditionMessage(e)}"
+          ))
+          NULL
+        }
+      )
+    }
+    if (is.null(df_init_patient_list)) {
+      next
+    }
 
     df_patient_list <- df_init_patient_list %>%
       dplyr::group_by(project_id) %>%
@@ -70,124 +96,6 @@ filter_by_cohorts <- function(rdv, cohorts) {
 
 
   rdv_out
-}
-
-
-# Update/add patient lists to a cohort definition table
-update_patient_lists <- function(cohort, df_rdvs) {
-  # Check inputs
-  if (is.null(df_rdvs$df_pde) | nrow(cohort) == 0)
-    return(cohort)
-  # Add patient list row if not already added
-  if (!"patient_list" %in% names(cohort)) {
-    cohort$patient_list <- NA
-    cohort$n <- NA
-    cohort$n_periods <- NA
-  }
-
-  # For each row of the cohort definition
-  filter_functions <- c()
-  for (idx in seq(nrow(cohort))) {
-
-    spec <- cohort[idx,]
-
-    if (is.na(spec$patient_list) || is.null(spec$patient_list[[1]])) {
-
-      if (spec$type == "base") {
-
-        # Base patient list
-        patient_list <- df_rdvs$df_pde %>%
-          dplyr::transmute(
-            project_id,
-            entry_date = lubridate::as_date(birth_date),  # as.Date('1-1-1'),
-            exit_date = lubridate::as_date(dplyr::if_else(is.na(death_date), Sys.Date(), death_date))
-          )
-
-      } else if (spec$type == "filter" | spec$type == "and") {
-
-        # Reset the filter list if a new filter
-        if (spec$type == "filter") filter_functions <- c()
-
-        # Val should be a list of length 1 - check this
-        if (class(spec$val) != "list" || length(spec$val) != 1) {
-          stop("Cohort formatting has been corrupted")
-        }
-
-        # Compute the new filter function
-        rdv_name <- paste0("df_", stringr::str_to_lower(spec$rdv))
-        col <- spec$column
-        inclusion <- spec$inclusion
-        cropwindow <- unlist(spec$window)
-        query_type <- spec$query_type
-        query_val <- spec$val[[1]]  # unlist kills date types
-        patient_list <- cohort$patient_list[[idx-1]][[1]]
-
-        if (stringr::str_starts(query_type, "str_")) {
-          # Escape any brackets in the input query
-          qv <- stringr::str_replace_all(query_val, c("\\(" = "\\\\(", "\\)" = "\\\\)"))
-          #qv <- gsub(pattern = "([[:punct:]])", replacement="\\\\\\1", qv)
-          # Build regex
-          regex <- paste0("(", paste(qv, collapse = "|"), ")")
-          if (query_type == "str_starts") regex <- paste0("^", regex)
-          else if (query_type == "str_matches") regex <- paste0("^", regex, "$")
-          else if (query_type == "str_contains") regex <- paste0("(?i)", regex)
-          f <- pryr::unenclose(str_regex_closure(regex, col))
-        } else if (query_type == "date_between") {
-          f <- pryr::unenclose(val_between_closure(query_val, col))
-        } else if (query_type == "age_between") {
-          f <- pryr::unenclose(age_between_closure(query_val, col))
-        } else if (query_type == "numeric_between") {
-          f <- pryr::unenclose(val_between_closure(query_val, col))
-        }
-        filter_functions <- c(filter_functions, f)
-
-        # Add functions to enforce the inclusion criteria type
-        if(inclusion == "fully_concurrent")
-          filter_functions <- c(filter_functions, ff_concurrent, ff_crop_entry_exit_closure(cropwindow))
-        else if (inclusion == "after_first")
-          filter_functions <- c(filter_functions, ff_concurrent, ff_crop_entry_closure(cropwindow))
-        else if (inclusion == "on_first")
-          filter_functions <- c(filter_functions, ff_concurrent, ff_crop_first_closure(cropwindow))
-        # else if (inclusion == "ever_concurrent")
-        #   filter_functions <- c(filter_functions, ff_concurrent)
-
-        # Apply the filters in the RDV
-        rdv_to_filter <- df_rdvs[[rdv_name]] %>%
-          dplyr::right_join(patient_list, by = "project_id")
-        for (ff in filter_functions) rdv_to_filter <- rdv_to_filter %>% ff()
-
-        # Extract the new patient list
-        new_patient_list <- rdv_to_filter %>%
-          dplyr::select(project_id, entry_date, exit_date)
-
-        # Store the updated patient list, unless "never"/exclusion criteria
-        if (inclusion != "never") {
-          patient_list <- new_patient_list
-        } else {
-          # Take the complement of the patient list
-          patient_list <- patient_list %>%
-            dplyr::filter(!project_id %in% unique(new_patient_list$project_id))
-        }
-
-        # Merge any periods that are contiguous or overlapping
-        if (nrow(patient_list > 0)) {
-          patient_list <- patient_list %>%
-            dplyr::mutate(remove = FALSE) %>%
-            dplyr::group_by(project_id) %>%
-            dplyr::group_modify(merge_contiguous) %>%
-            dplyr::ungroup() %>%
-            dplyr::filter(!remove) %>%
-            dplyr::select(!remove)
-        }
-      }
-
-      # Store the patient list and n values
-      cohort$patient_list[[idx]] <- list(patient_list)
-      cohort$n[[idx]] <- dplyr::n_distinct(patient_list$project_id)
-      cohort$n_periods[[idx]] <- nrow(patient_list)
-    }
-  }
-  return(cohort)
 }
 
 
