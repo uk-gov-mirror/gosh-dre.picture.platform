@@ -13,3 +13,6 @@ med_admins, patient_medication_admins, medication admins," ""patient medication 
 flw_main, patient_selected_flowsheetrows_main, flowsheet values," ""patient main flowsheet values"""
 tli, patient_theatre_list, theatre lists," ""surgical theatre lists"""
 lab_components, patient_lab_components, lab components," ""patient lab components"""
+nlp, patient_nlp_triage, nlp triage," ""patient NLP triage data"""
+ckd, patient_ckd_data, ckd data," ""patient chronic kidney disease stages"""
+pro_responses, patient_procedure_responses, procedure responses," ""patient procedure responses"""
